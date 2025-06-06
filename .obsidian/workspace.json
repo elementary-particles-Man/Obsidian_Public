@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医療、コロナ関係/Gemini作成英語版モジュール（正式）.md",
+                "file": "自己紹介（LLM考察兼）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemini作成英語版モジュール（正式）"
+              "title": "自己紹介（LLM考察兼）"
             }
           }
         ]
@@ -168,12 +168,15 @@
   },
   "active": "06644d1445ca54e8",
   "lastOpenFiles": [
-    "医療、コロナ関係/GPTログ20250607.md",
+    "スパイダーウェブ作戦関連/2.1 ドローン重大性対策(Gemini).md",
+    "医療、コロナ関係/G.md",
     "医療、コロナ関係/Gemini作成英語版モジュール（正式）.md",
-    "医療、コロナ関係/NB.1.8.1パンデミック危機への戦略的対策提言.md",
+    "医療、コロナ関係/America_Failure_Scenarios.md",
+    "医療、コロナ関係/GPTログ20250607.md",
     "医療、コロナ関係/大人版生存モジュール基礎.md",
     "医療、コロナ関係/生存モジュール基礎.txt",
-    "医療、コロナ関係/America_Failure_Scenarios.md",
+    "医療、コロナ関係/NB.1.8.1パンデミック危機への戦略的対策提言.md",
+    "医療、コロナ関係",
     "Obsidian_Public/自己紹介（LLM考察兼）.md",
     "Obsidian_Public/現実改善中庸会/規約作成ーTwitterポストまで.md",
     "Obsidian_Public/現実改善中庸会/現実改善中庸会：規約.md",
@@ -198,11 +201,8 @@
     "Obsidian_Public/大阪万博2025/大阪万博考察.md",
     "Obsidian_Public/大阪万博2025",
     "Obsidian_Public/スパイダーウェブ作戦関連/終結(Grok)考察終了以降、検証(Grok特定問題含む).md",
-    "Obsidian_Public/スパイダーウェブ作戦関連/転換点(Grok) ゼウスの雷光判明以降.md",
-    "Obsidian_Public/スパイダーウェブ作戦関連/ペンタゴン多忙考察.md",
     "Obsidian_Public/スパイダーウェブ作戦関連",
     "Obsidian_Public/【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連",
-    "Obsidian_Public/【重要】AI考察、セキュリティ、バグ/バグ_Grok",
-    "Obsidian_Public/【重要】AI考察、セキュリティ、バグ/ニコニコニュース計画"
+    "Obsidian_Public/【重要】AI考察、セキュリティ、バグ/バグ_Grok"
   ]
 }
