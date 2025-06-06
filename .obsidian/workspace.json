@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "d38a5e9244f4a2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2063a85ca4bf17fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06644d1445ca54e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政治/コメ問題/外米輸入についてのツイッター状況.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "外米輸入についてのツイッター状況"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01fb3af94b2f1a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ea2fada0457274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7f9af0ac37419a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "8e42eda3b60aef9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "0d0a917743bb4f5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a848fc3ef88737c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2afb93f2623882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6efbb7a0efef5a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "fa38e99db192ca31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "30e28241d7f94758",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "427208df58466679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "06644d1445ca54e8",
+  "lastOpenFiles": [
+    "Obsidian_Public/LICENSE",
+    "Obsidian_Public/README.md",
+    "Obsidian_Public",
+    "【重要】AI考察、セキュリティ、バグ/ニコニコニュース計画/ニコニコ公式メンションツイート.md",
+    "政治/コメ問題/外米輸入についてのツイッター状況.md",
+    "【重要】AI考察、セキュリティ、バグ/ニコニコニュース計画/Gemini雑談ログ.md",
+    "政治/コメ問題/日本米価変動包括的調査依頼.md",
+    "【重要】AI考察、セキュリティ、バグ/ニコニコニュース計画",
+    "政治/コメ問題/米価高騰レポート.md",
+    "政治/コメ問題",
+    "【重要】AI考察、セキュリティ、バグ/AIセキュリティ/AIセキュリティ基本設計（GPT-4o）.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Grokバグ評価及び報告（GPT）.md",
+    "【重要】AI考察、セキュリティ、バグ/AIセキュリティ",
+    "【重要】AI考察、セキュリティ、バグ/AIセキュリティ/AIセキュリティ基本設計完了（GPT）.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Gemini_Bug_Report 1.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Gemini_Bug_Report.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Grokの「鏡が割れた」.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Grokバグ分析と改善提言.md",
+    "【重要】AI考察、セキュリティ、バグ/AIセキュリティ/AIセキュリテイ基本設計指針（Gemini版）.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Grokバグ考察（GPT-4o）.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/GPT_Bug_Report.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/GeminiによるGrokのバグまとめ.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok",
+    "無題のファイル.md",
+    "スパイダーウェブ作戦関連/1.始点(Grok) ピザメーターから不審まで.md",
+    "スパイダーウェブ作戦関連/ペンタゴン多忙考察.md",
+    "Grokログ/日本考察/Grok日本考察20250519.md",
+    "Grokログ/日本考察/Grok日本考察20250520.md",
+    "Grokログ/中国考察/Grokウクライナ考察.md",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連/Grokありえない基本バグ.md",
+    "LSC/GPT初回応答：哲学としてのLSC.md",
+    "政治/ザイム真理教多数与党",
+    "【重要】AI考察、セキュリティ、バグ/バグ_Grok/Grokバグ関連",
+    "Grokログ/中国考察",
+    "Grokログ/日本考察",
+    "スパイダーウェブ作戦関連"
+  ]
+}
