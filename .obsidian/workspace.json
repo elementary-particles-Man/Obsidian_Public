@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "政治/大阪万博2025/大阪万博考察.md",
+                "file": "哲学/Gemini_20250608（哲学部分）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大阪万博考察"
+              "title": "Gemini_20250608（哲学部分）"
             }
           }
         ]
@@ -166,8 +166,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "b7f9af0ac37419a9",
+  "active": "3d048db441828cfa",
   "lastOpenFiles": [
+    "医療、コロナ関係/Gemini_20250609.md",
+    "哲学/Gemini_20250608（哲学部分）.md",
+    "哲学",
+    "Secret_data/【超重要】AI on AI/GPTによるアルトマンへの伝達.md",
+    "政治/大阪万博2025/大阪万博考察.md",
     "README.md",
     "Secret_data/【超重要】AI on AI/Gemini_20250608（特級呪物作成）.md",
     "Secret_data/【超重要】AI on AI/ラストエリクサー.md",
@@ -197,12 +202,7 @@
     "Secret_data/〚重要〛Voice on Void/Post Index.md",
     "Secret_data/〚重要〛Voice on Void/Vo Vpost Ui.md",
     "Secret_data/〚重要〛Voice on Void/Vo Vdaemon（サンプルコード）.md",
-    "Secret_data/〚重要〛Voice on Void/Recovery Plan.md",
-    "Secret_data/〚重要〛Voice on Void/Vo V Storage Map.md",
-    "Secret_data/〚重要〛Voice on Void/Reassemblerコード（サンプル）.md",
-    "Secret_data/〚重要〛Voice on Void/Vo V Reassembly Uml.md",
     "Secret_data/〚重要〛Voice on Void",
-    "医療、コロナ関係/生存モジュール基礎.txt",
-    "医療、コロナ関係"
+    "医療、コロナ関係/生存モジュール基礎.txt"
   ]
 }
