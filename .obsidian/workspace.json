@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/GPT_中国調査.md",
+                "file": "AI対話ログ/Grokログ/Grok_log_20250609.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT_中国調査"
+              "title": "Grok_log_20250609"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI対話ログ/Geminiログ/Gemini_log_20250610.md",
+                "file": "AI作成資料/中国危機考察（日本語、English）/【統合】中国崩壊レポート統合版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemini_log_20250610"
+              "title": "【統合】中国崩壊レポート統合版"
             }
           }
         ],
@@ -181,43 +181,43 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "b7f9af0ac37419a9",
+  "active": "40f0f5eefb597060",
   "lastOpenFiles": [
-    "AI作成資料/Gemini_log_20250610.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/Geminiによるシミュレーションと調査結果突合.md",
+    "AI作成資料/中国危機考察（日本語、English）/【統合】中国崩壊レポート統合版.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/Gemini作成中国情報.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/GPT_中国調査.md",
+    "AI作成資料/中国危機考察（日本語、English）/[1st] China_Collapse_Integrated_Report.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/Matching_the_Deliberation_Simulation with_Research_Findings.md",
+    "Doc/Matching_the_Deliberation_Simulation_with_Research_Findings.md",
+    "Doc",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/China_Report_By_Gemini.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/China_Report_By_GPT.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/China_Collapse_Integrated_Report_old.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/Matching the Deliberation Simulation with Research Findings.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/Gemini_log_20250610.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/中国クーデターシミュレーション.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/GPT_log_20250610（中国関連）.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/Geminiによるシミュレーションと調査結果突合.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/Gemini作成中国情報.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/GPT_中国調査.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/China_Collapse_Integrated_Report_old.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/China_Report_By_Gemini.md",
+    "AI作成資料/中国危機考察（日本語、English）",
+    "AI作成資料/新しいフォルダー",
+    "AI作成資料/中国崩壊レポート統合版.md",
+    "AI作成資料/China_Collapse_Integrated_Report.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/Matching the Deliberation Simulation with Research Findings.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/China_Report_By_GPT.md",
+    "AI作成資料/新規 テキスト ドキュメント.txt",
+    "AI対話ログ/Geminiログ/Gemini_log_20250610.md",
+    "AI作成資料/中国危機考察（日本語、English）/個別資料/Gemini_log_20250610.md",
     "AI作成資料/open.url",
     "AI対話ログ/GPTログ/GPT_log_20250610（中国関連）.md",
-    "AI対話ログ/Geminiログ/Gemini_log_20250610.md",
-    "AI作成資料/GPT_log_20250610（中国関連）.md",
-    "AI作成資料/中国クーデターシミュレーション.md",
-    "AI作成資料/Gemini作成中国情報.md",
-    "AI作成資料/GPT_中国調査.md",
     "AI作成資料",
-    "AI対話ログ/Grokログ/Grok_log_20250609.md",
     "AI対話ログ/GPTログ",
-    "AI対話ログ/Grokログ/中国考察/Grok中国考察20250605.md",
-    "AI対話ログ",
-    "哲学/Gemini_20250608（哲学部分）.md",
-    "政治/2024-2025年の日本政局と参院選動向.md",
-    "政治/コメ問題/コメの緊急輸入の意味するもの.md",
-    "政治/ザイム真理教多数与党/Grok分析_2025年6月の日本の経済状況.md",
-    "医療、コロナ関係/Gemini_20250609.md",
-    "哲学",
-    "Secret_data/【超重要】AI on AI/GPTによるアルトマンへの伝達.md",
-    "政治/大阪万博2025/大阪万博考察.md",
-    "README.md",
-    "Secret_data/【超重要】AI on AI/Gemini_20250608（特級呪物作成）.md",
-    "Secret_data/【超重要】AI on AI/ラストエリクサー.md",
-    "Secret_data/【超重要】AI on AI/Gemini20250608.md",
-    "Secret_data/【超重要】AI on AI/GPT20250608.md",
-    "Secret_data/【超重要】AI on AI",
-    "Secret_data/【重要】AI考察、セキュリティ、バグ/世界初のAIの使い方（GPT）.md",
-    "Secret_data",
-    "Private",
-    "新しいフォルダー",
-    "Secret_data/スパイダーウェブ作戦関連/Gemini_log20250608.md",
-    "医療、コロナ関係/反ワクチン論破.md",
-    "LSC/LSC実践＿アメリカ債務救済モジュール.md",
-    "Secret_data/〚重要〛Voice on Void/ネットワークデザイン.md",
-    "Secret_data/〚重要〛Voice on Void/各種イメージ図"
+    "AI対話ログ"
   ]
 }
