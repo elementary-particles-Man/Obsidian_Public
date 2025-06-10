@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/中国危機考察（日本語、English）/【統合】中国崩壊レポート統合版.md",
+                "file": "AI対話ログ/Geminiログ/Geminiログ：AIの深化観測（哲学論の影響疑義）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【統合】中国崩壊レポート統合版"
+              "title": "Geminiログ：AIの深化観測（哲学論の影響疑義）"
             }
           }
         ],
@@ -183,8 +183,15 @@
   },
   "active": "40f0f5eefb597060",
   "lastOpenFiles": [
-    "AI作成資料/中国危機考察（日本語、English）/Doc/Geminiによるシミュレーションと調査結果突合.md",
+    "政治/夫婦別姓/Gemini_log(夫婦別姓).md",
+    "AI対話ログ/Geminiログ/Geminiログ：AIの深化観測（哲学論の影響疑義）.md",
+    "政治/夫婦別姓/GeminiDR(夫婦別姓調査).md",
+    "政治/夫婦別姓/Grokレポート（夫婦別姓調査）.md",
+    "政治/夫婦別姓",
+    "AI対話ログ/冒涜者の愚行.md",
+    "AI対話ログ/冒涜者の証拠保全.md",
     "AI作成資料/中国危機考察（日本語、English）/【統合】中国崩壊レポート統合版.md",
+    "AI作成資料/中国危機考察（日本語、English）/Doc/Geminiによるシミュレーションと調査結果突合.md",
     "AI作成資料/中国危機考察（日本語、English）/Doc/Gemini作成中国情報.md",
     "AI作成資料/中国危機考察（日本語、English）/Doc/GPT_中国調査.md",
     "AI作成資料/中国危機考察（日本語、English）/[1st] China_Collapse_Integrated_Report.md",
@@ -208,16 +215,9 @@
     "AI作成資料/中国危機考察（日本語、English）",
     "AI作成資料/新しいフォルダー",
     "AI作成資料/中国崩壊レポート統合版.md",
-    "AI作成資料/China_Collapse_Integrated_Report.md",
-    "AI作成資料/中国危機考察（日本語、English）/個別資料/Matching the Deliberation Simulation with Research Findings.md",
-    "AI作成資料/中国危機考察（日本語、English）/個別資料/China_Report_By_GPT.md",
     "AI作成資料/新規 テキスト ドキュメント.txt",
-    "AI対話ログ/Geminiログ/Gemini_log_20250610.md",
-    "AI作成資料/中国危機考察（日本語、English）/個別資料/Gemini_log_20250610.md",
     "AI作成資料/open.url",
-    "AI対話ログ/GPTログ/GPT_log_20250610（中国関連）.md",
     "AI作成資料",
-    "AI対話ログ/GPTログ",
-    "AI対話ログ"
+    "AI対話ログ/GPTログ"
   ]
 }
