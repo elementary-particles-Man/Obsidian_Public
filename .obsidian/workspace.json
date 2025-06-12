@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/CA危機/資料⑩：MVGS仕様書（Minimal Viable Global System）.md",
+                "file": "政治/夫婦別姓/GeminiDR：選択的夫婦別姓制度が子供に与える影響に関する専門家の見解調査報告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資料⑩：MVGS仕様書（Minimal Viable Global System）"
+              "title": "GeminiDR：選択的夫婦別姓制度が子供に与える影響に関する専門家の見解調査報告"
             }
           }
         ],
@@ -183,8 +183,15 @@
   },
   "active": "40f0f5eefb597060",
   "lastOpenFiles": [
-    "AI作成資料/CA危機/資料⑦：DR憲章（ドラフト・英文）GPT.md",
+    "政治/夫婦別姓/GeminiDR(夫婦別姓調査).md",
+    "政治/夫婦別姓/GeminiDR：夫婦別姓制度調査依頼プロンプト.md",
+    "政治/夫婦別姓/GeminiDR：選択的夫婦別姓制度が子供に与える影響に関する専門家の見解調査報告.md",
+    "Private/Gemini_log(夫婦別姓).md",
+    "政治/夫婦別姓/Geminiログ：夫婦別姓（完結）.md",
+    "AI対話ログ/Geminiログ/Geminiログ：夫婦別姓（完結）.md",
+    "AI対話ログ/Geminiログ/Gemini_log_20250610.md",
     "AI作成資料/CA危機/資料⑩：MVGS仕様書（Minimal Viable Global System）.md",
+    "AI作成資料/CA危機/資料⑦：DR憲章（ドラフト・英文）GPT.md",
     "AI作成資料/CA危機/資料⑨：VoV統合仕様書（試案）GPT.md",
     "AI作成資料/CA危機/資料⑥：再建・新秩序構想書（GPT）.md",
     "AI作成資料/CA危機/代替拠点の地政学評価マップ表＋地図（Gemini）.md",
@@ -205,13 +212,6 @@
     "AI作成資料/CA危機",
     "AI作成資料/中国危機考察（日本語、English）/ホワイトペーパー：中国における構造的崩壊のシミュレーションと人道的介入フレームワーク.md",
     "AI作成資料/中国危機考察（日本語、English）/【統合】中国崩壊レポート統合版.md",
-    "AI作成資料/中国危機考察（日本語、English）/[1st] China_Collapse_Integrated_Report.md",
-    "Secret_data/スパイダーウェブ作戦関連/初めての返信.md",
-    "政治/核戦争抑止/ツイート内容.md",
-    "政治/核戦争抑止/GPT作成：Operation Lifeline Horn.md",
-    "政治/核戦争抑止/Gemini_Operation Lifeline Horn.md",
-    "政治/核戦争抑止/Geminiログ：核戦争防止.md",
-    "AI対話ログ/GPT記憶登録例.md",
     "政治/核戦争抑止",
     "政治/夫婦別姓",
     "Doc",
