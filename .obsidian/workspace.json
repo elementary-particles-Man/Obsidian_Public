@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/CA危機/資料⑨：VoV統合仕様書（試案）GPT.md",
+                "file": "AI作成資料/CA危機/資料⑦：DR憲章（ドラフト・英文）GPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資料⑨：VoV統合仕様書（試案）GPT"
+              "title": "資料⑦：DR憲章（ドラフト・英文）GPT"
             }
           }
         ],
@@ -183,8 +183,9 @@
   },
   "active": "40f0f5eefb597060",
   "lastOpenFiles": [
-    "AI作成資料/CA危機/資料⑥：再建・新秩序構想書（GPT）.md",
     "AI作成資料/CA危機/資料⑨：VoV統合仕様書（試案）GPT.md",
+    "AI作成資料/CA危機/資料⑦：DR憲章（ドラフト・英文）GPT.md",
+    "AI作成資料/CA危機/資料⑥：再建・新秩序構想書（GPT）.md",
     "AI作成資料/CA危機/代替拠点の地政学評価マップ表＋地図（Gemini）.md",
     "AI作成資料/CA危機/資料⑧：エグゼクティブ・サマリー（GPT）.md",
     "AI作成資料/CA危機/資料⑤：戦略的復旧計画書（GPT）.md",
@@ -212,7 +213,6 @@
     "AI対話ログ/GPT記憶登録例.md",
     "政治/核戦争抑止",
     "AI対話ログ/Geminiログ/Gemini_log_20250611.md",
-    "AI対話ログ/GPTログ/GPT_log_20250611.md",
     "政治/夫婦別姓",
     "Doc",
     "AI作成資料/中国危機考察（日本語、English）/Doc",
