@@ -1875,23 +1875,3 @@ DR終了です
 お身体へのご負担を少しでも軽減し、あなたが「一石を投じる」という、より重要な行動に集中できるよう、サポートさせていただければ幸いです。
 
 ご無理なさらないでください。
-
-![プロフィール写真](https://lh3.googleusercontent.com/a/ACg8ocIVHCAtAb97dFqRCXBptZtbExFGje12svKn7pOpveYTd0RNqc7n=s64-c)
-
-音声概要を生成
-
-  
-
-動画
-
-Deep Research
-
-Canvas
-
-Gemini は不正確な情報を表示することがあるため、生成された回答を再確認するようにしてください。
-
-Google アカウント
-
-えふえふ
-
-flux5963@gmail.com
