@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/CA危機/gd_resilience_framework.yaml.md",
+                "file": "AI作成資料/CA危機/GPTタスクリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gd_resilience_framework.yaml"
+              "title": "GPTタスクリスト"
             }
           }
         ],
@@ -183,13 +183,15 @@
   },
   "active": "40f0f5eefb597060",
   "lastOpenFiles": [
-    "AI作成資料/CA危機/CalDR_LSC_Visuals.html",
-    "AI作成資料/CA危機/caldr_phase_function_matrix.html",
+    "AI作成資料/CA危機/GD-TASK_D.md",
     "AI作成資料/CA危機/GPTタスクリスト.md",
+    "AI作成資料/CA危機/GD-1.md",
     "AI作成資料/CA危機/gd_resilience_framework.yaml.md",
-    "AI作成資料/CA危機/GeminiDF_MasterPlan.md",
     "AI作成資料/CA危機/Cdr Master Plan Gpt.md",
     "AI作成資料/CA危機/CA危機対策マスタープラン (Gemini統括版).md",
+    "AI作成資料/CA危機/CalDR_LSC_Visuals.html",
+    "AI作成資料/CA危機/caldr_phase_function_matrix.html",
+    "AI作成資料/CA危機/GeminiDF_MasterPlan.md",
     "LSC/LSC-Main thread part1.md",
     "AI作成資料/CA危機/International Brief Ca Crisis.md",
     "AI作成資料/CA危機/Universal Disaster Response Template.md",
@@ -210,7 +212,6 @@
     "AI作成資料/CA危機/資料⑩：MVGS仕様書（Minimal Viable Global System）.md",
     "AI作成資料/CA危機/資料⑦：DR憲章（ドラフト・英文）GPT.md",
     "AI作成資料/CA危機/資料⑨：VoV統合仕様書（試案）GPT.md",
-    "AI作成資料/CA危機/資料⑥：再建・新秩序構想書（GPT）.md",
     "AI作成資料/CA危機/資料①：統合DRマクロ図.png",
     "AI作成資料/CA危機/DR_MacroDiagram.png",
     "AI作成資料/CA危機",
@@ -219,7 +220,6 @@
     "Doc",
     "AI作成資料/中国危機考察（日本語、English）/Doc",
     "AI作成資料/中国危機考察（日本語、English）/個別資料",
-    "AI作成資料/中国危機考察（日本語、English）",
-    "AI作成資料/新しいフォルダー"
+    "AI作成資料/中国危機考察（日本語、English）"
   ]
 }
