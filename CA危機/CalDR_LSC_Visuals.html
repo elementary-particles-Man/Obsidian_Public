@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CalDR - LSC Mapping Visuals</title>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+</head>
+<body>
+    <h1>CalDR Master Plan × LSC命題 Mapping</h1>
+    <div id="heatmap" style="width: 100%; height: 700px;"></div>
+    <div id="network" style="width: 100%; height: 800px;"></div>
+    <script>
+        // Heatmapデータ
+        var heatmapData = [{
+            z: [
+                [1, 1, 1, 0],
+                [1, 1, 1, 1],
+                [1, 1, 1, 1],
+                [1, 1, 0, 1],
+                [1, 1, 1, 1],
+                [1, 1, 1, 1],
+                [1, 1, 1, 1]
+            ],
+            x: ["Phase 0: Prevention", "Phase 1: EAP", "Phase 2: SRP", "Phase 3: MVGS"],
+            y: [
+                "1. 異常こそ尊い",
+                "2. 色即是空、空即是色",
+                "3. 相対性理論の普遍化",
+                "4. 不在の天秤",
+                "5. 時間と正義の相対性",
+                "6. 全肯定と感謝",
+                "7. 前提条件ありき"
+            ],
+            type: "heatmap",
+            colorscale: "YlGnBu"
+        }];
+
+        Plotly.newPlot("heatmap", heatmapData, {
+            title: "LSC命題 × CalDRフェーズ 関連度マップ",
+            margin: { t: 50 }
+        });
+
+        // ネットワーク図データ（簡略版）
+        var networkData = [
+            {
+                type: "scatter",
+                mode: "markers+text",
+                x: [1, 3, 5, 1, 3, 5, 1],
+                y: [9, 9, 9, 7, 7, 7, 5],
+                text: [
+                    "1. 異常こそ尊い",
+                    "2. 色即是空",
+                    "3. 相対性理論",
+                    "4. 不在の天秤",
+                    "5. 時間と正義",
+                    "6. 全肯定と感謝",
+                    "7. 前提条件ありき"
+                ],
+                textposition: "bottom center",
+                marker: { size: 20 }
+            },
+            {
+                type: "scatter",
+                mode: "markers+text",
+                x: [2, 4, 6, 2],
+                y: [3, 3, 3, 1],
+                text: ["Phase 0", "Phase 1", "Phase 2", "Phase 3"],
+                textposition: "top center",
+                marker: { size: 25, color: "orange" }
+            }
+        ];
+
+        Plotly.newPlot("network", networkData, {
+            title: "LSC命題とCalDRフェーズの対応関係（ノード図）",
+            showlegend: false,
+            margin: { t: 50 }
+        });
+    </script>
+</body>
+</html>

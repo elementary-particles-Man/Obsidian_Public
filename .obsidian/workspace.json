@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "d38a5e9244f4a2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe2fd34028bd259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d048db441828cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI対話ログ/Grokログ/Grok_log_20250609.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grok_log_20250609"
+            }
+          },
+          {
+            "id": "40f0f5eefb597060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI作成資料/CA危機/【本論】GPTログ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【本論】GPTログ"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01fb3af94b2f1a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ea2fada0457274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7f9af0ac37419a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "8e42eda3b60aef9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "0d0a917743bb4f5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a848fc3ef88737c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2afb93f2623882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6efbb7a0efef5a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "fa38e99db192ca31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "30e28241d7f94758",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "427208df58466679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "b7f9af0ac37419a9",
+  "lastOpenFiles": [
+    "AI対話ログ (1)/Grokログ/日本考察/Grok日本考察20250602.md",
+    "AI対話ログ (1)/Grokログ/日本考察/Grok日本考察20250522.md",
+    "AI対話ログ (1)/Grokログ/日本考察/Grok日本考察20250521.md",
+    "AI対話ログ (1)/Grokログ/日本考察/Grok日本考察20250520.md",
+    "AI対話ログ (1)/Grokログ/日本考察/Grok日本考察20250519.md",
+    "AI対話ログ (1)/Grokログ/日本考察/Grok日本考察20250519-2.md",
+    "AI対話ログ (1)/Grokログ/中国考察/中国考察20250525.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250605.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250531.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250601.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250529.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250528.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250519.md",
+    "AI対話ログ (1)/Grokログ/中国考察/Grok中国考察20250521.md",
+    "AI対話ログ (1)/Grokログ/日本考察",
+    "AI対話ログ (1)/Grokログ/中国考察",
+    "AI対話ログ (1)/Grokログ/Grok_log_20250609.md",
+    "AI対話ログ (1)/Grokログ/Grokウクライナ考察.md",
+    "AI対話ログ (1)/Grokログ",
+    "Secret_data (1)/〚重要〛Voice on Void/各種イメージ図/ネットワーク構成図.md",
+    "Secret_data (1)/〚重要〛Voice on Void/詳細経緯ログ/VoV誕生（GPT）.md",
+    "Secret_data (1)/〚重要〛Voice on Void/ネットワークデザイン.md",
+    "Secret_data (1)/〚重要〛Voice on Void/ネットワークプロトコル構造.md",
+    "Secret_data (1)/〚重要〛Voice on Void/VoV 投稿オブジェクト詳細.md",
+    "Secret_data (1)/〚重要〛Voice on Void/各種イメージ図",
+    "Secret_data (1)/〚重要〛Voice on Void/無題のファイル 1.md",
+    "Secret_data (1)/〚重要〛Voice on Void/詳細経緯ログ",
+    "Secret_data (1)/〚重要〛Voice on Void/ネットワーク構造ドキュメント.md",
+    "Secret_data (1)/〚重要〛Voice on Void/Post Index.md",
+    "Secret_data (1)/〚重要〛Voice on Void/Vo Vdaemon（サンプルコード）.md",
+    "Secret_data (1)/〚重要〛Voice on Void/Vo Vdraft Store.md",
+    "Secret_data (1)/〚重要〛Voice on Void",
+    "AI作成資料 (1)/CA危機/Task-Complete/処理完了タスク",
+    "AI作成資料 (1)/CA危機/Task-Complete/資料①：統合DRマクロ図.png",
+    "AI作成資料 (1)/CA危機/caldr_phase_function_matrix.html",
+    "AI作成資料 (1)/CA危機/CalDR_LSC_Visuals.html",
+    "AI作成資料 (1)/CA危機/Task-Complete",
+    "AI作成資料/CA危機/Task-Complete/資料①：統合DRマクロ図.png",
+    "AI作成資料/CA危機/DR_MacroDiagram.png"
+  ]
+}
