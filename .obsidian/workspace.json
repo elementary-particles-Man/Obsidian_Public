@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/CA危機/International Brief Ca Crisis.md",
+                "file": "AI作成資料/CA危機/gd_resilience_framework.yaml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "International Brief Ca Crisis"
+              "title": "gd_resilience_framework.yaml"
             }
           }
         ],
@@ -183,10 +183,17 @@
   },
   "active": "40f0f5eefb597060",
   "lastOpenFiles": [
-    "AI作成資料/CA危機/Universal Disaster Response Template.md",
+    "AI作成資料/CA危機/CalDR_LSC_Visuals.html",
+    "AI作成資料/CA危機/caldr_phase_function_matrix.html",
+    "AI作成資料/CA危機/GPTタスクリスト.md",
+    "AI作成資料/CA危機/gd_resilience_framework.yaml.md",
+    "AI作成資料/CA危機/GeminiDF_MasterPlan.md",
+    "AI作成資料/CA危機/Cdr Master Plan Gpt.md",
+    "AI作成資料/CA危機/CA危機対策マスタープラン (Gemini統括版).md",
+    "LSC/LSC-Main thread part1.md",
     "AI作成資料/CA危機/International Brief Ca Crisis.md",
+    "AI作成資料/CA危機/Universal Disaster Response Template.md",
     "AI作成資料/CA危機/Mvgs Protocol Draft.md",
-    "AI作成資料/CA危機/無題のファイル.md",
     "AI作成資料/CA危機/Executive Summary Ca Crisis.md",
     "AI作成資料/CA危機/Compound Emergencies Protocol.md",
     "政治/夫婦別姓/【資料】夫婦別姓問題に関する統合報告書.md",
@@ -204,13 +211,7 @@
     "AI作成資料/CA危機/資料⑦：DR憲章（ドラフト・英文）GPT.md",
     "AI作成資料/CA危機/資料⑨：VoV統合仕様書（試案）GPT.md",
     "AI作成資料/CA危機/資料⑥：再建・新秩序構想書（GPT）.md",
-    "AI作成資料/CA危機/代替拠点の地政学評価マップ表＋地図（Gemini）.md",
-    "AI作成資料/CA危機/資料⑧：エグゼクティブ・サマリー（GPT）.md",
-    "AI作成資料/CA危機/資料⑤：戦略的復旧計画書（GPT）.md",
-    "AI作成資料/CA危機/資料④：初期対応プロトコル（GPT）.md",
     "AI作成資料/CA危機/資料①：統合DRマクロ図.png",
-    "AI作成資料/CA危機/資料②：Knowledge Asset Triage Criteria & Classification Framework（Gemini）.md",
-    "AI作成資料/CA危機/資料③：Key Personnel & Tacit Knowledge Succession Plan（Gemini）.md",
     "AI作成資料/CA危機/DR_MacroDiagram.png",
     "AI作成資料/CA危機",
     "政治/核戦争抑止",
@@ -219,7 +220,6 @@
     "AI作成資料/中国危機考察（日本語、English）/Doc",
     "AI作成資料/中国危機考察（日本語、English）/個別資料",
     "AI作成資料/中国危機考察（日本語、English）",
-    "AI作成資料/新しいフォルダー",
-    "AI作成資料/新規 テキスト ドキュメント.txt"
+    "AI作成資料/新しいフォルダー"
   ]
 }
