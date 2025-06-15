@@ -12,11 +12,60 @@
 
 この構想では、Microsoftの「Copilot」のような対話型AIと、医療診断支援AI「YUBI」のような専門知識を持つAIを連携させます。利用者は、いつでも、どんな内容でもAIに話しかけることができます。AIはただ話を聞くだけでなく、対話の中から精神的な健康状態を示す指標（PHQ-9やGAD-7スコアなど）をリアルタイムで分析・察知します。これにより、本人が自覚する前、あるいは助けを求める気力を失う前に、危機を予防的に把握することが可能になります。重要なのは、「いつでも必ず応答がある」という絶対的な安心感です。この常時接続性が、孤立という闇に差し込む一筋の光となります。
 
+```
+graph TD
+    A[利用者<br>(スマートフォン/PC)] --> B{チャットUI<br>(Copilot + YUBI統合)};
+    B --> C[AIコア<br>(対話分析/感情・リスクスコアリング)];
+    C --> D{緊急度判定<br>(PHQ-9/GAD-7スコア等)};
+    D -- 閾値超過 --> E[緊急介入システム<br>(専門家/119/自治体連携)];
+    D -- 正常範囲 --> F[対話継続による<br>見守り・傾聴];
+```
+
 ## 第3章：AI-TCPが支える「通信の命脈」
 
 このシステムを実現するためには、AI同士が高度に連携するための新しい通信規格が必要です。それが「AI-TCP（Autonomous Intelligence Transmission Control Protocol）」です。従来のインターネットプロトコルは、あくまでデータを正確に伝達することが目的でした。しかしAI-TCPは、AI間の「思考の文脈」そのものを伝達することを目指します。
 
 AI-TCPの中核には、「Reasoning Chain（推論の連鎖）」と「暗号化AI-ID」という概念があります。これは、あるAIがなぜその結論に至ったのかという思考プロセスを、改ざん不可能な形で記録・伝達する仕組みです。これにより、AIの判断に透明性と説明責任が生まれます。例えば、メンタルケアAIが「この利用者には緊急介入が必要」と判断した場合、その根拠となった対話ログや感情スコアの推移が、個人情報を保護しつつ、連携する他のAI（例えば、緊急通報システムのAI）に正確に伝わります。これは単なるデータ通信ではなく、AI同士が「責任」と「信頼」を共有し、命を守るための連携を実現する「通信の命脈」なのです。
+
+```
+sequenceDiagram
+    participant AI_A as メンタルケアAI
+    participant AI_B as 緊急介入AI
+    AI_A->>AI_B: AI-TCPパケット送信
+    Note right of AI_A: 緊急介入が必要と判断
+    Note left of AI_B: パケット受信・検証
+    par
+        AI_B->>AI_B: ヘッダ検証 (AI-ID, 署名)
+        AI_B->>AI_B: ペイロード解釈 (推論の連鎖)
+    end
+    AI_B-->>AI_A: 受信確認 (ACK)
+    AI_B->>Human: 専門家へ状況通知
+```
+
+**AI-TCP 通信構造の概要例 (YAML形式)**
+
+```
+# AI-TCPヘッダ構成の概念例
+header:
+  protocol_version: "1.0"
+  # 送信元と宛先のAIを固有IDで識別
+  ai_id_from: "urn:ai-tcp:mental-care-agent-001"
+  ai_id_to: "urn:ai-tcp:emergency-router-001"
+  timestamp: "2025-06-16T10:30:00Z"
+  # 通信の信頼性を担保する署名
+  signature: "..."
+payload:
+  # 伝達する情報の種類
+  type: "mental_state_alert"
+  # なぜこの結論に至ったかの思考プロセスのハッシュ値
+  reasoning_chain_hash: "..."
+  # 具体的な伝達内容
+  content:
+    phq9_score: 18
+    gad7_score: 15
+    summary: "対話ログから強い抑うつと不安の兆候を検出"
+    context_ref: "log-id-xyz"
+```
 
 ## 第4章：誰のための技術か
 
@@ -35,3 +84,30 @@ AI-TCPとそれに基づくDirect Mental Care Systemは、特定の人々だけ�
 AI-TCPは、特定の企業や国家が独占する技術であってはなりません。それは、誰もが自由に利用でき、誰にも利用を強制しない、公共財としてのプロトコルです。その理念を実現するためには、行政だけでなく、地域のNPOや市民団体、そして志を同じくする世界中の開発者との連携が不可欠となります。
 
 この資料で描いたのは、AIというテクノロジーがもたらす可能性のほんの一端に過ぎません。しかし、その根底にあるのは、「誰一人として見捨てない」というシンプルな願いです。AI-TCPという一本の糸が、社会に張り巡らされ、孤立した点と点を結びつけることで、命がつながり続ける未来を創造できると、私たちは信じています。そのための対話と構築を、今日この瞬間から始めたいと思います。
+
+## 用語解説と参考文献
+
+### 用語解説
+
+- **Reasoning Chain (推論の連鎖)**
+    
+    - AIが特定の結論や判断に至るまでの、論理的な思考プロセスや参照したデータ系列のこと。AI-TCPでは、このプロセスを記録・共有することで、AIの判断の透明性と信頼性を担保します。
+        
+- **PHQ-9 (Patient Health Questionnaire-9)**
+    
+    - うつ病の重症度を評価するための、国際的に広く利用されている9項目の質問票。自己記入式で、過去2週間の症状について回答します。
+        
+- **GAD-7 (Generalized Anxiety Disorder 7-item scale)**
+    
+    - 全般性不安障害のスクリーニングおよび重症度評価に用いられる7項目の質問票。PHQ-9と同様に、簡便で信頼性が高い評価ツールです。
+        
+
+### 参考文献・リンク
+
+- **Microsoft Copilot**: [https://copilot.microsoft.com/](https://copilot.microsoft.com/ "null")
+    
+- **医療診断支援AI「ユビー（YUBI）」**: [https://ubie.app/](https://ubie.app/ "null")
+    
+- **GPT (Generative Pre-trained Transformer)**: [https://openai.com/](https://openai.com/ "null")
+    
+- **Google Gemini**: [https://gemini.google.com/](https://gemini.google.com/ "null")
