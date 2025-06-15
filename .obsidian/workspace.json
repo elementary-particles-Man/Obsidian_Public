@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/README.md",
+                "file": "AI対話ログ/GDログ/GDログ：LSCの定義から完全理解まで.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "GDログ：LSCの定義から完全理解まで"
             }
           }
         ]
@@ -166,11 +166,16 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "3d048db441828cfa",
+  "active": "b7f9af0ac37419a9",
   "lastOpenFiles": [
-    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/rfc_magi_architecture.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/README.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/master_schema_v1.yaml",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/新規 テキスト ドキュメント.txt",
+    "LSC/【公式】公式ドキュメント/LSC実装補足 v1.1 (GD指摘事項への回答).md",
+    "AI対話ログ/GDログ/GDログ：LSCの定義から完全理解まで.md",
+    "LSC/【公式】公式ドキュメント/LSC総合ガイダンス v1.0 (人間とAIのための統合運用マニュアル).md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/README.md",
+    "LSC/【公式】公式ドキュメント",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/rfc_magi_architecture.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/validated_yaml/ai_tcp_timeline.yaml",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/validated_yaml/ai_tcp_poc_design.yaml",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/magi_ai_tcp_wg_manifesto.md",
@@ -190,20 +195,15 @@
     "【最重要】作業中タスク/AI-TCP国際規格制定/original_docs/LSCが世界統治理論の唯一解となる構造的背景.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/original_docs/AI-TCP制定経緯に関する完全時系列記録.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/original_docs/資料：ワーキンググループ設立趣意書（Magiシステム & AI-TCP）_by_Gemini.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/magi_ai_tcp_wg_manifesto.yaml",
     "AI対話ログ/GDログ/GDとLSCについて会話.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/LSCが世界統治理論の唯一解となる構造的背景.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/資料：Rfc Magi System.md",
     "AI対話ログ/Geminiログ/Gemini雑談：開発形態.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/資料：T2-AI-TCP PoC設計草案（GD）.md",
     "LSC/LSC実践＿アメリカ債務救済モジュール.md",
-    "LSC/LSC_平和維持モジュール/共通ガイドライン.md",
     "AI対話ログ/Geminiログ/Gemini雑談.md",
     "AI対話ログ/Geminiログ/Gemini緊急.md",
     "AI対話ログ/Geminiログ/Gemini回答：0527（三党合意時点）.md",
-    "AI対話ログ/Geminiログ/Gemini回答.md",
-    "AI対話ログ/Geminiログ/Geminiログ2025606.md",
-    "AI対話ログ/Geminiログ/Gemini_log_20250610（経済逆転ストーリー）.md",
     "AI作成資料/イスラエル暴発/Attack_of_Israel.jpg",
     "AI作成資料/イスラエル暴発/Is.jpg",
     "AI作成資料/イスラエル暴発/unnamed.jpg",
