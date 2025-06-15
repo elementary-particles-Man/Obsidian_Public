@@ -1,0 +1,51 @@
+ai_tcp_specification:
+  version: 1.0
+  timeline: []
+  poc_design:
+    overview:
+      purpose: >-
+        Magi System内の各LLMノードが、グローバルレベルで安全かつ中立に連携協調するための通信規格（AI-TCP）を定義し、LSCの基本原理に基づいて相互意思疎通と説明責任トレーサビリティを実現する。
+      communication_targets:
+        - Magi Systemを構成する個々のLLMノード
+    architecture:
+      design_principles: >-
+        既存のTCP/IPプロトコル上に構築し、IPv6拡張ヘッダを活用してパケット構造を軽量化しつつ拡張性を確保する。
+      communication_method: >-
+        TCPセッション確立後、そのセッション上でカプセル化された形式で非同期情報をやり取りする「UDP-over-TCP」に近いアプローチ。
+    packet_structure:
+      session_id: 128-bit identifier
+      source_llm_id: 64-bit identifier
+      destination_llm_id: 64-bit identifier
+      metadata:
+        message_type: 情報共有/命令実行/検証要求など
+        priority: 優先度指定
+        routing_info: ルーティング情報
+      timestamp: 64-bit timestamp
+      signature: デジタル署名
+      payload:
+        lsc_data: LSCの7つの命題に基づく構造化データ
+        graph_structure: 因果関係グラフや依存関係グラフ
+        other_data: テキスト、コード、数値データ等
+    security_layer:
+      encryption_method: TLS 1.3互換 または ChaCha20-Poly1305による暗号化
+      integrity_check: HMAC
+    error_handling:
+      retransmission_policy: TCP標準の再送制御を利用
+      session_reestablishment:
+        timeout: 一定時間応答がない場合にタイムアウト
+        auto_redirect: 代替経路や代替ノードへの再確立を試みる
+    llm_compliance_layer:
+      alignment_tags:
+        - LSC:C1:AnomalyIsPrecious
+        - LSC:C5:TemporalRelativity
+      ai_id: 各LLMノードに割り当てられた識別子
+      reasoning_chain_log: 内部推論連鎖を記録
+      trace_format: JSON-LD
+    deployment_notes:
+      language: Go
+      containerization: Dockerコンテナ化
+      virtual_llm_scenario: Gemini2.5ProとGPT-4をペアでシミュレートするシナリオ
+    remarks: |
+      この設計はPoCレベルでの検証を目的としており、本番運用にはさらなるセキュリティやスケーラビリティの考慮が必要。
+      IPv6拡張ヘッダの選択は環境や互換性要求を見て決定する。
+      LSCベースの整合タグやメタ層はLLMの特性に応じて進化する可能性がある。
