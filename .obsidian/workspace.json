@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【最重要】作業中タスク/AI-TCP国際規格制定/資料：T2-AI-TCP PoC設計草案（GD）.md",
+                "file": "AI対話ログ/Geminiログ/Gemini雑談：開発形態.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資料：T2-AI-TCP PoC設計草案（GD）"
+              "title": "Gemini雑談：開発形態"
             }
           }
         ]
@@ -168,8 +168,10 @@
   },
   "active": "3d048db441828cfa",
   "lastOpenFiles": [
-    "LSC/LSC実践＿アメリカ債務救済モジュール.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/資料：AI-TCP Protocol Technical Draft (v0.1).md",
+    "AI対話ログ/Geminiログ/Gemini雑談：開発形態.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/資料：T2-AI-TCP PoC設計草案（GD）.md",
+    "LSC/LSC実践＿アメリカ債務救済モジュール.md",
     "AI対話ログ/GDログ/GDとLSCについて会話.md",
     "LSC/LSC_平和維持モジュール/共通ガイドライン.md",
     "AI対話ログ/GDログ",
@@ -198,8 +200,6 @@
     "AI作成資料/イスラエル暴発/Attack_of_Israel.jpg",
     "AI作成資料/イスラエル暴発/Is.jpg",
     "AI作成資料/イスラエル暴発/unnamed.jpg",
-    "AI作成資料/イスラエル暴発/GPTログ：LSCによる世界リビルド.md",
-    "AI対話ログ/Copilotログ/CP：AI検索支援システム.md",
     "AI作成資料/イスラエル暴発",
     "AI対話ログ/Copilotログ",
     "Private",
