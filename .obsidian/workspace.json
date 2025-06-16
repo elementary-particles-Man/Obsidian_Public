@@ -163,13 +163,15 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "3d048db441828cfa",
   "lastOpenFiles": [
-    "【最重要】作業中タスク/AI-TCP国際規格制定/資料：AI-TCP Protocol Technical Draft (v0.1).md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCP制定経緯の時系列記録.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCPが描く、分散知性時代の命綱.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/資料：AI-TCP Protocol Technical Draft (v0.1).md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/Geminiに渡すべき前提ログ要約（日本語）.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/ナラティブな説明書：構成案（章立て）.md",
     "Secret_data/【超重要】AI on AI/GPTログ：マギシステム関連.md",
@@ -185,7 +187,6 @@
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/validated_yaml/ai_tcp_poc_design.yaml",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/magi_ai_tcp_wg_manifesto.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/lsc_theoretical_basis.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCP制定経緯の時系列記録.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/【時系列】制定経緯（時系列、GPT＆Gemini）.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/magi_ai_tcp_wg_manifesto.yaml",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/docs/lsc_theoretical_basis.yaml",
