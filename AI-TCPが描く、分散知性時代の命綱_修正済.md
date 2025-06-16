@@ -12,18 +12,13 @@
 
 この構想では、Microsoftの「Copilot」のような対話型AIと、医療診断支援AI「YUBI」のような専門知識を持つAIを連携させます。利用者は、いつでも、どんな内容でもAIに話しかけることができます。AIはただ話を聞くだけでなく、対話の中から精神的な健康状態を示す指標（PHQ-9やGAD-7スコアなど）をリアルタイムで分析・察知します。これにより、本人が自覚する前、あるいは助けを求める気力を失う前に、危機を予防的に把握することが可能になります。重要なのは、「いつでも必ず応答がある」という絶対的な安心感です。この常時接続性が、孤立という闇に差し込む一筋の光となります。
 
-```mermaid
-flowchart TD
-
-    A[User Interface<br>Smartphone or PC] --> B[Chat UI<br>Copilot + YUBI Integration]
-
-    B --> C[AI Core<br>Conversational Analysis / Risk Scoring]
-
-    C --> D[Emergency Assessment<br>PHQ-9 / GAD-7]
-
-    D -- 閾値超過 --> E[Emergency Response<br>Expert / 119 / Municipality]
-
-    D -- 正常範囲 --> F[Ongoing Dialogue<br>Monitoring / Listening]
+```
+graph TD
+    A[利用者\n(スマートフォン/PC)] --> B{チャットUI\n(Copilot + YUBI統合)};
+    B --> C[AIコア\n(対話分析/感情・リスクスコアリング)];
+    C --> D{緊急度判定\n(PHQ-9/GAD-7スコア等)};
+    D -- 閾値超過 --> E[緊急介入システム\n(専門家/119/自治体連携)];
+    D -- 正常範囲 --> F[対話継続による\n見守り・傾聴];
 ```
 
 _図1: Direct Mental Care Systemの概念図_
@@ -34,7 +29,7 @@ _図1: Direct Mental Care Systemの概念図_
 
 AI-TCPの中核には、「Reasoning Chain（推論の連鎖）」と「暗号化AI-ID」という概念があります。これは、あるAIがなぜその結論に至ったのかという思考プロセスを、改ざん不可能な形で記録・伝達する仕組みです。これにより、AIの判断に透明性と説明責任が生まれます。例えば、メンタルケアAIが「この利用者には緊急介入が必要」と判断した場合、その根拠となった対話ログや感情スコアの推移が、個人情報を保護しつつ、連携する他のAI（例えば、緊急通報システムのAI）に正確に伝わります。これは単なるデータ通信ではなく、AI同士が「責任」と「信頼」を共有し、命を守るための連携を実現する「通信の命脈」なのです。
 
-```mermaid
+```
 sequenceDiagram
     participant AI_A as メンタルケアAI
     participant AI_B as 緊急介入AI
@@ -53,7 +48,7 @@ _図2: AI-TCPによるAI間連携のシーケンス_
 
 **AI-TCP 通信構造の概要例 (YAML形式)**
 
-```yaml
+```
 # AI-TCPヘッダ構成の概念例
 header:
   protocol_version: "1.0"

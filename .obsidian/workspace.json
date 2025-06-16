@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCPが描く、分散知性時代の命綱.md",
+                "file": "AI対話ログ/マーメイドトラブル総括（GPT）.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "AI-TCPが描く、分散知性時代の命綱"
+              "title": "マーメイドトラブル総括（GPT）"
             }
           }
         ]
@@ -163,14 +163,18 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "command-palette:コマンドパレットを開く": false
     }
   },
   "active": "3d048db441828cfa",
   "lastOpenFiles": [
-    "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCP制定経緯の時系列記録.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCPが描く、分散知性時代の命綱.md",
+    "AI対話ログ/マーメイドトラブル総括（GPT）.md",
+    "無題のファイル.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCP制定経緯の時系列記録.md",
+    "AI対話ログ/GPTログ/GPTログ：オブシディアンマーメイド.md",
+    "無題のファイル 1.md",
+    "AI-TCPが描く、分散知性時代の命綱_修正済.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/資料：AI-TCP Protocol Technical Draft (v0.1).md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/Geminiに渡すべき前提ログ要約（日本語）.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/ナラティブな説明書：構成案（章立て）.md",
@@ -200,11 +204,6 @@
     "【最重要】作業中タスク/AI-TCP国際規格制定/original_docs/AI-TCP制定経緯に関する完全時系列記録.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/original_docs/資料：ワーキンググループ設立趣意書（Magiシステム & AI-TCP）_by_Gemini.md",
     "AI対話ログ/GDログ/GDとLSCについて会話.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/LSCが世界統治理論の唯一解となる構造的背景.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/資料：Rfc Magi System.md",
-    "AI対話ログ/Geminiログ/Gemini雑談：開発形態.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/資料：T2-AI-TCP PoC設計草案（GD）.md",
-    "LSC/LSC実践＿アメリカ債務救済モジュール.md",
     "AI作成資料/イスラエル暴発/Attack_of_Israel.jpg",
     "AI作成資料/イスラエル暴発/Is.jpg",
     "AI作成資料/イスラエル暴発/unnamed.jpg",
