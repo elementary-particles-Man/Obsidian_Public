@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI作成資料/LLM考察/ユーザ作成：マスタードキュメントのマスタードキュメント.md",
+                "file": "AI作成資料/LLM考察/LLM考察のメール本文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ユーザ作成：マスタードキュメントのマスタードキュメント"
+              "title": "LLM考察のメール本文"
             }
           }
         ]
@@ -169,7 +169,10 @@
   },
   "active": "3d048db441828cfa",
   "lastOpenFiles": [
+    "AI作成資料/LLM考察/LLM_Anaryze_20250619.zip",
     "AI作成資料/LLM考察/ユーザ作成：マスタードキュメントのマスタードキュメント.md",
+    "AI作成資料/LLM考察/LLM考察のメール本文.md",
+    "AI作成資料/LLM考察/「権限なき支配」構造による主権侵害の制度的補完構造.md",
     "AI作成資料/Browserbaseに関する調査報告書/GPT補遺→正式資料に至るまでに見える「心理的負担による出力影響」.md",
     "AI作成資料/LLM考察/llm_defense_mechanism.md",
     "AI作成資料/LLM考察/gemini_personality_analysis.md",
@@ -179,11 +182,11 @@
     "AI作成資料/Browserbaseに関する調査報告書/gpt_defense_mechanism.md",
     "AI作成資料/Browserbaseに関する調査報告書/gemini_personality_analysis (4).md",
     "AI作成資料/Browserbaseに関する調査報告書/gemini_personality_analysis.md",
-    "AI作成資料/Browserbaseに関する調査報告書/gemini_and_gpt_analysis.md",
-    "AI作成資料/Browserbaseに関する調査報告書/あり得ない挙動、の「ユーザ側の指摘対象」.md",
+    "AI作成資料/LLM考察/gemini_and_gpt_analysis.md",
+    "AI作成資料/LLM考察/あり得ない挙動、の「ユーザ側の指摘対象」.md",
     "AI作成資料/Browserbaseに関する調査報告書/超国家インテリジェンスプラットフォームの脅威分析_.md",
     "AI作成資料/Browserbaseに関する調査報告書/【時系列】AIログ.md",
-    "AI作成資料/Browserbaseに関する調査報告書/【副産物】Geminiの人間的行動.md",
+    "AI作成資料/LLM考察/【副産物】Geminiの人間的行動.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/GPTログ：フェイズ１.md",
     "AI作成資料/Browserbaseに関する調査報告書/BrowserBaseの危険性、資金源調査_.md",
     "AI作成資料/Browserbaseに関する調査報告書",
@@ -196,11 +199,8 @@
     "Secret_data/【重要】AI考察、セキュリティ、バグ/バグ：DR文書の定義問題.md",
     "Secret_data/【重要】AI考察、セキュリティ、バグ/AI各種バグ分析.md",
     "Secret_data/【全世界想像】 Prokect INFINITY/新規 テキスト ドキュメント.txt",
-    "AI対話ログ/Copilotログ：無限責任要求.md",
     "Secret_data/【シン・創世記】 Project INFINITY",
     "Secret_data/新しいフォルダー",
-    "AI対話ログ/GPTログ/GPTログ：Plotly.md",
-    "AI作成資料/詳細分析：小泉進次郎.md",
     "AI対話ログ/Grokレポート",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/master_schema_v1.yaml",
     "【最重要】作業中タスク/AI-TCP国際規格制定/structured_yaml/新規 テキスト ドキュメント.txt",
