@@ -1,5 +1,45 @@
 # **Analysis of Saudi Arabian and UAE Strategic Dynamics Post-June 2025**
 
+# Executive Summary
+
+In the aftermath of the Israeli strike on Iranian nuclear facilities on June 13, 2025, this document analyzes the strategic recalibrations of Saudi Arabia and the UAE. It considers religious tensions, regional alliances, economic stability, and implications for foreign nationals. AI-generated scenario modeling and strategic forecasts have also been incorporated.
+
+
+## Visual Aids
+
+**Figure 1: Regional Geopolitical Map (Post-Strike Alignments)**  
+```mermaid
+graph TB
+    US[United States]
+    Israel --> US
+    India --> US
+    UAE --> US
+    KSA[Saudi Arabia] --> US
+    Iran -->|Conflict| Israel
+    Iran -->|Tension| KSA
+    Iran -->|Tension| UAE
+    Pakistan --> Iran
+    Pakistan -->|Tension| India
+    Palestine -->|Support| Iran
+    Palestine -->|Support| KSA
+    Palestine -->|Support| UAE
+    NATO -.-> US
+```
+**Figure 2: Strategic Events Timeline**  
+```mermaid
+timeline
+    title Strategic Timeline - June 2025
+    2025-06-13 : Israeli strike on Iranian nuclear site
+    2025-06-14 : Global condemnation & protests
+    2025-06-15 : Fragile ceasefire announced
+    2025-06-16 : AI-led crisis analysis initiated
+    2025-06-23 : Ceasefire collapse, mutual accusations
+    2025-06-24 : Israeli renewed strike order
+```
+```
+```
+
+
 **Background:** In the aftermath of the Israeli strike on Iranian nuclear facilities on June 13, 2025 (the so-called "12-Day War"), Saudi Arabia and the UAE have been forced into a delicate balancing act between managing backlash from the Islamic world and maintaining cooperation with the United States and Israel. This analysis outlines their recent responses from three perspectives: religious, economic, and diplomatic.
 
 ## **1. Religious Perspective: Islamic World's Reaction and the Gulf States' Response**
@@ -27,3 +67,22 @@
 - **No Pivot to Iran or Anti-U.S. Blocs:** Neither country has shown any indication of moving closer to Iran or anti-U.S. actors like Hezbollah. Despite restoring diplomatic ties with Iran in 2023, the Saudi Foreign Minister noted that the relationship, while positive, "remains difficult." The pragmatic benefits derived from military and intelligence cooperation with the U.S.—including access to advanced weaponry and defense pacts—are considered far more valuable than pursuing ideological "legitimacy" at the cost of these strategic assets.
     
 - **The Equilibrium Point:** Ultimately, for both Saudi Arabia and the UAE, the strategic economic benefits of acquiring AI technology outweigh the domestic religious backlash from maintaining a tacit relationship with Israel. Both governments continue to publicly call for ceasefires and diplomatic efforts while simultaneously advancing their economic and security agreements. Therefore, their strategy is not a binary choice between "accepting religious humiliation to gain technology and security" and "choosing Islamic-Arab legitimacy by severing ties." Rather, it is a sophisticated dual-track strategy to manage both. For instance, when the U.S. brokered a ceasefire on June 23, leaders from both nations publicly expressed sympathy for the victims (while remaining cautious about defending Israel) but in practice welcomed the de-escalation and focused on preventing further conflict.
+
+## Appendix
+
+## Appendix
+
+### Table 1: AI-Assisted Forecasting Variables
+
+| Variable                  | Description                                    |
+|---------------------------|------------------------------------------------|
+| DR Index                 | Disaster Readiness Index                       |
+| Religious Pressure Index | Social cohesion risk due to sectarianism      |
+| Strategic Commitment Score | Foreign alignment consistency                |
+
+### Table 2: Arms Import Data (2020–2025)
+
+| Country       | Source | Estimated Imports (USD) |
+|---------------|--------|--------------------------|
+| Saudi Arabia  | USA    | $14.3B                   |
+| UAE           | France | $6.7B                    |
