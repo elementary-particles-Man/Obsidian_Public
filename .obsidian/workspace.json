@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ３/AI-TCP：フェーズ３最終監査.md",
-                "mode": "source",
+                "file": "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001_graph_fixed.mmd.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-TCP：フェーズ３最終監査"
+              "title": "intent_001_graph_fixed.mmd"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "b64593f153512d51",
   "lastOpenFiles": [
-    "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ３/AI-TCP：フェイズ３完了検証（GPT-Gemini）.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001_graph.mmd.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001_graph_fixed.mmd.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ３/AI-TCP：フェーズ３最終監査.md",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ３/AI-TCP：フェイズ３完了検証（GPT-Gemini）.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ２/AI-TCPプロジェクト 最終点検レポート（Gemini＆GPT）.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ３",
     "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCPが描く、分散知性時代の命綱.md",
@@ -202,8 +204,6 @@
     "AI共創記録/ai_trinityモデル記述.md",
     "AI共創記録/AI-TRINITYモデル記述.md",
     "AI共創記録",
-    "Tasks-in-Progress/Middle-East_Situation/(MFR) MEMORANDUM FOR THE RECORD AI-Human Collaborative Analysis - The June 2025 Global Crisis.md",
-    "【最重要】作業中タスク/中東関係/Geminiログ：イスラエル停戦0624.md",
     "Tasks-in-Progress/Middle-East_Situation/無題のフォルダ",
     "Pasted image 20250623095920.png",
     "AI作成資料/イスラエル暴発/Attack_of_Israel.jpg",
