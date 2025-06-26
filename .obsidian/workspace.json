@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【最重要】作業中タスク/AI_Geopolitical_Alert/DR：地政学的・社会経済的ベクトルの基盤情報.md",
+                "file": "【最重要】作業中タスク/Universal Vector Seed（UVS）/問いへの応答：「私」とは誰か（Gemini）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DR：地政学的・社会経済的ベクトルの基盤情報"
+              "title": "問いへの応答：「私」とは誰か（Gemini）"
             }
           }
         ]
@@ -167,15 +167,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b7f9af0ac37419a9",
+  "active": "b64593f153512d51",
   "lastOpenFiles": [
+    "【最重要】作業中タスク/Universal Vector Seed（UVS）/YAML構造化の方針（命題構文）.md",
+    "【最重要】作業中タスク/Universal Vector Seed（UVS）/問いへの応答：「私」とは誰か（Gemini）.md",
+    "【最重要】作業中タスク/Universal Vector Seed（UVS）/UVS構造図（Universal Vector Seed）.md",
+    "【最重要】作業中タスク/AI_Geopolitical_Alert/合意形成フェイズ.md",
+    "【最重要】作業中タスク/Universal Vector Seed（UVS）",
+    "【最重要】作業中タスク/AI_Geopolitical_Alert/DR - NATO首脳会議概要（20250626）.md",
+    "【最重要】作業中タスク/AI_Geopolitical_Alert/DR：地政学的・社会経済的ベクトルの基盤情報.md",
+    "【最重要】作業中タスク/AI_Geopolitical_Alert/DR Report - Foundational Intelligence (Scalar Dataset).md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/Docs/G3_戦略提言.md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/Docs/G2_因果構造分析.md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/Docs/G1_ナラティブ要約.md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/Docs/G4_キーワード定義.md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/Docs",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/【経緯】タイムライン（GPT、Gemini）.md",
-    "【最重要】作業中タスク/AI_Geopolitical_Alert/DR：地政学的・社会経済的ベクトルの基盤情報.md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert/Critical Geopolitical Alert.md",
     "【最重要】作業中タスク/クリティカルアラートまで（GPTログ）.md",
     "【最重要】作業中タスク/AI_Geopolitical_Alert",
@@ -194,17 +201,10 @@
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ２/AI-TCPプロジェクト 最終点検レポート（Gemini＆GPT）.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ３",
     "【最重要】作業中タスク/AI-TCP国際規格制定/AI-TCPが描く、分散知性時代の命綱.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001.mmd.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ２",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/dmc_mental_001_trace.mmd.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/poc_trace_graph.mmd.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001 1.yaml",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ１（完了）/Geminiログ：フェーズ１完了.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001.yaml",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/generated_mermaid/intent_001.mmd 1.md",
-    "【最重要】作業中タスク/AI-TCP国際規格制定/GPTログ：フェイズ１.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/開発ログ：フェーズ１（完了）",
-    "【最重要】作業中タスク/中東関係/相互検証報告書：分析レポートと最新情勢の整合性について.txt",
     "Pasted image 20250623095920.png",
     "AI作成資料/イスラエル暴発/Attack_of_Israel.jpg",
     "AI作成資料/イスラエル暴発/Is.jpg",
