@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【最重要】作業中タスク/AI-TCP国際規格制定/進捗サマリー/進捗サマリー 20250629.md",
+                "file": "【最重要】作業中タスク/AI-TCP_KAIRO/【時系列】KAIRO開発経緯の整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "進捗サマリー 20250629"
+              "title": "【時系列】KAIRO開発経緯の整理"
             }
           }
         ]
@@ -167,10 +167,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b7f9af0ac37419a9",
+  "active": "b64593f153512d51",
   "lastOpenFiles": [
-    "【最重要】作業中タスク/AI-TCP国際規格制定/継承資料20250629.md",
+    "【最重要】作業中タスク/AI-TCP_KAIRO/KAIRO開発進捗.md",
+    "【最重要】作業中タスク/AI-TCP_KAIRO/【時系列】KAIRO開発経緯の整理.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/進捗サマリー/進捗サマリー 20250629.md",
+    "【最重要】作業中タスク/AI-TCP_KAIRO",
+    "【最重要】作業中タスク/AI-TCP国際規格制定/継承資料20250629.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/進捗サマリー",
     "【最重要】作業中タスク/AI-TCP国際規格制定/CLI開発の苦難/GPT20250629.md",
     "【最重要】作業中タスク/AI-TCP国際規格制定/GGG/AI-TCP特化AIカーネル設計書 Ver. 1.0.md",
@@ -197,14 +200,11 @@
     "【最重要】作業中タスク/フェンタニル問題/NATO首脳会議（2025年・ハーグ）最新情報サマリー.md",
     "【最重要】作業中タスク/フェンタニル問題/フェンタニル脅威に対する国家危機管理戦略.md",
     "AI対話ログ/Geminiログ/Flash君こわい.md",
-    "AI対話ログ/Copilotログ/CP：AI検索支援システム.md",
-    "【最重要】作業中タスク/フェンタニル問題/フェンタニル密輸問題点詳細調査.md",
     "【最重要】作業中タスク/フェンタニル問題/無題のフォルダ",
     "【最重要】作業中タスク/フェンタニル問題",
     "【最重要】作業中タスク/Universal Vector Seed（UVS）/Runner",
     "【最重要】作業中タスク/Universal Vector Seed（UVS）/Universal Glossary Ver. 1.0",
     "【最重要】作業中タスク/Universal Vector Seed（UVS）",
-    "【最重要】作業中タスク/AI_Geopolitical_Alert/Docs",
     "Pasted image 20250623095920.png",
     "AI作成資料/イスラエル暴発/Attack_of_Israel.jpg",
     "AI作成資料/イスラエル暴発/Is.jpg",
