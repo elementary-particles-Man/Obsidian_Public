@@ -1,59 +1,31 @@
 Private/
 Secret_data/
 *.ini
-# =====================================
-# 🗂️ Obsidian Vault 最適化用
-# =====================================
+# ===============================
+# Obsidian Vault 用 GitIgnore
+# ===============================
 
-# --------------------------
-# Windows システムファイル
-# --------------------------
-desktop.ini
-Thumbs.db
-ehthumbs.db
-
-# --------------------------
-# macOS システムファイル
-# --------------------------
+# OSゴミ
 .DS_Store
+Thumbs.db
 
-# --------------------------
-# Obsidian プラグインの一時ファイル
-# （必要に応じて除外）
-# --------------------------
-.obsidian/workspace
-.obsidian/cache
-.obsidian/plugins/**/node_modules/
+# Obsidianのキャッシュ類
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/workspace.mobile.json
 
-# --------------------------
-# ログ & ビルド
-# --------------------------
-logs/
-*.log
+# Attachments フォルダ（必要なら管理する）
+# ![Attachments]/
 
-# --------------------------
-# Python / Rust / Node 等ビルドキャッシュ
-# --------------------------
-__pycache__/
-*.pyc
-target/
-node_modules/
-
-# --------------------------
-# バックアップファイル（~など）
-# --------------------------
-*~
-*.bak
+# ゴミファイル
+*.tmp
 *.swp
 
-# --------------------------
-# OS が自動生成するファイル全般
-# --------------------------
-$RECYCLE.BIN/
-System Volume Information/
+# ローカル専用下書きなど
+Drafts/
+Logs/
+*.log
 
-# --------------------------
-# Obsidian Publish に使わないメモ群（例）
-# --------------------------
-# [Private]/
-# [Drafts]/
+# Git自体の設定
+*.lock
