@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/進捗20250630 - Gemini.md",
+                "file": "[Paramount]Workflow/SUB_scenario_of_global_collapse/GPTカタストロフィ考察.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "進捗20250630 - Gemini"
+              "title": "GPTカタストロフィ考察"
             }
           }
         ]
@@ -167,8 +167,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b64593f153512d51",
+  "active": "b7f9af0ac37419a9",
   "lastOpenFiles": [
+    "[Paramount]Workflow/SUB_scenario_of_global_collapse/追記予定.md",
+    "[Paramount]Workflow/SUB_scenario_of_global_collapse/全体ロードマップ.md",
+    "[Paramount]Workflow/SUB_scenario_of_global_collapse",
+    "[Paramount]Workflow/scenario_of_global_collapse/第10章：ヒューリスティック介入（破局回避）の可能性分析.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/第11章 国際社会の反応と日本の具体的な防衛戦略.md",
+    "[Paramount]Workflow/SUB_scenario_of_global_collapse/GPTログ：中国レーダー照射（ドイツ）.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/第07章-1「印パ戦争」.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/第08章 6 「中国レーザー放射」.md",
+    "[Paramount]Workflow/Yumeshima-gate/Reports/2025年大阪・関西万博における契約、ガバナンス、財務上の破綻に関する調査分析報告書.md",
+    "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/進捗20250630 - Gemini.md",
     "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/GPT20250708.md",
     "[Paramount]Workflow/Yumeshima-gate/Reports/DRレポート：大阪IR制度設計の構造的欠陥調査.md",
     "[Paramount]Workflow/Yumeshima-gate/夢洲ゲート：万博とIR、グローバル資本の罠.md",
@@ -188,23 +198,13 @@
     "[Paramount]Workflow/Yumeshima-gate",
     "政治/政治情勢（日本）/参政党と神谷氏の関与調査.md",
     "政治/大阪万博2025/DRレポート：大阪万博TypeX未払い調査報告.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/全体ロードマップ.md",
     "[Paramount]Workflow/scenario_of_global_collapse/第04章：異常気象とインフラ崩壊の連鎖.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/第08章 5 「相手国システム破壊」.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/編集長Geminiログ２.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/編集者（Gemini）ログ.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/GPTカタストロフィ考察.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/第09章「他のカタストロフィシナリオ考察」.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/第08章 4「耐性POX」.md",
-    "[Paramount]Workflow/scenario_of_global_collapse/無題のファイル.md",
-    "[Paramount]Workflow/00-AI_utilization/Global Memory.md",
     "[Paramount]Workflow/00-AI_utilization",
     "[Paramount]Workflow/00-U",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ３",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ２",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ１（完了）",
     "[Paramount]Workflow/AI-TCP国際規格制定/generated_mermaid/intent_001 1.yaml",
-    "[Paramount]Workflow/AI-TCP国際規格制定/generated_mermaid/intent_001.yaml",
     "[Paramount]Workflow/中国財政事情/クリップボード_07-07-2025_01.webp",
     "[Paramount]/中国財政事情/クリップボード_07-07-2025_01.webp",
     "[paramount]/中国財政事情/クリップボード_07-07-2025_01.webp",
