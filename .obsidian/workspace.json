@@ -11,10 +11,14 @@
             "id": "b64593f153512d51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "[Paramount]Workflow/scenario_of_global_collapse/第08章 5 「相手国システム破壊」.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "第08章 5 「相手国システム破壊」"
             }
           }
         ]
@@ -165,6 +169,13 @@
   },
   "active": "b64593f153512d51",
   "lastOpenFiles": [
+    "[Paramount]Workflow/scenario_of_global_collapse/編集長Geminiログ２.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/第08章 5 「相手国システム破壊」.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/編集者（Gemini）ログ.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/GPTカタストロフィ考察.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/第09章「他のカタストロフィシナリオ考察」.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/第08章 4「耐性POX」.md",
+    "[Paramount]Workflow/scenario_of_global_collapse/無題のファイル.md",
     "[Paramount]Workflow/00-AI_utilization/Global Memory.md",
     "[Paramount]Workflow/00-AI_utilization/Memory Information Creation Manual.md",
     "[Paramount]Workflow/00-AI_utilization/[Inpoertant].md",
@@ -186,13 +197,6 @@
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ１（完了）/〚開発〛AI-TCP開発ログ２.md",
     "[Paramount]Workflow/AI_Geopolitical_Alert/Docs/G2_因果構造分析.md",
     "[Paramount]Workflow/AI_Geopolitical_Alert/Docs/G3_戦略提言.md",
-    "[Paramount]Workflow/AI_Geopolitical_Alert/Docs/G4_キーワード定義.md",
-    "[Paramount]Workflow/AI_Geopolitical_Alert/Docs/G1_ナラティブ要約.md",
-    "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/拡張ヘッダによるユーザフィルタリング案.md",
-    "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/GPT進捗20250707.md",
-    "[Paramount]Workflow/Universal Vector Seed（UVS）/Runner/Goal-20250626_Gemini.md",
-    "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/進捗20250630 - Gemini.md",
-    "[Paramount]Workflow/AI-TCP_KAIRO/進捗ログ/GPT進捗20250630.md",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ３",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ２",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/開発ログ：フェーズ１（完了）",
