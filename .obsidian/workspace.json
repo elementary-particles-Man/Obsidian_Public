@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Paramount]Workflow/AI-TCP_KAIRO/自動運転は辛いよ.md",
+                "file": "[Paramount]Workflow/政治/財務省関連/辻健太郎氏、国民民主党連携戦略調査.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自動運転は辛いよ"
+              "title": "辻健太郎氏、国民民主党連携戦略調査"
             }
           }
         ]
@@ -169,8 +169,22 @@
   },
   "active": "ba9b9a78e14432b9",
   "lastOpenFiles": [
-    "[Paramount]Workflow/AI-TCP_KAIRO/AutoMate運用ルール.md",
+    "[Paramount]Workflow/政治/財務省関連/前澤氏納税情報漏洩事件調査.md",
+    "[Paramount]Workflow/政治/財務省関連/辻健太郎氏、国民民主党連携戦略調査.md",
+    "[Paramount]Workflow/政治/財務省関連/前澤友作氏報道時系列分析.md",
+    "[Paramount]Workflow/政治/財務省関連/行為計算否認、グーニーズ社事例検証.md",
+    "[Paramount]Workflow/政治/財務省関連/国税庁守秘義務違反事例調査.md",
+    "[Paramount]Workflow/政治/財務省関連/情報操作と報道の比較分析.md",
+    "[Paramount]Workflow/政治/財務省関連/国税庁職員の守秘義務と内部告発.md",
+    "[Paramount]Workflow/政治/財務省関連/記者クラブ制度骨格調査プロンプト.md",
+    "[Paramount]Workflow/政治/財務省関連/記者クラブ制度の総合分析：公式な骨格と非公式な血肉.md",
+    "[Paramount]Workflow/政治/財務省関連/記者クラブ制度の実態調査.md",
+    "[Paramount]Workflow/政治/財務省関連/記者クラブと戦略的リーク分析.md",
+    "[Paramount]Workflow/政治/財務省関連/政治とカネ、財政透明化調査.md",
+    "[Paramount]Workflow/政治/オールドメディア/沈黙の解剖学：日本の「報道しない自由」に関する深層調査報告.md",
+    "[Paramount]Workflow/政治/財務省関連",
     "[Paramount]Workflow/AI-TCP_KAIRO/自動運転は辛いよ.md",
+    "[Paramount]Workflow/AI-TCP_KAIRO/AutoMate運用ルール.md",
     "[Paramount]Workflow/政治/日本雑談/石破無能～自民党評価.md",
     "[Paramount]Workflow/政治/日本雑談/assets/Pasted image 20250712010505.png",
     "[Paramount]Workflow/政治/日本雑談/assets/Pasted image 20250712010441.png",
@@ -187,19 +201,6 @@
     "[Paramount]Workflow/政治/日本雑談/石破政権の外交政策検証.md",
     "[Paramount]Workflow/政治/日本雑談/石破茂首相の言動分析と評価.md",
     "[Paramount]Workflow/Yumeshima-gate/Reports/20250711ツイート.md",
-    "[Paramount]Workflow/Yumeshima-gate/Reports/大阪万博運営陣への情報提供要請書（案）.md",
-    "[Paramount]Workflow/Yumeshima-gate/Reports/2025年大阪・関西万博における契約、ガバナンス、財務上の破綻に関する調査分析報告書.md",
-    "[Paramount]Workflow/Yumeshima-gate/Reports/【最終合意形成】夢洲ゲートの構造分析 ― 全ログ統合版.md",
-    "[Paramount]Workflow/Yumeshima-gate/Reports/GPTログ - ベッセント分析～国土交通省.md",
-    "[Paramount]Workflow/00-AI_utilization/Grobal-Memory.md",
-    "[Paramount]Workflow/00-AI_utilization/Global Memory＿20250630.md",
-    "[Paramount]Workflow/00-AI_utilization/Memory Information Creation Manual.md",
-    "[Paramount]Workflow/00-AI_utilization/LSC- The Universal Guidance.md",
-    "[Paramount]Workflow/政治/日本雑談/日本雑談ログ-GPT.md",
-    "[Paramount]Workflow/20250720参院選/参政党/GPTログ.md",
-    "[Paramount]Workflow/Yumeshima-gate/Reports/ベッセント大阪0719来訪の考察.md",
-    "[Paramount]Workflow/20250720参院選/参政党/参政党.md",
-    "[Paramount]Workflow/郵政再国営化/GPT会話.md",
     "[Paramount]Workflow/政治/日本雑談",
     "[Paramount]Workflow/郵政再国営化",
     "[Paramount]Workflow/GATS協定関係",
@@ -208,7 +209,6 @@
     "[Paramount]Workflow/政治/オールドメディア",
     "[Paramount]Workflow/SUB_scenario_of_global_collapse",
     "[Paramount]Workflow/Yumeshima-gate/Reports",
-    "[Paramount]Workflow/Yumeshima-gate/新しいフォルダー",
     "[Paramount]/中国財政事情/クリップボード_07-07-2025_01.webp",
     "[paramount]/中国財政事情/クリップボード_07-07-2025_01.webp",
     "【】作業中タスク/中国財政事情/クリップボード_07-07-2025_01.webp",
