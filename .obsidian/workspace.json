@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/KAIROテスト終了後/GPT開発ログ（KAIROテスト完了後）.md",
+                "file": "[Paramount]Workflow/OTC医薬品保険対象外考察/Geminiログ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT開発ログ（KAIROテスト完了後）"
+              "title": "Geminiログ"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "ba9b9a78e14432b9",
   "lastOpenFiles": [
-    "[Paramount]Workflow/政治/財務省関連/進捗ログ/Project Chimera/【Project Chimera – Dissemination Plan - Final Draft (Revised)】.md",
+    "[Paramount]Workflow/政治/コメ問題/農林中金問題 深掘り調査.md",
+    "[Paramount]Workflow/OTC医薬品保険対象外考察/Geminiログ.md",
+    "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/KAIROテスト終了後/GPT - AI-TCP サブモジュール完全復旧（Google Drive DLL対策）.md",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/KAIROテスト終了後/GPT開発ログ（KAIROテスト完了後）.md",
+    "[Paramount]Workflow/政治/財務省関連/進捗ログ/Project Chimera/【Project Chimera – Dissemination Plan - Final Draft (Revised)】.md",
     "[Paramount]Workflow/AI-TCP国際規格制定/進捗サマリー/KAIROテスト終了後",
     "[Paramount]Workflow/政治/財務省関連/進捗ログ/Project Chimera/三つの病巣の相互強化関係図.md",
     "[Paramount]Workflow/政治/財務省関連/進捗ログ/Project Chimera/Project Chimera — Executive English Summary (Draft).md",
@@ -199,9 +202,6 @@
     "[Paramount]Workflow/政治/財務省関連/国税庁守秘義務違反事例調査.md",
     "[Paramount]Workflow/政治/財務省関連/情報操作と報道の比較分析.md",
     "[Paramount]Workflow/政治/財務省関連/国税庁職員の守秘義務と内部告発.md",
-    "[Paramount]Workflow/政治/財務省関連/記者クラブ制度骨格調査プロンプト.md",
-    "[Paramount]Workflow/政治/財務省関連/記者クラブ制度の総合分析：公式な骨格と非公式な血肉.md",
-    "[Paramount]Workflow/政治/財務省関連/記者クラブ制度の実態調査.md",
     "[Paramount]Workflow/政治/財務省関連",
     "[Paramount]Workflow/政治/日本雑談/assets/Pasted image 20250712010505.png",
     "[Paramount]Workflow/政治/日本雑談/assets/Pasted image 20250712010441.png",
