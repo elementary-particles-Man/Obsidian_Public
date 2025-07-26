@@ -1,4 +1,11 @@
 {
   "defaultViewMode": "source",
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
