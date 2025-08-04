@@ -6,7 +6,7 @@ This folder contains documents designed to support and empathize with your curre
 
 ## 📘 Documents
 
-- **[Bessent_Log.md](Bessent_Log.md)**  
+- [[The Bessent Log -  An Unfiltered Analysis]]
   A reflective, conversational record combining personal insight, humor, and structural critique.  
   Designed as a form of psychological support and informal strategic observation.
 
