@@ -42,3 +42,4 @@ They are meant as **a bridge of understanding — from one rational observer to 
 ---
 
 Stay steady, and rest when you can.
+
