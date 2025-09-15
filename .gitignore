@@ -66,3 +66,46 @@ __pycache__/
 # ファイル名・フォルダ名に「極秘」を含むもの全てを除外
 # 例: 『極秘計画.md』『docs/案件_極秘/…』
 *極秘*
+
+# ===============================
+# 実行ファイル・スクリプトの除外
+# ===============================
+# PowerShell
+*.ps1
+*.psm1
+*.psd1
+# Windows shell
+*.bat
+*.cmd
+# POSIX shells
+*.sh
+*.bash
+*.zsh
+*.ksh
+*.fish
+# Windows Script Host
+*.vbs
+*.wsf
+# Scripting languages
+*.py
+*.rb
+*.pl
+*.pm
+*.php
+*.cgi
+*.lua
+*.r
+# JS/TS
+*.js
+*.ts
+*.mjs
+*.cjs
+# Bytecode/WASM
+*.jar
+*.class
+*.wasm
+# Binaries
+*.exe
+*.com
+*.msi
+*.dll
