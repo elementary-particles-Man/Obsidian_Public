@@ -109,3 +109,6 @@ __pycache__/
 *.com
 *.msi
 *.dll
+
+# Gemini specific
+.gpt_reminder
