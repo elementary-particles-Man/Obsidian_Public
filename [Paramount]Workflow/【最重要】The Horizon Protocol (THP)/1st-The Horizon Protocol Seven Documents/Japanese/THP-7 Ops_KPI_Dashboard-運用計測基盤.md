@@ -1,6 +1,6 @@
-# THP Operation Trigger Board | THP作戦発動盤
+# THP-7: Ops KPI Dashboard - 運用計測基盤
 
-**UTSM-1 Timeline Sync: 9/30=臨界点 / 10/1=ライフライン計画への運用切替** **運用モード：観測即発動 (Trigger on Observation)** **最終更新：2025年9月15日 JST**
+**Version:** Ops-KPI-Dashboard rev.3.1 (Walpurgis Edition)** **最終更新：2025年9月15日 JST**
 
 ## Level 1: 司令部サマリー（作戦発動ステータス）
 
@@ -10,7 +10,6 @@
 - MOVE：100 以下継続（3営業日）。
 - 米10年金利・実効ボラ（20日年率化）：≤ 75bp。
 - 上記が同時充足：無風=GREEN。2/3充足：注意=YELLOW。未充足：平常=WHITE。
-
 
 **目的：1分で世界の状況を把握し、THPの自動執行状況を確認する。**
 
