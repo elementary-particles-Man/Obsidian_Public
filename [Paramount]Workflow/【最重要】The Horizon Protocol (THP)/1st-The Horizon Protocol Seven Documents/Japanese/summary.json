@@ -1,0 +1,35 @@
+{
+  "_audit": {
+    "refined_by": "REFINED_BY_CODEX: 2025-09-17T00:00:00Z",
+    "timestamp": "2025-09-17T00:00:00Z",
+    "actions": ["generate_summary"]
+  },
+  "THP-1_World_Redefinition_Charter-世界再定義宣言.md": {
+    "output_file": "THP-1_en.md",
+    "actions_taken": ["translate"]
+  },
+  "THP-2_Ethics_Charter-倫理憲章.md": {
+    "output_file": "THP-2_en.md",
+    "actions_taken": ["translate"]
+  },
+  "THP-3_People_Charter-民族憲章.md": {
+    "output_file": "THP-3_en.md",
+    "actions_taken": ["translate"]
+  },
+  "THP-4_Religion_Charter-宗教憲章.md": {
+    "output_file": "THP-4_en.md",
+    "actions_taken": ["refine", "translate"]
+  },
+  "THP-5_Lexicon-用語辞書.md": {
+    "output_file": "THP-5_en.md",
+    "actions_taken": ["translate"]
+  },
+  "THP-6_Appendix-補遺.md": {
+    "output_file": "THP-6_en.md",
+    "actions_taken": ["refine", "translate"]
+  },
+  "THP-7_Ops_KPI_Dashboard-運用計測基盤.md": {
+    "output_file": "THP-7_en.md",
+    "actions_taken": ["translate"]
+  }
+}
