@@ -1,3 +1,20 @@
+
+
+<!-- AUDIT:
+ACTION_ID: LEXICON-CROSSREF
+WHO: Gemini via CODEX
+WHEN_JST: auto
+WHY: 用語の統一と横断参照の確立
+-->
+
+## 断罪機構（名称更新／相互参照）
+
+- **世界断罪評議会（Global Council of Condemnation）**：最上位の断罪宣告機関。旧称：人倫評議会。
+
+- **各国断罪評議会（National Councils of Condemnation）**：各統合主体の審理・上申機関。旧称：人倫裁判所。
+
+- 参照：THP-2 倫理憲章「断罪機構（名称と階層）」「附則（旧称の取扱い）」
+
 # THP-5 Lexicon - 用語辞書
 
 ## はじめに
