@@ -1,0 +1,201 @@
+# 生存リソースに関する国際危機評価（食料＋水）
+
+## インド
+
+### 水資源の現状とリスク
+
+インドでは地域間で水リスクが顕在化しています。2023年は南部の季節風雨量が大幅に不足し、同年11月時点で南インドの主要貯水池群の貯水率は総容量のわずか44%（前年同期は87%）まで低下しました[indianexpress.com](https://indianexpress.com/article/explained/explained-climate/water-reserves-south-india-depleting-2023-9030349/#:~:text=per%20cent%20of%20the%20total,storage%20capacity)。この異常渇水は農業用水や飲料水供給に深刻な影響を及ぼし、特に水稲の主要産地であるアンドラプラデシュ州やタミルナド州では灌漑用水不足による稲作への打撃が懸念されています[indianexpress.com](https://indianexpress.com/article/explained/explained-climate/water-reserves-south-india-depleting-2023-9030349/#:~:text=The%20shrinking%20of%20water%20reserves,is%20not%20an%20encouraging%20development)。一方で北部ヒマラヤ山麓ではモンスーン期に記録的豪雨が相次ぎ、ヒマチャル・プラデシュ州などで降雨量が平年を大きく上回る洪水・地すべり災害が発生しました[theguardian.com](https://www.theguardian.com/world/2023/jul/10/india-floods-new-delhi-rain-record-deaths#:~:text=Many%20districts%20in%20Himachal%20Pradesh,a%20senior%20weather%20department%20official)。実際、2023年7月時点でデリーやパンジャブ州ではモンスーン降水量が平年比100%以上、ヒマチャル州でも70%超と報告され[theguardian.com](https://www.theguardian.com/world/2023/jul/10/india-floods-new-delhi-rain-record-deaths#:~:text=Delhi%2C%20Punjab%2C%20and%20Himachal%20Pradesh,June%2C%20according%20to%20the%20department)、各地で河川氾濫や土砂崩れによりインフラ被害が続出しました。科学者たちは近年のモンスーンの極端化・不規則化について、地球温暖化による寄与を指摘しており[theguardian.com](https://www.theguardian.com/world/2023/jul/10/india-floods-new-delhi-rain-record-deaths#:~:text=The%20summer%20monsoon%20brings%20South,due%20to%20flooding%20and%20landslides)、将来的にインドの水供給は渇水と洪水の両面で不安定さが増すリスクがあります。さらに、インド国内の地下水過剰汲み上げも深刻で、世界最大の地下水消費国であるインドでは多くの州で地下水位低下が報告され、水資源インフラの脆弱性が懸念されています。
+
+ 
+
+水資源を巡る外交的リスクも無視できません。インドとパキスタンが共有するインダス川の水配分を定めた「インダス河水条約」は長年両国関係の安定装置でしたが、近年インド側は条約見直しを要求し対立が高まっています[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=suspended%20the%20regular%20exchange%20of,dams%20located%20along%20the%20Indus)。特に2025年4月には、インド政府が「パキスタンがテロ支援を止めるまで条約の履行を一時停止する」と宣言し、洪水警報などの水文データ提供を一方的に停止しました[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=suspended%20the%20regular%20exchange%20of,dams%20located%20along%20the%20Indus)。インドはさらに条約の制約を超えてダムからの放水操作を行い、将来的にインダス川の水流そのものをパキスタン側へ届く前に転用する可能性にも言及しています[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=India%20then%20began%20to%20move,dams%20located%20along%20the%20Indus)。インダス川水系はパキスタンの年間水資源の約96%を占め[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=With%20its%20semi,also%20challenging%20its%20ability%20to)、大半が灌漑と農業に使われているため、これらインドの措置は下流国パキスタンの水供給に対しレッドアラート級の深刻な脅威となっています。
+
+### 食料供給の現状とリスク
+
+インドは世界第二位の農業生産国であり、小麦や米を中心に国内需要をほぼ満たす生産力を有します。しかし近年、気候変動起因の極端現象が食料生産と市場を不安定化させています。例えば2022年3月には記録的熱波に見舞われ、小麦収量が大幅に減少しました。その年の小麦生産量は約1億トンと平年を下回り、国内消費（約1億3万トン）に満たなくなったため、インド政府は小麦輸出を禁止し備蓄放出による価格安定化策に追われました[reuters.com](https://www.reuters.com/world/india/indias-wheat-output-dented-by-heatwave-could-limit-government-stock-building-2023-03-03/#:~:text=In%202022%2C%20a%20heatwave%20in,of%20Agriculture%27s%20Foreign%20Agricultural%20Service)。この小麦不足・価格高騰を受け、政府は主要穀物の輸出規制に踏み切り、続く2023年にも食料インフレ抑制を最優先課題としました。
+
+ 
+
+実際、2023年にはモンスーンの不順やエルニーニョ予測を背景に米の国内価格が上昇し、政府は7月に主食である非バスマティ米の輸出を全面禁止する異例の措置をとりました[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=The%20government%20said%20it%20was,caused%20significant%20damage%20to%20crops)[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=,retail%20prices%20over%2012%20months)。この禁止措置はインド米輸出の約半分（年間約1,000万トン）に相当し、直近1年で国内米小売価格が11.5%も上昇したことが理由とされています[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=,retail%20prices%20over%2012%20months)。インドは世界コメ貿易の4割を担う最大輸出国であり、その輸出削減はただちに世界市場の価格高騰を招きかねないため[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=India%20accounts%20for%20more%20than,last%20year%20and%20erratic%20weather)、各国に大きな影響を与えています。さらにインド政府は2022年以降、小麦[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=Narendra%20Modi%20to%20food%20inflation,general%20election%20nearly%20next%20year)や砂糖の輸出規制も発動しており、国内の食料インフレを抑え国民生活を守るためには国際協調よりも輸出規制も辞さない姿勢が鮮明です。国内ではモンスーン期の洪水でパンジャブやハリヤナ州の水田が冠水被害を受ける一方、他地域では雨不足で作付が遅れるなど地域毎に農業生産のばらつきも生じています[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=WEATHER%20DAMAGE)。政府は最低支払価格(MSP)引き上げや灌漑投資による生産奨励策も講じていますが、気候変動による収量変動や国際価格の波及が今後も食料供給リスク要因となるでしょう。
+
+ 
+
+加えて、インドの人口は2023年に約14億人と世界最多となり、食料需要は年々増加しています。都市化に伴う食生活の変化で油脂類や乳製品の消費が伸び、飼料需要も拡大しています。インドは食料自給率こそ高いものの、食用油や豆類など一部は輸入に依存しており、ウクライナ戦争に端を発した世界供給網の混乱や価格高騰の影響も受けました。食料価格上昇は直近では落ち着きを見せていますが、政府は低所得層向けに無料食糧配給（国家食糧安全保障法に基づく穀物配給）を継続するなど、インフレから脆弱層を保護する政策対応を続けています。
+
+### リスク要約
+
+**インドの水リスク**は「高」です。特に南部の渇水と北部の水害という極端な気象に同時直面しており、水資源インフラへの負荷が増大しています。国内の水需要は農業・工業化で高まる一方で、気候変動で雨季降雨の不安定化や氷河融解の変動が起きており、中長期的な水不足懸念があります。加えて、パキスタンとの国境を跨ぐ河川の水利権問題が政治・外交リスクとなっており、水資源が安全保障上の懸念事項となりつつあります。
+
+ 
+
+**食料リスク**も「中～高」と評価されます。従来インドはコメ・小麦で自給を達成し余剰を輸出してきましたが、近年の異常気象で国内収穫が不安定化し、政府自ら輸出規制を敷く事態となりました[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=Narendra%20Modi%20to%20food%20inflation,general%20election%20nearly%20next%20year)。これは裏を返せば国内備蓄と市場管理によってかろうじて食料安全保障を維持している脆弱性を示しています。食料価格高騰は貧困層の生活に打撃を与え得るため、社会不安につながるリスクもあります。またインドが輸出規制を発動するたびに世界市場価格が上昇し、他国の食料入手にも影響が波及するため、インドの食料政策は国際的な注視対象です。
+
+ 
+
+総じてインドは巨大人口を抱えるゆえに**「生存リソース」確保の成否が国内外に与える影響が極めて大きい国**です。現在のところ政府は輸出規制や補助金などで危機を抑え込んでいますが、異常気象の頻発化に対する農業の適応、そして隣国との水資源協調が十分になされない場合、複合的な危機が発生する懸念があります。
+
+## パキスタン
+
+### 水資源の現状とリスク
+
+パキスタンは慢性的な水不足と水管理上の脆弱性を抱える国です。その命綱となっているのがインダス川水系ですが、河川流量の大部分をインドに源流とするこの水系に依存する構造上、上流国の動向や気候変動の影響に非常に脆弱です[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=With%20its%20semi,also%20challenging%20its%20ability%20to)。インダス川から得られる年平均水資源量2290億立方メートルは同国水資源の約96%に相当し、その80～90%が灌漑を通じ農業用水として消費されています[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=With%20its%20semi,also%20challenging%20its%20ability%20to)[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=insufficient%20water%20supply%2C%20ineffective%20sanitation,flows%20in%20the%20Indus%20tributaries)。ところがパキスタン国内のダム貯水容量は限られており、モンスーン期の洪水時の水を一年間蓄える能力がなく[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=renewable%20water%20resources%20,meet%20annual%20domestic%20water%20needs)、季節的に極端な洪水と渇水の波に対処できないという構造的問題があります。さらにダムの土砂堆積（シルト堆積）で有効容量が減少し、水需要が高まる乾季に備蓄を回せない状況が深刻化しています[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=renewable%20water%20resources%20,meet%20annual%20domestic%20water%20needs)。
+
+ 
+
+近年の気候変動はこの脆弱な水状況を悪化させています。2022年には記録的なモンスーン豪雨により「史上最悪」とも言われる大洪水が発生し、国土の約3分の1が一時水没しました[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Families%20across%20the%20country%20were,1%20million%20farm%20animals%20perished)。一方で洪水の翌年である2023年には雨季開始の遅れや少雨で地域的な渇水が報告され、極端な気象の振れ幅が拡大しています。**パキスタンの水インフラは、洪水時には破壊され、渇水時には供給不能に陥るという二重のリスク**に晒されています。2022年の洪水では水道や井戸が汚染され各地で安全な飲料水が不足し、人道危機を助長しました。現在も多くの被災地域で安全な水へのアクセスが回復しておらず、水系感染症の流行も懸念されています。
+
+ 
+
+水質汚染も看過できない問題です。統計上はパキスタン国民の92%が何らかの形で飲料水源にアクセスできるとされますが、安全な水（水質基準を満たすもの）となると人口のわずか36%しか確保できていません[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=Pakistan%20also%20struggles%20with%20widespread,between)。残りは未処理の地下水や河川水で、工業廃水や農薬流出による汚染が深刻です。こうした不衛生な水の使用に起因する水系感染症（下痢、コレラ、腸チフス、肝炎など）は、パキスタン国内の疾病の約80%を占め主要な死因ともなっています[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=Existing%20water%20pollution%20contributes%20to,reduce%20access%20to%20safe%20water)。特に子どもたちの健康への打撃は深く、慢性的な下痢などにより5歳未満児の発育不全（発育阻害）が蔓延しています[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=Existing%20water%20pollution%20contributes%20to,reduce%20access%20to%20safe%20water)。
+
+ 
+
+水を巡る外交的リスクも緊迫しています。前述のインダス河水条約は1960年以来インドとパキスタンの水分配を規定してきましたが、近年インド側がダム建設をめぐる紛争解決手続きに不満を表明し、ついに2023年初頭には条約改定を一方的に要求しました[newindianexpress.com](https://www.newindianexpress.com/explainers/2025/May/03/indus-waters-treaty-why-india-wants-to-re-negotiate-it#:~:text=,the%20dispute%20resolution%20mechanism)。2025年にはインドが同条約を「停止（abeyance）する」と宣言し定期情報交換を中断する事態に至っており[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=suspended%20the%20regular%20exchange%20of,dams%20located%20along%20the%20Indus)、将来的にインダス川の流量削減が現実化すればパキスタンにとって国家存亡に関わる水危機となりかねません。パキスタン政府は国際仲裁などを求めていますが、両国関係の悪化は水戦争の火種ともなり得る非常に憂慮すべき状況です。
+
+### 食料供給の現状とリスク
+
+パキスタンの食料安全保障は、水資源の脆弱性と深く結びついています。同国の農業は国民の生計と主要輸出の柱ですが、灌漑用水の85%以上をインダス川に頼るため、水不足はすぐさま食料生産減少に直結します。さらに近年は経済危機と気候災害が重なり、国民の食料入手手段が著しく脅かされています。
+
+ 
+
+2022年夏の未曾有の大洪水はパキスタンの食料供給網に壊滅的打撃を与えました。この洪水で全土で約1,700人が死亡、3,300万人が被災し、推計940万エーカー（380万ヘクタール）の作物地帯が破壊され、110万頭以上の家畜が死亡しました[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Families%20across%20the%20country%20were,1%20million%20farm%20animals%20perished)。特にコメや小麦の穀倉地帯であるシンド州やパンジャブ州南部が深刻な被害を受け、収穫期を迎えた作物が水没し全滅する地域もありました。洪水後、国連や各国による大規模な人道支援が行われましたが、被災農民の多くは種子や家畜を失い、1年経った現在も元の生産に復旧できていません[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=The%20floodwaters%20finally%20receded%20and,more%20than%20a%20year%20later)[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=There%20is%20food%2C%20but%20people,can%E2%80%99t%20afford%20it)。主要作物の供給減に加え、輸送インフラ寸断で市場への流通も滞ったため、被災地域を中心に食料価格が急騰しました。
+
+ 
+
+経済面でも追い打ちがかかりました。パキスタンは洪水以前から財政・通貨危機に直面しインフレ率が高騰していましたが、洪水後の2023年前半にはインフレ率が記録的水準に達し、特に食料価格上昇が顕著でした。2023年5月には消費者物価上昇率が年率38%超を記録し、その後も食料品は都市・農村問わず前年を約4割上回る高値で推移しました[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Continued%20food%20inflation%20will%20likely,and%2040.6)。農村部では食料価格が前年比50%も上昇したとの調査もあり[actioncontrelafaim.org](https://www.actioncontrelafaim.org/en/headline/one-year-after-floods-pakistans-road-to-food-insecurity/#:~:text=In%202023%2C%20rural%20communities%20experienced,diets%2C%20reduced%20food%20intake%2C%20and)、物価高と生計手段の喪失が相まって多くの世帯が十分な食料を購入できない状態に陥りました。国連の統計によれば、2023年後半時点でパキスタン国内の約29%の世帯が深刻な飢餓度にあり、2024年にかけてその割合はさらに悪化すると警告されています[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=A%20recent%20assessment%20of%2043,experiencing%20high%20levels%20of%20hunger)。実際、統合食料安全保障フェーズ分類(IPC)によると2024年初頭までにパキスタンで食料不安が「危機（フェーズ3）」以上の水準にある人は1,100万人を超え、そのうち約170万人は飢餓直前の「緊急（フェーズ4）」状態に陥ると分析されています[actioncontrelafaim.org](https://www.actioncontrelafaim.org/en/headline/one-year-after-floods-pakistans-road-to-food-insecurity/#:~:text=rural%20population%20further%20into%20poverty,and%20food%20insecurity)。
+
+ 
+
+特筆すべきは、**食料が「物理的に無い」のではなく「高すぎて買えない」ために生じる飢餓**が拡大している点です。例えば2023年は小麦の作況自体は比較的良好で収穫量も前年より増加し、パキスタンは世界有数の小麦生産国であり続けました[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Pakistan%20Bureau%20of%20Statistics%20says,and%2040.6)。それにもかかわらず高騰する市場価格の前に、多くの貧困家庭は必要な食料を手に入れられなくなっています。実際に都市部では炊き出しやフードバンクに頼る人々が激増し、カラチのある支援団体によれば毎日8,000人もの市民に格安または無償で食事を提供している状況です[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=to%20suffer%2C%20even%20in%20some,of%20Pakistan%E2%80%99s%20biggest%20cities)。農村部でも、野菜だけでしのぐ、肉や牛乳は月単位で口にできない、といった深刻な栄養不足の声が聞かれます[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Take%20for%20example%20Moomal%2C%20whose,cover%20the%20family%E2%80%99s%20basic%20expenses)。このように経済アクセスの欠如が飢餓を生み出しており、単なる供給量の問題ではない複雑な危機となっています。
+
+ 
+
+政府は国際通貨基金(IMF)からの融資を確保しつつ、小麦の補助金配給や価格統制で国民への食料供給を維持しようと努めています。しかしインフレ抑制策（補助金削減や増税）の影響もあって国内ガソリン価格や電力料金が上昇し、それが再び食料生産コストや輸送コストに波及する悪循環も指摘されています[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=after%20reaching%20an%20agreement%20with,electricity%20prices%20have%20turned%20violent)[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Continued%20food%20inflation%20will%20likely,and%2040.6)。政治的にも混乱が続き、経済再建より政争が優先されているとの批判もあり、十分な対策が講じられているとは言い難い状況です。
+
+### リスク要約
+
+**パキスタンの水リスクは「極めて高い（レッドアラート）」**状態です。同国の水資源は単一の大河（インダス川）に強く依存し、その流量は気候変動と隣国インドの動向によって左右されます。既に国内の貯水能力不足や水質汚染により、平時から安全な水の確保が困難な層が多く存在します[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=Pakistan%20also%20struggles%20with%20widespread,between)。ここに大洪水や深刻な渇水が発生すると国家規模の危機に直結します。インドとの水条約問題は今後の水供給を巡る安全保障上の最大リスクであり、最悪の場合は紛争の引き金ともなりかねません。
+
+ 
+
+**食料リスクも「極めて高い（レッドアラート）」**と評価されます。農業生産は水不足・気候災害で脅かされ、経済危機で輸入もままならない中、国民の多くが慢性的栄養不足に陥っています。特に豪雨災害以降、農村だけでなく都市貧困層にも飢餓の兆候が広がり、人道危機の様相を呈しています。治安面でも、食料や生活必需品の価格高騰は各地でデモや暴動を誘発しており、社会不安が増大しています。パキスタンは核保有国でもあり、内部崩壊は地域全体の安定に影響するため、国際社会からの支援と監視が必要です。
+
+ 
+
+総じてパキスタンは**水と食料の両面で同時多発的危機に直面する極度の脆弱性**を抱えます。気候変動の影響が今後も続く中、水資源管理の改善（ダム拡張や灌漑効率化）、食料システムの強靭化（備蓄拡充や価格安定策）が急務です。しかし経済的自力が乏しいため、国際的な支援や協調なしには危機打開が困難な状況と言えます。
+
+## 日本
+
+### 水資源の現状とリスク
+
+日本は国土に占める降水量が比較的多く、水インフラも高度に整備されているため、**基本的な水資源リスクは低い**国とされています。上水道の普及率は98%以上に達し、蛇口から安全な飲料水が直接飲める国は世界でも11ヶ国しかありませんが、日本はその一つです[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=According%20to%20the%20Ministry%20of,5)。年間総降水量は約6,600億m³にのぼり、そのうち実際に利用可能な水資源量は4,300億m³程度と試算されています[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=one%20of%20the%20few%20countries,precipitation%20shortages%20and%20high%20temperatures)。産業・農業・生活用水の合計使用量は1990年代後半をピークに減少傾向にあり、直近では年約785億m³（2019年）と供給可能水量の2割未満に収まっています[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=Japan%20has%20approximately%20660%20billion,least%20in%20the%20short%20term)。こうした事情から、1994年の西日本大渇水以降は**全国規模の深刻な渇水は発生していない**状況です[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=,least%20in%20the%20short%20term)。上水道用のダムや地下水源も安定運用され、人口減少も相まって一人当たり水資源の逼迫度は低下しています。
+
+ 
+
+しかし、日本の水リスクがゼロになったわけではありません。**気候変動による降水パターンの変化が新たな課題**として浮上しています。統計によれば、近年日本では短時間強雨の発生頻度が増加する一方、年間の雨日数（降雨のない日の数）は増えています[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=1%2C300%20regional%20meteorological%20observatories%20nationwide,persistent%20drought%20conditions%20are%20increasing)。つまり「降るときは極端に降り、降らない時は極端に降らない」傾向が強まっており、一部地域で取水制限（渇水）と豪雨災害の両方が起きやすくなっています[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=On%20the%20other%20hand%2C%20while,According%20to%20the)[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=1%2C300%20regional%20meteorological%20observatories%20nationwide,persistent%20drought%20conditions%20are%20increasing)。実際、2010年代以降毎年のように各地で記録的豪雨による河川氾濫・土砂崩れが発生し、人的被害・経済被害が増大しています。国土交通省の統計では、2017～2021年の洪水・土砂災害による平均被害額は年間1兆0340億円と、5年前（2012～2016年平均3820億円）の約2.7倍に急増しました[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=Damage%20caused%20by%20river%20floods,of%20the%20Great%20East%20Japan)[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=Year%20B%20JPY%20Year%20B,370%20Average%20382%20Average%201%2C034)。2019年には東日本台風（台風19号）による洪水で被害額が2.2兆円に達するなど、水害リスクは年々高まっています[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=Damage%20caused%20by%20river%20floods,amount%20of%20damage%20caused%20by)。
+
+ 
+
+このような状況から、日本政府は2018年に気候変動適応法を制定し、水資源分野を含む適応計画を策定しました[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=In%202018%2C%20the%20Japanese%20government,can%20be%20summarized%20as%20follows)。具体策としては、既存ダムの効率運用や老朽化対策、雨水や下水処理水の再利用促進、洪水ハザードマップ整備、防災インフラ強化などが掲げられています[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=,flood%20disaster)[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=,light%20of%20declining%20population%2C%20etc)。また治水においては、堤防などハード対策だけでなく遊水地や湿地の保全による流域治水（グリーンインフラ）や、人口減少を見据えた土地利用見直しも進める方針です[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=,light%20of%20declining%20population%2C%20etc)。一方で地下水の変動や海面上昇による塩水遡上など、新たな水問題についての研究はまだ十分ではなく[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=On%20the%20other%20hand%2C%20no,Institute%20for%20Environmental%20Studies%2C%202021)、引き続き監視が必要です。
+
+ 
+
+総じて、日本国内の水資源は安定供給が図られているものの、**局所的・短期的には渇水や水害の「レッドアラート」的事象が発生しうる**といえます。特に夏季の猛暑や少雨によるダム貯水率低下、冬季の少雪による融雪水不足などは農業や発電に影響を与える恐れがあります。また、大規模災害時に水道が寸断され飲料水が確保できなくなるリスクも常に存在します（例：熊本地震での断水、豪雨後の断水など）。こうしたリスクに対し、日本は高い経済力と技術力で対処可能ですが、備えを怠れば被害が拡大しかねません。
+
+### 食料供給の現状とリスク
+
+日本は経済規模に比して農業生産が小さく、食料自給率の低さがかねてより指摘されています。カロリーベースの食料自給率は近年38%前後で推移し、2023年度も38%と過去最低水準に留まっています[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=in%20cooking,from%20major%20producers%20such%20as)。これは主要先進国の中では突出して低く、OECD諸国で最も自給率が低い国の一つです。逆に言えば、日本は食料の約6割を輸入に依存しており、その輸入額は年間700億ドル超（約10兆円）にのぼって世界第2位の農産物純輸入国となっています[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=in%20cooking,from%20major%20producers%20such%20as)。特に小麦の約80%、大豆の約90%、トウモロコシのほぼ100%を海外から調達しており[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=when%20it%20comes%20to%20food%2C,from%20major%20producers%20such%20as)、畜産飼料や食用油・加工食品原料の多くはグローバル市場からの安定供給に支えられています。
+
+ 
+
+このような構造上、日本の食料供給リスクは**「国内生産の脆弱性」と「海外調達の不確実性」**という二面性があります。まず国内について言えば、生産現場の高齢化や農地減少で農業基盤が弱くなっている上に、気候変動による収量や品質への影響も顕在化しています。例えばコメは国内需要をほぼ満たすだけ生産していますが、近年の猛暑の影響で品質低下（白未熟米の増加など）が報告されています[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=While%C2%A0factors%20such%20as%20global%20warming,on%20overall%20rice%20consumption%20remained%C2%A0marginal)。さらに2024年には観測史上例を見ない高温少雨の夏となり、**コメの流通在庫が逼迫し市場に「コメ不足」現象が生じました**。2024年9月時点でコメの小売価格指数は前年同月比48%増という31年ぶりの上昇率を記録し[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=nearly%20100%20per%20cent%20rice,sufficiency%20rate)、スーパーの店頭からコメが消える地域も出ました。この背景には、記録的猛暑で高品質米の収量が落ちたことや、コロナ後の訪日観光客急増で外食需要が伸びたことが一因と報じられています[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=While%C2%A0factors%20such%20as%20global%20warming,on%20overall%20rice%20consumption%20remained%C2%A0marginal)。しかしそれ以上に指摘されたのは**国内のコメ政策の硬直性**です。日本は長年減反政策などでコメの生産調整を行い市場を安定させてきましたが、その結果としていざ需給逼迫しても融通が利きにくく、輸入で補うこともできない構造になっています[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=foreign%20tourists%20in%202024%20increased,on%20overall%20rice%20consumption%20remained%C2%A0marginal)[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=The%20root%20cause%20of%20the,Economy%2C%20Trade%20and%20Industry%2C%C2%A0emphasize%20the)。要するに、「自給できている」はずのコメですら市場混乱が起きたことで、日本の食料供給システムの脆さが露呈したと言えます。
+
+ 
+
+畜産・水産分野でも課題が山積しています。畜産ではエサの大部分を輸入穀物に頼るため、国際飼料価格や為替相場の変動が畜産農家の経営を直撃します。近年は配合飼料価格高騰分を補填する政策が取られていますが、根本的解決には至っていません。また日本国内では2022～2023年にかけて高病原性鳥インフルエンザが過去最悪規模で流行し、全国で約1,771万羽ものニワトリが殺処分されました[asahi.com](https://www.asahi.com/ajw/articles/15513035#:~:text=Around%201,that%20began%20in%20fall%202023)。産卵鶏の1割以上が失われたことで卵の供給が急減し、2023年春には卵価格が統計開始以来の最高値を更新、「卵ショック」と呼ばれる事態になりました[asahi.com](https://www.asahi.com/ajw/articles/15513035#:~:text=The%C2%A02022%20outbreak%20was%20particularly%20severe,leading%20to%C2%A0a%20serious%20egg%20shortage)[asahi.com](https://www.asahi.com/ajw/articles/15513035#:~:text=According%20to%20the%20agriculture%20ministry%2C,culled%20due%20to%20avian%20influenza)。卵は多くの加工食品の原料でもあるため、ケーキやマヨネーズの価格上昇や品薄も招き、畜産物の供給リスクが消費者に実感される出来事となりました。水産に関しては、国内の漁獲高が長期減少傾向にあり（ピークの1980年代から比べ約1/3に減少）、日本近海の水産資源の枯渇や海水温上昇による魚種変化が懸念されています。結果として水産物も輸入に頼る割合が増えており、近年は全消費量の約半分が輸入品です。2023年には福島原発処理水の海洋放出に対し中国が日本産水産物を禁輸する措置をとり、水産業の先行き不安も高まりました。これは国内供給には直ちに影響しないものの、輸出先を失った日本漁業者への打撃となっており、食料貿易と外交問題の関係性を浮き彫りにしました。
+
+ 
+
+また日本の食料問題は価格面での影響も無視できません。コロナ禍以降の世界的な食品インフレの波は日本にも及び、特に輸入食品や外食産業で値上げが続きました。円安も相まって輸入小麦価格の上昇が国内小麦製品（パン・麺類）価格に転嫁され、食料品の物価指数は2022年頃から上昇基調となりました。総務省統計では2023年の生鮮食品を除く食料品価格は前年比5%前後上昇し、30年ぶりの高い伸びとなりました。賃金上昇が追いつかない中、生活必需である食料の値上がりは家計を直撃し、消費者の節約志向が強まっています。政府は緊急経済対策で食品関連の価格高騰対策（輸入小麦売渡価格据置きや肥料原料価格補助など）を講じ、地方自治体でも子育て世帯への食費支援やフードバンク支援が拡充されています。それでもなお低所得世帯の中には栄養摂取を削るケースも報告されており、日本国内でも「フードバンクに来る人がコロナ前の2倍」といった事態が起きています。潜在的な食料不安層への対策も今後の課題です。
+
+### リスク要約
+
+**日本の水リスクは総じて「低～中」レベル**と評価されます。全国的な水資源は潤沢で、安全な水へのアクセスも行き届いています。ただし地域的・一時的には渇水や水害で「レッドアラート」に相当する緊急事態が発生し得ます。特に気候変動下で豪雨災害が激甚化しており、人的被害に加え浄水場や水道管破損による断水リスクも高まっています。自治体レベルでは大規模災害時の応急給水計画など備えが進められていますが、都市インフラが集中する日本ではひとたび水供給網が麻痺すると影響人口が甚大になるため、引き続き注意が必要です。
+
+ 
+
+**食料リスクは「中」レベル**ですが、その内実は複雑です。豊かな国ゆえ飢餓の心配は基本的にありませんが、自給率の低さから海外要因に脆弱であり、**「静かな危機」**とも評されます[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=in%20cooking,from%20major%20producers%20such%20as)。近年のコメ不足や卵不足の例は、想定外の事態で国内需給が逼迫しうることを示しました。また地政学リスクによる輸入途絶（例えば主要穀物輸出国での戦争・輸出禁止）や、感染症流行による物流網寸断などが起これば、日本の膨大な食料輸入を維持できなくなるシナリオも現実味を帯びます。国内農業も災害や担い手不足で減産リスクが高まっており、食料供給における**脆弱性（脆さ）は先進国の中でも突出**しています。政府は食料安全保障の観点から2023年に食料・農業・農村基本法を改正し、自給率向上（2030年度にカロリーベース45%）や備蓄拡充などを目標に掲げました[foodnavigator-asia.com](https://www.foodnavigator-asia.com/Article/2024/09/03/japan-expresses-cautious-optimism-for-national-food-self-sufficiency-rates/#:~:text=Japan%20expresses%20cautious%20optimism%20for,a%20production%20basis%20by%202030)。しかしこれら目標達成には生産現場の抜本強化が不可欠であり、気候変動下での持続可能な農業構築という長期課題に直面しています。
+
+ 
+
+以上より、日本は平時は豊富な水と食料に恵まれるものの、潜在的リスクを内包した国と言えます。他国と比べれば危機度は低いものの、「もし〇〇が起これば」致命的状況に陥りうる脆弱性も存在するため、油断は禁物でしょう。
+
+## その他主要国・地域の概況（レッドアラートレベル）
+
+上記詳述の3カ国以外にも、水・食料を巡る危機的状況や供給不安は世界各地で表面化しています。以下、主要な国・地域について概要を示します。
+
+- **中国**: 世界最大の人口を抱える中国では、水・食料とも国家戦略上の最重要資源と位置付けられています。水資源面では北部の慢性的な水不足と南部の洪水という二極化した課題があります。近年では長江流域の大干ばつが記憶に新しく、2022年夏には長江本流の流量が過去平均の半分以下に落ち込み、四川省で水力発電量が平年の50%に半減して深刻な電力不足を招きました[theguardian.com](https://www.theguardian.com/world/2022/aug/22/china-drought-causes-yangtze-river-to-dry-up-sparking-shortage-of-hydropower#:~:text=The%20loss%20of%20water%20flow,of%20its%20energy%20from%20hydropower)[theguardian.com](https://www.theguardian.com/world/2022/aug/22/china-drought-causes-yangtze-river-to-dry-up-sparking-shortage-of-hydropower#:~:text=than%20400%20million%20Chinese%20people%2C,also%20closed%2C%20the%20SCMP%20reported)。この干ばつでは農地約220万ヘクタールが被害を受け、百万人規模で飲料水供給にも支障が出ています[theguardian.com](https://www.theguardian.com/world/2022/aug/22/china-drought-causes-yangtze-river-to-dry-up-sparking-shortage-of-hydropower#:~:text=The%20drought%20has%20affected%20at,emergency%20ministry%20said%20last%20week)。一方で2023年夏には台風豪雨により北京近郊で大洪水が発生し、都市インフラが損壊する被害もありました。中国政府は南水北調（水資源南北輸送）プロジェクトなどで地域間の水格差是正を図っていますが、地下水過剰汲み上げによる地盤沈下や水質汚染も深刻で、**水リスクは「中」（一部地域は高）**といえます。
+    
+     
+    
+    食料について中国は自給率向上を最優先課題としており、米・小麦・トウモロコシの三大穀物は基本的に国内で賄う政策を取っています。しかし人口増加や所得向上で需要が年々増える中、耕地面積の減少や水不足で生産には限界があり、大豆を中心に飼料穀物や油糧種子は大量輸入に頼っています。中国は現在世界最大の農産物輸入国であり、世界の穀物市場におけるプレイヤーでもあります[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=when%20it%20comes%20to%20food%2C,from%20major%20producers%20such%20as)。2022年のウクライナ戦争では小麦やトウモロコシの輸入先多角化を迫られ、また自国でも肥料原料不足に直面しました。気候変動による影響も深刻化しつつあり、2023年夏の華北平原での洪水はトウモロコシ収穫に打撃を与えています。もっとも中国政府は数千万トン規模の国家食糧備蓄を保持し、価格統制や補助金で国内市場を安定させる統制力があります。そのため直ちに飢餓に陥る恐れは低いものの、**輸入依存と異常気象に起因する「高騰リスク」**は常在しています。総合すると、中国の**水リスク「中」、食料リスク「中」**と評価できます。国家の資源管理能力は高いものの、極端気象や地政学リスク次第でレッドアラート級の事態（大規模停電や価格急騰）が起こり得る点に注意が必要です。
+    
+- **アメリカ合衆国（米国）**: 米国は広大な国土を有し、水・食料資源ともに比較的豊かな国です。ただし地域差が大きく、西部諸州では過去数十年にわたり深刻な干ばつが続いてきました。コロラド川流域では主要貯水湖（ミード湖やパウエル湖）の水位低下が顕著で、カリフォルニアやアリゾナでは農業用水や都市用水の割当削減が議論されています。一方、東部や中西部ではハリケーンや豪雨による洪水被害が頻発し、ミシシッピ川流域などで浸水や水質汚染が課題となっています。米国の水インフラは老朽化も問題で、2010年代にミシガン州フリントで発覚した鉛汚染問題や、2022年ミシシッピ州ジャクソンの断水危機など、水道設備の脆弱性が露呈する事例もありました。連邦・州政府はインフラ法を通じて水道更新やダム安全対策に投資を始めていますが、気候変動による水ストレス増大に追いつくかは不透明です。総合的に**米国の水リスクは「中」（地域によって高）」**であり、特に西部の水争奪や沿岸都市の洪水対策が課題です。
+    
+     
+    
+    食料に関して米国は世界最大級の農業輸出国であり、国内の食料供給は極めて潤沢です。主要穀物（トウモロコシ・小麦・大豆）や肉類・乳製品において安定した過剰生産が行われており、国内で飢餓が広がる可能性は極めて低いと言えます。むしろ米国の食料供給は世界の飢餓撲滅に寄与する側面が大きく、ウクライナ危機で不足した小麦を補う増産や人道援助を行うなど、「供給者」としての役割を果たしています。しかし米国農業も気候変動の影響から無縁ではありません。近年、熱波や干ばつで穀物収量が落ち込んだり、春の異常低温や豪雨で作付けが遅れたりするケースが報告されています。例えば2012年の中西部干ばつ、2019年の春季大洪水、2021～2022年の西部干ばつによる家畜餌不足など、異常気象時には地域的に農畜産業が被害を受けます。それでも国家全体で見れば他地域からの融通や備蓄放出で対応可能なため、国内市場での食料価格高騰は比較的抑えられています。実際、2022年に米国の食品価格インフレ率は10%前後まで上昇し低所得層の負担増となりましたが、政府のフードスタンプ（補助食料券）制度拡充などで対応しました。総合すると、**米国の食料リスクは「低～中」**です。国内ではむしろ肥満や食品ロスなど過剰側の問題が中心ですが、世界的には米国が輸出を制限した場合の影響が大きいため、その意味で国際的食料安保の鍵を握る存在です。幸い現状、米国が穀物輸出を止める兆候はありませんが、仮に自国内で深刻な干ばつや病害が起き輸出余力が減れば、世界市場に「レッドアラート」が点灯しかねません。
+    
+- **欧州連合（EU）**: 欧州もまた水・食料問題が地域差のある地域です。北欧・中欧は水資源に恵まれ農業生産力も高い一方、地中海沿岸の南欧諸国は乾燥気候で元々水不足傾向にあります。加えて近年の気候変動で欧州全域が高温少雨化しつつあり、**2022年には少なくとも過去500年で最悪規模の干ばつ**に見舞われました[reuters.com](https://www.reuters.com/world/europe/nearly-two-thirds-europe-facing-drought-or-drought-risk-2022-08-23/#:~:text=BRUSSELS%2C%20Aug%2023%20%28Reuters%29%20,Union%20agency%20said%20on%20Tuesday)[reuters.com](https://www.reuters.com/world/europe/nearly-two-thirds-europe-facing-drought-or-drought-risk-2022-08-23/#:~:text=The%20current%20drought%20appeared%20to,Commission%20said%20in%20a%20statement)。その結果、夏作のトウモロコシは平年比16%減、大豆15%減、ヒマワリ12%減と大幅な減収が記録され[reuters.com](https://www.reuters.com/world/europe/nearly-two-thirds-europe-facing-drought-or-drought-risk-2022-08-23/#:~:text=Summer%20crops%20have%20suffered%2C%20with,respectively.%20%20read%20more)、水力発電量の低下や河川交通の支障（ライン川での舟運制限）など多方面に影響が出ました[reuters.com](https://www.reuters.com/world/europe/nearly-two-thirds-europe-facing-drought-or-drought-risk-2022-08-23/#:~:text=fall%20by%2015,read%20more)。特に農業大国フランスでは2022年に穀物生産が落ち込み、干ばつと熱波で家畜も被害を受けています。スペインやイタリアではダム貯水率低下で農業用水の取水制限が行われ、スペインのオリーブ（世界生産1位）は深刻な旱魃で収量半減し、オリーブオイル価格が世界的高騰を招きました。2023年には南欧の干ばつに加え、逆に中欧・北欧では集中豪雨による洪水も発生し、イタリア北部エミリア＝ロマーニャ州では大洪水が起き農地が冠水するなど、**欧州の水リスクは「中」（南欧は高め）**と評価されます。
+    
+     
+    
+    食料面でEUは全体として主要農産物の輸出地域ですが、域内の不作や世界市況の変化に影響を受けます。ロシアのウクライナ侵攻は欧州の食料安全保障にも波紋を広げました。EU諸国自体は小麦在庫を有し飢餓リスクはありませんが、ウクライナ産穀物の輸入に依存する中東・アフリカ諸国への供給不足が難民流入など間接的な形で跳ね返る懸念がありました。EUはウクライナからの穀物輸出を促進するため「連帯レーン」を構築し東欧経由で穀物を移送しましたが、安価なウクライナ産が流入した東欧ポーランド・ハンガリーなどでは自国農家保護のため輸入禁止措置を取る騒動も起きています。これは欧州内部の政治課題となりました。食品価格高騰も深刻で、ユーロ圏の食品インフレ率は2022～23年にかけて10%以上が常態化し、バルト三国では一時20%超に達しました。各国政府は付加価値税の減税や価格上限の協調要請などで対応しつつあります。EU全体としては穀物自給率は100%を超え、酪農や畜産物も輸出余力がありますが、果物・野菜・飼料作物では輸入も多く、干ばつによる収量減は域内市場に影響を及ぼします。**EUの食料リスクは「中」**と言えます。豊かな経済圏であり飢餓の心配はないものの、気候変動で安定した食糧生産が揺らぎつつあり、農業政策（CAP）の見直しや持続可能な生産への転換が求められています。またEUは環境規制やバイオ燃料政策で農地利用をめぐる議論もあり、食料供給との両立が課題です。
+    
+- **中東**: 中東地域は世界でもっとも水資源が乏しい地域の一つであり、**水リスクは「高（赤色警報）」**と評価されます。降雨量が極端に少なく、主要な大河川（水供給源）は国際河川に頼るケースが多いため、水を巡る国家間緊張もしばしば生じています。代表例がナイル川とユーフラテス・ティグリス川です。エチオピアがナイル川上流に建設した巨大ダム（GERD）の貯水をめぐり、下流のエジプト・スーダンは水量減少への強い懸念から国際仲介を求めています。トルコはユーフラテス・ティグリス川上流でダム群を開発し潅漑を拡大しており、下流のシリア・イラクでは流量減による干ばつと砂漠化が深刻化しています。シリア内戦やイラク情勢とも絡み、水資源を確保することが生活再建や社会安定のネックとなっています。ペルシャ湾岸の産油国（サウジアラビアやUAEなど）は海水淡水化プラントを多数稼働させ、豊富なエネルギーで飲料水を確保しています。しかし淡水化はエネルギー集約的で費用もかさむため、規模の小さい国や貧困国では導入が難しく、中東全域に行き渡ってはいません。加えて地下水の過剰揚水も各地で行われ、オマーンやイエメンではオアシスや井戸の枯渇が報告されています。
+    
+     
+    
+    **中東の食料リスクも「高」**水準にあります。この地域は穀物生産に適した土地と水が乏しく、伝統的に食料輸入への依存度が高いです。例えばエジプトは小麦の国内消費の半分以上を輸入に頼る世界最大の小麦輸入国であり、国民へのパン補助金によって政情を安定させています。レバノンも食品の大半を輸入に頼りますが、経済危機で輸入資金が底を突き大規模な飢餓リスクに直面しています。湾岸諸国は豊かな資金力で海外からの食料調達を継続できますが、シリアやイエメンのような紛争国では国内生産の崩壊と輸入途絶が重なり、人為的な飢饉の様相です。イエメンでは国民の過半数が国際支援による食糧援助に頼っており、支援が途切れれば即飢餓に陥ると警告されています。ウクライナ戦争は中東諸国にも打撃を与えました。黒海経由の小麦が途絶えたことでエジプトやレバノンは調達先確保に奔走し、市民生活への影響が懸念されました[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=India%20accounts%20for%20more%20than,last%20year%20and%20erratic%20weather)。加えて2023年にはインドのコメ輸出禁止[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=India%20accounts%20for%20more%20than,last%20year%20and%20erratic%20weather)が発動し、中東・アフリカのコメ輸入国は代替調達に苦慮しています。このように外部要因が重なると食料入手が危機的状況に陥る脆弱性があります。
+    
+     
+    
+    中東では豊かな国と貧しい国の格差が大きく、一概に地域全体を語れませんが、総じて言えるのは**「水ストレス」と「食料輸入依存」が高い**点です。気候変動でこの地域の暑熱・乾燥化はさらに進む予測で、水・農業への影響は避けられません。各国は対策として海外農地への投資（ランドラッシュ）や淡水化技術、貯水池の新設、水の再利用といった施策を講じています。しかし中東は地政学的対立も激しく、水・食料問題が政治不安や難民発生の要因となりやすい土壌です。特に紛争状態にある地域では、人道支援なしには住民の生存が危ぶまれる「赤信号」が点灯しており、国際社会の関与が不可欠となっています。
+    
+- **アフリカ**: アフリカ大陸は地域ごとに状況が異なりますが、**水・食料の危機が慢性的かつ複合的に存在する大陸**です。サブサハラ（サハラ以南）アフリカでは多くの国で安全な飲料水へのアクセス率が低く、農村部を中心に井戸や川の生水に頼る生活が続いています。人口増加と都市化で水需要は高まる一方、インフラ整備が追いつかず、2020年時点でもサブサハラ人口の約40%が基本的飲料水サービスを利用できていません。加えて気候変動による降雨パターン変化が顕著で、東アフリカや南部アフリカでは過去数十年で干ばつの頻度・深刻度が増しています。**特に東アフリカの「アフリカの角」地域では近年気候危機が極まっており、2020～2023年にかけて5期連続で雨季が失敗するという40年ぶりの大干ばつ**に見舞われました[theguardian.com](https://www.theguardian.com/environment/2023/apr/27/human-driven-climate-crisis-fuelling-horn-of-africa-drought-study#:~:text=without%20the%20human,crisis%2C%20new%20science%20has%20shown)。この干ばつはソマリア、エチオピア、ケニアを中心に少なくとも5,000万人に影響を与え[theguardian.com](https://www.theguardian.com/environment/2023/apr/27/human-driven-climate-crisis-fuelling-horn-of-africa-drought-study#:~:text=without%20the%20human,crisis%2C%20new%20science%20has%20shown)、家畜の大量死や農作物全滅で遊牧民・農民の生計が崩壊しました。飢餓ライン上にある人々は約2,000万人に達し、ソマリアでは一時「数十万人が飢饉に陥る恐れ」と国連が警告する事態となりました[theguardian.com](https://www.theguardian.com/environment/2023/apr/27/human-driven-climate-crisis-fuelling-horn-of-africa-drought-study#:~:text=The%20drought%20%20has%20affected,at%20risk%20of%20%2079)。幸い2023年中頃から降雨が戻り最悪の飢饉は回避されましたが、その後も洪水被害が発生するなど、極端気象が続いています[undrr.org](https://www.undrr.org/resource/horn-africa-floods-and-drought-2020-2023-forensic-analysis#:~:text=Horn%20of%20Africa%20floods%20and,to%202023%2C%20and%20severe)。この地域では長期の干ばつ後に豪雨洪水が起きる気候の乱調が見られ、被災民のさらなる困窮を招いています。西アフリカのサヘル地帯も干ばつと砂漠化が進行し、マリやニジェールでは水と牧草地を巡る対立が武力紛争化しています。南部アフリカではマダガスカルやジンバブエなどが度重なる旱魃に苦しみ、反対にモザンビークではサイクロン（台風）による洪水被害が頻発しています。
+    
+     
+    
+    アフリカの食料問題は水問題と不可分であり、常に危機的状況が散在しています。農業生産は天水（雨任せ）による小農が多く、灌漑率は低いため、雨が降らなければ即飢饉の恐れがあります。実際、上述の東アフリカ干ばつでは農牧業収入が絶たれ、多くの世帯が飢餓ラインに転落しました。市場に食料があっても購入する手立てを失ったためで、こうした「気候難民」・「飢餓難民」が国内外へ多数移動しています。アフリカでは政治的紛争や治安悪化も食料危機に拍車をかけています。ナイジェリア北東部やサヘル帯の武装勢力活動により農業継続が困難な地域、南スーダンやコンゴ民主共和国の内戦で農村経済が崩壊した地域、スーダンの紛争（2023年）で物流が止まり飢餓に陥った地域など、**人為的要因と気候要因が重複して「複合的レッドアラート」**を引き起こすケースが目立ちます。国連WFP（世界食糧計画）は資金不足から配給量削減を余儀なくされており、2023年以降ソマリアや南スーダンなどで支援が行き届かない人々が増えています。WHOの報告によれば、2024年初頭時点でアフリカの飢餓人口（深刻な食料不安層）は約5,010万人に達し、世界全体の人道支援対象の22%がアフリカに集中しています[who.int](https://www.who.int/emergencies/situations/drought-food-insecurity-greater-horn-of-africa#:~:text=December%202023)。
+    
+     
+    
+    アフリカの水・食料リスクは総じて**「高（レッドアラート級）」**です。ただしアフリカ54か国の状況は一様ではなく、比較的安定した国（例: 南アフリカ共和国は大規模農業を有し食料輸出もする）もあれば、恒常的危機状態の国（例: ソマリア、イエメン※）もあります（※イエメンは地理的には中東ですが、文脈上ここに含めます）。全体として共通する課題は、生存基盤を強靱化するインフラ投資の遅れと、気候変動への脆弱性、そして資源配分をめぐるガバナンスの弱さです。各国政府やAU（アフリカ連合）は灌漑整備や農業近代化に取り組んでいますが、人口増に対し進捗が追いつかず、外部からの援助が不可欠な国が多いのが実情です。とりわけ紛争下では援助活動自体が困難で、人道危機が深まっています。アフリカの水・食料問題はそのまま持続可能な開発目標（SDGs）の達成度を左右する重大な課題であり、国際社会の長期的コミットメントが求められます。
+    
+
+以上の各国・地域の状況を踏まえると、**水資源・食料という「生存リソース」を巡る国際危機は、気候変動と地政学リスクが絡み合い、各地で同時多発的に発生している**ことがわかります。次節では、各国のリスク指標をまとめ、横断的な比較を行います。
+
+## 各国・地域のレッドアラート指標と横断リスクマップ
+
+以下の表に、本報告で分析した各国・地域について、水資源と食料供給それぞれのリスクレベルを総合評価して示します（**高**＝レッドアラート級の危機水準、**中**＝注意すべき警戒水準、**低**＝相対的に安定）。併せて各国の主な「レッドアラート指標（危機を象徴する最新のデータや事象）」を記載します。
+
+|国・地域|水資源リスク|主なレッドアラート指標（水）|食料供給リスク|主なレッドアラート指標（食料）|
+|---|---|---|---|---|
+|**インド**|中～高|南部ダム貯水率44%（前年同期87%）[indianexpress.com](https://indianexpress.com/article/explained/explained-climate/water-reserves-south-india-depleting-2023-9030349/#:~:text=per%20cent%20of%20the%20total,storage%20capacity)、北部洪水で降雨量平年比+70～112%[theguardian.com](https://www.theguardian.com/world/2023/jul/10/india-floods-new-delhi-rain-record-deaths#:~:text=Many%20districts%20in%20Himachal%20Pradesh,a%20senior%20weather%20department%20official)|中（やや高）|小麦収量低下で2022年小麦輸出禁止[reuters.com](https://www.reuters.com/world/india/indias-wheat-output-dented-by-heatwave-could-limit-government-stock-building-2023-03-03/#:~:text=In%202022%2C%20a%20heatwave%20in,of%20Agriculture%27s%20Foreign%20Agricultural%20Service)、2023年非バスマティ米輸出全面禁止[reuters.com](https://www.reuters.com/markets/commodities/india-prohibits-export-non-basmati-white-rice-notice-2023-07-20/#:~:text=,retail%20prices%20over%2012%20months)|
+|**パキスタン**|非常に高|インダス川流量の90%以上依存[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=With%20its%20semi,also%20challenging%20its%20ability%20to)、印の条約停止でデータ供給停止[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=suspended%20the%20regular%20exchange%20of,dams%20located%20along%20the%20Indus)、安全な水アクセス36%[thinkglobalhealth.org](https://www.thinkglobalhealth.org/article/india-pakistan-water-dispute-unpacking-health-consequences#:~:text=Pakistan%20also%20struggles%20with%20widespread,between)|非常に高|2022年洪水で作物940万エーカー喪失[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Families%20across%20the%20country%20were,1%20million%20farm%20animals%20perished)、2023年食料インフレ40%[thenewhumanitarian.org](https://www.thenewhumanitarian.org/analysis/2023/09/19/pakistan-flood-victims-emerging-hunger-hotspots#:~:text=Continued%20food%20inflation%20will%20likely,and%2040.6)・要支援人口1,100万人[actioncontrelafaim.org](https://www.actioncontrelafaim.org/en/headline/one-year-after-floods-pakistans-road-to-food-insecurity/#:~:text=rural%20population%20further%20into%20poverty,and%20food%20insecurity)|
+|**日本**|低（局所中）|上水道普及率98%[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=According%20to%20the%20Ministry%20of,5)、1994年以降全国的渇水なし[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=,least%20in%20the%20short%20term)、だが近年豪雨被害額2.7倍増[climatescorecard.org](https://www.climatescorecard.org/2023/09/japans-efforts-to-prevent-and-or-adopt-to-climate-related-water-issues-are-b-moderately-effective/#:~:text=Damage%20caused%20by%20river%20floods,of%20the%20Great%20East%20Japan)|中|カロリーベース自給率38%（先進国最低）[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=in%20cooking,from%20major%20producers%20such%20as)、2024年コメ価格+48%と供給混乱[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=nearly%20100%20per%20cent%20rice,sufficiency%20rate)、卵1割減産「卵ショック」[asahi.com](https://www.asahi.com/ajw/articles/15513035#:~:text=Around%201,that%20began%20in%20fall%202023)|
+|**中国**|中（北高南中）|2022年長江大干ばつで流量▲50%[theguardian.com](https://www.theguardian.com/world/2022/aug/22/china-drought-causes-yangtze-river-to-dry-up-sparking-shortage-of-hydropower#:~:text=than%20400%20million%20Chinese%20people%2C,also%20closed%2C%20the%20SCMP%20reported)・四川水力半減[theguardian.com](https://www.theguardian.com/world/2022/aug/22/china-drought-causes-yangtze-river-to-dry-up-sparking-shortage-of-hydropower#:~:text=The%20loss%20of%20water%20flow,of%20its%20energy%20from%20hydropower)、華北で地下水枯渇進行|中|食料純輸入世界1位（大豆輸入9割依存）[asiapacific.ca](https://www.asiapacific.ca/publication/how-subsidies-tariffs-climate-change-sap-japans-food-security#:~:text=when%20it%20comes%20to%20food%2C,from%20major%20producers%20such%20as)、異常気象で東北穀倉地帯浸水被害（2023年）|
+|**米国**|中（西高東中）|西部干ばつでコロラド川貯水低下（ミード湖過去最少水位）、東部でハリケーン洪水頻発|低～中|世界有数の穀物輸出国（輸出制限なし）、ただし近年食品インフレでフードバンク利用増（2022年食品物価+10%）|
+|**EU**|中（南部高）|2022年欧州干ばつ500年ぶり[reuters.com](https://www.reuters.com/world/europe/nearly-two-thirds-europe-facing-drought-or-drought-risk-2022-08-23/#:~:text=BRUSSELS%2C%20Aug%2023%20%28Reuters%29%20,Union%20agency%20said%20on%20Tuesday)、穀倉地帯で取水制限（例：スペイン）|中|主要穀物は自給も2022年干ばつでトウモロコシ▲16%[reuters.com](https://www.reuters.com/world/europe/nearly-two-thirds-europe-facing-drought-or-drought-risk-2022-08-23/#:~:text=Summer%20crops%20have%20suffered%2C%20with,respectively.%20%20read%20more)、食品インフレ各国で10%超（2022～23年）|
+|**中東**|高|慢性的水不足（例：ヨルダン年間降水量250mm）、国際河川水利権争い激化（ナイル・チグリス川）|高|穀物純輸入地域（エジプト小麦の60%輸入）、紛争国で飢餓危機（イエメン人口の2/3が食料支援頼み）|
+|**アフリカ**|高|安全水アクセス依然低迷（サブサハラで4割が未整備）、東部で史上最悪干ばつ（5季連続雨不足）[theguardian.com](https://www.theguardian.com/environment/2023/apr/27/human-driven-climate-crisis-fuelling-horn-of-africa-drought-study#:~:text=without%20the%20human,crisis%2C%20new%20science%20has%20shown)|高|慢性的飢餓人口増加（GHoA地域5010万人が要支援）[who.int](https://www.who.int/emergencies/situations/drought-food-insecurity-greater-horn-of-africa#:~:text=December%202023)、干ばつ・紛争複合で飢饉の危険（ソマリア等）|
+
+※上記は地域全体の傾向評価であり、国・地域内の状況は一様ではありません。またリスク水準は現時点の総合評価であり、将来的な変化（気候変動の深刻化や政策改善など）により上下し得ます。
+
+ 
+
+このリスクマップから読み取れるように、**パキスタンやアフリカの一部、紛争下の中東諸国では水・食料両面で最も深刻な「レッドアラート」状態**にあります。一方、**日本や米国のような先進国でも局所的な危機は起こり得る**こと、**インドや中国のような巨大人口国では一部の資源不安が即ち世界全体に波及しかねない**ことが分かります。各国はそれぞれの脆弱性に合わせた対策（例：インドの輸出規制、日本の備蓄政策、中国の水利インフラ整備等）を講じていますが、グローバルな気候危機の前では一国だけで完結する解決策は限界があります。
+
+ 
+
+最後に強調すべきは、水と食料の危機は相互に増幅し合うという点です。水不足は農業生産を減らし、食料不足や価格高騰を招きます。反対に不適切な農業（水の過剰利用や環境破壊）は水循環を乱し、水資源の枯渇や洪水リスクを高めます。また両者ともに社会不安や紛争の火種となり、人の移動（難民・移民）を引き起こし、さらなる人道上・地政学上の課題をもたらします。**気候変動時代において、生存リソースである「水」と「食料」の安全保障をいかに確保するかは、人類社会の安定に直結する最重要課題**です。本報告で示した各地の危機的指標（レッドアラート）は、その課題が既に現実のものとなっていることを示しています。これらの危機を乗り越えるには、各国の垣根を超えた協調と支援、そして持続可能な資源管理への転換が急務と言えるでしょう。
