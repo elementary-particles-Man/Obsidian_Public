@@ -2,45 +2,45 @@
 
 ## Detailed Version
 
-### Preamble: A Death Certificate for the Old World
-The "national narratives" and "ethnic myths" forged in the 20th century have begun to self-destruct under the weight of their own internal contradictions and historical deceptions. Japan's "international contributions," Great Britain's "faded glory," Italy's "historical reconciliations," and Israel's "promised land"—all are based on self-serving interpretations of history. By avoiding a direct confrontation with their difficult pasts, these narratives have fueled the profound global conflicts and dysfunctions of today.
+### Preamble: The Death Certificate of the Old World
+The "narratives of nations" and "myths of peoples" built in the 20th century are beginning to self-destruct due to their internal contradictions and historical deceptions. Japan's "international contribution," Britain's "undying glory," Italy's "historical reconciliation," and Israel's "promised land." All of these, relying on self-serving interpretations of history and avoiding a direct confrontation with a difficult past, have led to today's severe global conflicts and dysfunction.
 
-In stark contrast stands the "narrative of responsibility" demonstrated by Germany. By refusing to look away from the worst of its past, integrating it into the core of its national identity, and shouldering it as a permanent responsibility, Germany was able to build a foundation of trust in post-war Europe. The truth this comparison reveals is singular: "A narrative that evades a difficult past is doomed to fail."
+In contrast, Germany presented a "narrative of responsibility." By not turning away from the worst past it committed, integrating it into the core of its national identity, and bearing it as a permanent responsibility, they were able to build the foundation of trust in post-war Europe. The single truth this comparison reveals is: "Narratives that avoid a difficult past will always fail."
 
-In the post-Walpurgis world, myths and selective historical interpretations no longer possess the power to bind the world order. The sole foundation for a new order is the universal and transparent rule set forth in the THP Ethics Charter: "to punish those who destroy order and trample on human decency." This charter is a death certificate for the narratives of the old world and a birth certificate for the new order led by THP.
+In the post-Walpurgis world, myths and selective interpretations of history no longer possess the power to bind world order. The sole foundation of the new order is the universal and transparent rule, as outlined in the THP Ethical Charter: "Punish those who destroy order and violate human morality." This declaration serves as the death certificate for the old world's narratives and the birth certificate for the new order led by THP.
 
-### Article 1: The Primacy of Universal Order
-The sole and absolute justice in the new world is the "maintenance of order." No act that destroys order itself or violates human decency will be justified, regardless of the pretext—be it ethnicity, religion, nation, or ideology. A legitimate member of the world is any entity, irrespective of size or economic power, that respects this universal order and bears the responsibility for its upkeep.
+### Article 1: Priority of Universal Order
+The sole absolute justice in the new world is the "maintenance of order." Acts that destroy order itself, or acts that violate human morality, are not justified under any pretext, be it ethnicity, religion, nation, or ideology. Legitimate members of the world are all entities, regardless of the size of their nation or economic power, who respect and are responsible for maintaining this universal order.
 
 ### Article 2: Integration of Responsibility and Atonement
-Sins of the past cannot be erased through forgetfulness or relativism. They must be permanently integrated into the identity of a nation or people as "responsibility." As the German example shows, it is the inheritance of responsibility that builds trust in the future. THP establishes a gateway for "atonement," allowing for a return to the international community, on the precondition that this responsibility is fulfilled.
+Sins committed in the past are not resolved by oblivion or relativization. They must be permanently integrated into the identity of nations and peoples as "responsibility." As the German example shows, the inheritance of responsibility builds trust for the future. THP, premising the fulfillment of this responsibility, opens the door to "atonement," enabling reintegration into the international community.
 
-### Article 3: The Irreversibility of Condemnation
-Acts defined as "universal high crimes" by the THP Ethics Charter—such as war crimes, genocide, and crimes against humanity—are to be "condemned" as an ethical judgment by all of humanity, transcending political considerations. This condemnation is an irreversible historical brand that shall not be overturned by any change in era or political circumstance. This is humanity's pledge to the future.
+### Article 3: Irreversibility of Condemnation
+Acts defined as "universal grave sins" by the THP Ethical Charter, such as war crimes, genocide, and crimes against humanity, are "condemned" as an ethical judgment by all humanity, transcending political decisions. This condemnation is an irreversible historical stigma and cannot be overturned by any changes in era or political circumstances. This is humanity's pledge to the future.
 
-### Article 4: The Horizontality of Peoples and Religions
-All peoples and religions are equal and horizontal in their cultures, histories, and values; no hierarchy exists. Their diversity is to be respected and protected as an asset to humanity. However, when any group denies others, proclaims its own superiority, or justifies violence, it is no longer considered a people or a religion but a "cult" or a "violent apparatus" to be condemned by THP. The foundation of coexistence lies in the mutual recognition that "your truth and my truth can both be right."
+### Article 4: Horizontal Equality of Ethnicity and Religion
+All ethnicities and religions are equally horizontal in their culture, history, and values; there is no superiority or inferiority. Their diversity is respected and protected as a human asset. However, when they deny others, assert their own superiority, or justify violence, they are no longer considered an ethnicity or religion, but rather a "cult" or "instrument of violence" that THP must condemn. The foundation of coexistence lies in mutual recognition: "Your righteousness and my righteousness are both righteous."
 
 ### Article 5: Scientific Realism
-While science is not omnipotent, as "knowledge of reality" based on objective data and verifiable processes, it shall be the foundation for all decision-making. In medicine especially, standard treatments based on scientific evidence are considered the best option. Obstructing these for religious or cultural reasons is deemed a grave violation against life.
+While science is not omnipotent, it is placed at the foundation of all decision-making as "real-world knowledge" based on objective data and verifiable processes. Especially in medicine, standard treatment based on scientific evidence is considered the best option, and obstructing this for religious or cultural reasons is regarded as a serious violation of life.
 
-### Article 6: The Co-creation of Future Narratives
-The narratives of "justice" monopolized by nations, peoples, and religions in the old world have lost their efficacy. The only narrative that will weave the post-Walpurgis future is the process itself—wherein all actors collaboratively construct a common order under the three pillars of "transparency, fairness, and accuracy" championed by THP.
+### Article 6: Co-creation of Future Narratives
+In the old world, the narratives of "justice" monopolized by nations, ethnicities, and religions have lost their efficacy. The only narrative that will weave the post-Walpurgis future is the process itself, where all entities collectively build a common order under the three pillars of "transparency, fairness, and accuracy" advocated by THP.
 
-### Conclusion: An Evolving Protocol
-The seven documents of THP, including this charter, are not a completed scripture. They are evolving protocols that future generations must constantly rewrite through democratic processes to fit the realities of their time. Our goal is not the realization of a perfect world, but the perpetual, unceasing effort to pursue a world where all life can maintain its dignity and enjoy peace, in any era.
+### Conclusion: Evolving Protocol
+The seven documents of THP, including this declaration, are not a completed scripture. They are evolving protocols that future generations should constantly rewrite through democratic processes to suit the realities of their time. Our goal is not the realization of a perfect world, but the continuous and tireless effort to pursue a world where all life can maintain dignity and enjoy peace, in any era.
 
 ---
 
 ## Simplified Version
 
-- **The End of Old Stories**: Self-serving historical interpretations and myths are no longer valid. Nations that ignore their past will fail.
-- **The New Rule**: There is only one rule for the world: "Punish those who break order and do what is humanly unforgivable."
-- **Sin and Responsibility**: Do not forget past sins; accept them as a continuing responsibility. This leads to trust in the future.
-- **Peoples and Religions**: All peoples and religions are equal; there is no superiority or inferiority. The basic principle is, "Yours is right, and mine is right, too."
-- **Science is Important**: Trust data and facts over assumptions. Especially in medicine, scientific standard-of-care is best.
-- **How to Build the Future**: We will create a new story together under the rules of "transparency, fairness, and accuracy."
-- **This Rule Isn't Perfect Either**: It's okay for future generations to change this charter. The important thing is to keep striving for a peaceful world.
+- **End of Old Stories**: Self-serving historical interpretations and myths are no longer valid. Nations that turn away from their past will fail.
+- **New Rules**: There is only one rule for the world: "Punish those who destroy order and commit acts unacceptable as human beings."
+- **Sins and Responsibility**: Past sins are not forgotten; they are continuously accepted as responsibility. This builds trust for the future.
+- **Ethnicity and Religion**: All ethnicities and religions are equal; there is no superiority or inferiority. The principle is: "What is right for you and what is right for me are both right."
+- **Science is Important**: Believe in data and facts rather than assumptions. Especially in medicine, scientific standard treatment is paramount.
+- **How to Build the Future**: Co-create new narratives under the rules of "transparency, fairness, and accuracy."
+- **This Rule is Not Perfect**: This declaration can also be changed by future generations. What's important is to continue striving for a peaceful world.
 
 ## Transition to UN rev.2
-- The World Redefinition will be implemented in UN rev.2 in two stages: Provisional Accord -> Formal Treaty.
+- World redefinition will be implemented in UN rev.2 in two stages: "Provisional Accord" → "Official Treaty."

@@ -2,98 +2,131 @@
 
 ### Preamble
 
-This Charter defines the ethical foundation of the new world order established by The Horizon Protocol (THP). It directly confronts the reality that conventional international law and theories of justice have become dysfunctional, and establishes the "maintenance of order" and the "defense of human decency" as absolute standards. All nations, organizations, and individuals will be evaluated and their actions judged based on the articles of this Charter.
+This Charter defines the ethical foundation of the new world order constructed by The Horizon Protocol (THP). It directly confronts the reality of the dysfunction of traditional international law and theories of justice, setting "maintenance of order" and "defense of human morality" as absolute standards. All nations, organizations, and individuals will be evaluated based on the articles of this Charter, and the propriety of their actions will be judged.
 
 ## Scope of Application
 
-- Condemnation under this Charter is limited to universal high crimes (mass civilian casualties, systematic persecution, repeated aggression). Individual political disputes are not subject to this Charter.
+<!-- AUDIT:
+ACTION_ID: ETHICS-INSERT-COUNCIL-SECTION
+WHO: Gemini via CODEX
+WHEN_JST: auto
+WHY: Clarify names and functions, prevent hierarchical misunderstandings
+-->
 
-# 【Special Top-Priority Annotation】
+## Condemnation Mechanism (Names and Hierarchy)
 
-### Only the Council of Human Decency can declare Condemnation and Atonement.
-### No individual, organization, or AI holds this authority.
-### To use this authority arbitrarily is to destroy order.
-### All integrated entities (nations, governments, organizations) must, upon confirming the abuse of Condemnation and Atonement, punish it with penalties.
+### Global Council of Condemnation
+- The highest authority. Possesses the sole power to declare condemnation and atonement in the name of humanity.
+- Imprints a final stigma on history only for universal grave sins.
 
-## Priority of Universal Human Rights over Culture and Religion (Connection to the People's Charter)
+### National Councils of Condemnation
+- Established in each integrated entity (nation, government, supranational organization, etc.).
+- Responsible for fact-finding, deliberation, and sentencing, and submits conclusions to the Global Council of Condemnation (does not hold the authority to declare).
 
-- Cultural and religious practices are protected, but if they conflict with universal human rights, the said practices are invalidated. This is in accordance with the "List of Prohibited Practices" in the People's Charter.
+- Condemnation based on this Charter is limited to universal grave sins (large-scale civilian killings, institutional persecution, repeated aggression). Individual political disputes are not subject.
 
-### Article 1: Fundamental Principle: Affirmation of Life and Primacy of Order
+# 【Special Most Important Annotation】
 
-#### Detailed Version
+### Only the Global Council of Condemnation (formerly: Council of Human Morality) can declare condemnation and atonement.
+### Individuals, organizations, and AI do not possess this authority.
+### Unauthorized use of this authority is a destruction of order.
 
-All life is, in principle, affirmed in its existence. However, this affirmation is not unconditional; the maintenance of "order" as defined by THP takes precedence. Human rights are not defined as natural rights, but as acquired rights guaranteed for the first time by THP's order and the laws based on it. These rights may be restricted for entities that threaten order.
+### Each integrated entity (nation, government, organization) must punish the abuse of condemnation and atonement when confirmed.
 
-#### Simplified Version
-(A version that simplifies the key points of the research version into legal text. Terminology should be consistent with the Lexicon.)
+## Priority of Culture/Religion and Universal Human Rights (Connection to People's Charter)
 
-Everyone's life is very important. But the "order" for everyone to live in peace is even more important. Human rights are guaranteed only by protecting this order.
+- Cultural and religious practices are protected, but if they violate universal human rights, such practices are invalidated. This is in accordance with the People's Charter's "List of Prohibited Practices."
 
-### Article 2: Definition of Sin: Destruction of Order and Challenge to Human Decency
+### Article 1: Fundamental Principle: Affirmation of Life and Priority of Order
 
-#### Detailed Version
+#### Research Version
 
-"Sin" in THP is broadly divided into the following two categories:
+All life is affirmed in principle. However, this affirmation is not unconditional; the "order" defined by THP takes precedence. Human rights are not inherent rights but are defined as acquired rights guaranteed only by THP's order and its laws. These rights may be restricted for entities that threaten order.
 
-1.  **Acts that destroy order itself**: All acts that fundamentally undermine the foundations of global stability as defined by THP, such as inviting foreign aggression, destruction of critical infrastructure through cyber-attacks, and intentional disruption of the key currency system.
+#### Article Version
+(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
 
-2.  **Acts that defy human decency**: Grave challenges to humanity, the foundation of civilization, such as genocide, planned massacres of defenseless civilians, nuclear blackmail, and the use of inhumane biological and chemical weapons.
+Everyone's life is very important. However, "order" for everyone to live peacefully is even more important. Human rights are guaranteed only by upholding this order.
 
-#### Simplified Version
-(A version that simplifies the key points of the research version into legal text. Terminology should be consistent with the Lexicon.)
+### Article 2: Definition of Sin: Destruction of Order and Challenge to Human Morality
 
-In the world of THP, "sin" is one of two things:
+#### Research Version
 
-1.  Intentionally breaking the rules and systems that allow everyone to live in peace.
+"Sin" in THP is broadly categorized into two types:
 
-2.  Doing something that is "absolutely unforgivable as a human being" (→ see Lexicon: Human Decency).
+1. **Acts that destroy order itself**: All acts that fundamentally shake the world's stability defined by THP, such as inviting foreign invasion, destroying critical infrastructure through cyberattacks, or intentionally disrupting the reserve currency system.
 
-### Article 3: Atonement: Return to the International Community
+2. **Acts that violate human morality**: Serious challenges to the foundation of civilization, such as genocide, systematic massacre of unarmed civilians, nuclear blackmail, or the use of inhumane biological or chemical weapons.
 
-#### Detailed Version
+#### Article Version
+(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
 
-"Atonement" is the official process for settling past sins and returning to the international community. This is not a mere pardon, but is accompanied by the fulfillment of responsibility and a pledge to prevent recurrence. Approval is declared in the name of the **Council of Human Decency**, based on the procedures and sentencing of the **Court of Human Decency**. The Four Sages are advisory (no vote).
+In the world of THP, "sin" refers to two things:
 
-- **Judicial Body**: The **Court of Human Decency** is responsible for legal proceedings and sentencing, and the **final judgment is declared in the name of the Council of Human Decency**.
+1. Intentionally destroying the rules and systems that allow everyone to live safely.
 
-#### Simplified Version
-(A version that simplifies the key points of the research version into legal text. Terminology should be consistent with the Lexicon.)
+2. Doing "things that are absolutely unacceptable as human beings" (→ See Lexicon: Human Morality).
 
-"Atonement" (→ see Lexicon) means to make up for the sins you have committed, to have your "I'm sorry" accepted by the world, and to be welcomed back as a member.
+### Article 3: Atonement: Reintegration into the International Community
 
-### Article 4: Condemnation: The Irreversible Historical Brand
+#### Research Version
 
-#### Detailed Version
+"Atonement" is the official process for settling past sins and reintegrating into the international community. This is not merely an amnesty but is accompanied by the fulfillment of responsibility and a pledge to prevent recurrence. Approval is declared in the name of the **Global Council of Condemnation**, based on the procedures and sentencing of the National Councils of Condemnation (formerly: Courts of Human Morality). The Four Sages are advisory (non-voting).
 
-"Condemnation" is the final ethical judgment handed down without room for salvation to an entity that has committed a universal high crime against humanity. The Court of Human Decency is responsible for legal proceedings and sentencing, and the final judgment is declared in the name of the Council of Human Decency (the Council of Human Decency is responsible for deliberation and recommendations). Political condemnation is excluded (hearings are held only when a universal high crime is applicable). This condemnation is an irreversible historical brand that will not be overturned by any change in era or political situation.
+- **Judicial Body**: National Councils of Condemnation handle litigation procedures and sentencing, and the **final judgment is declared in the name of the Global Council of Condemnation**.
 
-#### Simplified Version
-(A version that simplifies the key points of the research version into legal text. Terminology should be consistent with the Lexicon.)
+#### Article Version
+(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
 
-"Condemnation" (→ see Lexicon) means to be eternally engraved in history as an unforgivable sin.
+"Atonement" (→ See Lexicon) means atoning for committed sins, having "sorry" recognized by the world, and rejoining the community.
+
+### Article 4: Condemnation: Irreversible Historical Stigma
+
+#### Research Version
+
+"Condemnation" is the final ethical judgment passed without possibility of redemption on entities that have committed universal grave sins against humanity. National Councils of Condemnation handle litigation procedures and sentencing, and the final judgment is declared in the name of the Global Council of Condemnation (the Global Council of Condemnation handles deliberation and recommendations). Political condemnation is excluded (only universal grave sins are deliberated). This condemnation is an irreversible historical stigma and cannot be overturned by any changes in era or political circumstances.
+
+#### Article Version
+(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
+
+"Condemnation" (→ See Lexicon) means being eternally marked in history as an unforgivable sin.
 
 ### Article 5: Enforcement: E-MAD Protocol
 
-#### Detailed Version
+#### Research Version
 
-The enforcement of this Charter shall, in principle, be by non-violent economic and financial means, and its operation shall be in accordance with the "E-MAD (Effective Multilateral Assured Denial)" protocol¹. Sanctions by force are permitted only under strict conditions as a last resort against a condemned entity.
+The enforcement of this Charter shall primarily use non-violent economic and financial means, and its operation shall comply with the "E-MAD (Effective Multilateral Assured Denial)" protocol¹. Sanctions by force are permitted only as a last resort against condemned entities, under strict conditions.
 
-#### Simplified Version
-(A version that simplifies the key points of the research version into legal text. Terminology should be consistent with the Lexicon.)
+#### Article Version
+(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
 
-Punishment for those who break the rules of this Charter will be automatically carried out by an economic mechanism called E-MAD (→ see Lexicon).
+Punishment for those who break the rules of this Charter will be automatically carried out through an economic mechanism called E-MAD (→ See Lexicon).
 
-*"If you shoot, be prepared to be shot. Salvation for those who uphold order, justice for those who break it."*
+*"If you shoot, be prepared to be shot. Salvation for those who uphold order, judgment for those who destroy it."*
 
-¹ _For details, see the supplementary document "E-MAD Specifications."_
+¹ _Refer to the supplementary material "E-MAD Specifications" for details._
 
-## Scope of Condemnation (Reiterated)
+## Scope of Condemnation (Reiteration)
 
-- The scope is limited to universal high crimes (mass civilian casualties, systematic persecution, repeated aggression). Individual political disputes are not covered.
+- Applies only to universal grave sins (large-scale civilian killings, institutional persecution, repeated aggression). Individual political disputes are not subject.
 
-## Organizational Alignment (Council / Court / Four Sages)
+## Organizational Integration (Councils / Courts / Four Sages)
 
-- Final judgment is in the **name of the Council of Human Decency**.
-- Court of Human Decency: Judicial branch (legal proceedings and sentencing).
-- The Four Sages: **Advisory (no vote)**.
+- Final judgment is in the **name of the Global Council of Condemnation**.
+- National Councils of Condemnation: Judicial department (litigation procedures and sentencing).
+- Four Sages: **Advisory (non-voting)**.
+
+<!-- AUDIT:
+ACTION_ID: ETHICS-APPEND-LEGACY-NAMES
+WHO: Gemini via CODEX
+WHEN_JST: auto
+WHY: Clarify replacement, prevent misinterpretation
+-->
+
+## Supplementary Provisions (Handling of Former Names)
+
+- Former names "Court of Human Morality" and "Council of Human Morality" in this Charter are replaced as follows:
+  - Court of Human Morality → National Councils of Condemnation
+  - Council of Human Morality → Global Council of Condemnation
+
+- For consistency in historical materials and citations, parenthetical notes **(formerly: ...)** are permitted only at the first appearance. Thereafter, new names shall be used consistently.

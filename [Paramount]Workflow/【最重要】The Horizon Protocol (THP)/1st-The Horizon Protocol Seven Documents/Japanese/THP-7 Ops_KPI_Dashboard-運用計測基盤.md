@@ -1,6 +1,6 @@
 # THP-7 Ops_KPI_Dashboard - 運用計測基盤
 
-**Version:** rev.3.2 (Walpurgis Edition) **Last Updated:** 2025-09-18 JST
+**Version:** rev.3.3 (Walpurgis Edition) **Last Updated:** 2025-09-20 JST
 
 ## 1. 運用サマリー
 
@@ -17,6 +17,8 @@
 |**Gate-A**|**注意 (WATCH)**|`MOVE > 140` **かつ** `HY OAS 週次+150bp` に到達。|🟢GREEN → 🟡WATCH|
 |**Gate-B**|**警戒 (ARMED)**|Gate-A条件に加え、米国債入札において3指標〈テール+5bp｜B/C<2.10｜間接<50%〉のうち**2つ以上**が同時に基準値に到達。|🟡WATCH → 🔶ALERT|
 |**Gate-C**|**発火 (FIRE)**|Gate-B条件に加え、`DXY` `Gold` `WTI`の3指標が同時に急騰（相関係数ρ > 0.6）、または米国債入札3指標が全て基準値に到達。|🔶ALERT → 🔴CRITICAL|
+<!-- THP-GATED_ROW_v1 -->
+|**Gate-D**|**終端 (TERMINAL)**|`CCR<40%(48h)`・`GSC<85%(24h/3系中2)`・`CLS(95pctl×3 + CCP停止/強制ノビション)` の **2/3** 同時充足で即時昇格|🔴CRITICAL → ☠ TERMINAL（**THP-Aftermathへ強制遷移**）|
 
 ### 2.2. グローバル金融市場
 
@@ -83,3 +85,38 @@
 | **資産格差** | **下位50％の資産シェア** | 2.5% | 安定  | `≤ 2.0%` に低下               | 🟡WATCH |
 | **社会心理** | **格差ナラティブ発話**   | 増加中  | 監視  | 同一週に「海外支援批判＋家計簿財政言説」が重なる   | 🟡WATCH |
 | **社会安定** | **暴動・抗議件数**     | 極小   | 沈静化 | 「抗議行動ゼロ」＋「インフレ率上昇」が同時発生    | 🔴ALERT |
+<!-- THP-DEATH_OPS_KPI_v1 -->
+## Gate-D（☠ DEATH / TERMINAL）— 追記
+
+**昇格条件（2/3同時充足で即時発動）**
+1. **給与交換可能性崩壊（CCR）**：
+   - 定義：CCR = 「公共・電力・水・医療・通信の給与のうち、T+2で JPY/JPY-Parities に換価可能な比率」
+   - 閾値：CCR < 40% が 48時間連続
+2. **グリッド人員継続指数（GSC）**：
+   - 定義：GSC = 「重要設備の最低交替要員の現着率」
+   - 閾値：三系統（送配電・制御・発電）のうち二系統で < 85% が 24時間連続
+3. **清算崩壊シグナル（CLS）**：
+   - 条件：CCP所要証拠金Δ（Initial+Variation）が平時95pctl超 × 3営業セッション連続
+   - かつ：主要CCPの「一時停止」または「強制ノビション」公的発表が確認
+
+> **宣言文（Dashboard表示）**  
+> **THP STATUS = ☠ Gate-D (TERMINAL)** — 可逆復帰不能。事後秩序系（THP-Aftermath）へ強制遷移。
+
+### 新規KPI（追記）
+- **CCR（Cash Convertibility Ratio）**：T+2基準の給与換価率（対象：公共・電力・水・医療・通信）
+- **GSC（Grid Staffing Continuity）**：ISO/TSO/主要発電の要員現着率（三系統監視）
+- **JG-Par / JS-Par / JOIL-Par**：JPY/Gold・JPY/Silver・JPY/WTI の臨時Fix
+- **L/C稼働率**：政府保証L/C＋再保険プールの発行実行比
+- **JIMS流量**：人道・電力燃料・医療・水のJPY決済通過量
+- **Shadow-USD依存度**：他通貨インボイスの即時ドル両替比率（疑似ドル化指標）
+<!-- THP-KPI_UNITS_v1 -->
+### KPI単位（明示）
+- CCR：%（T+2、対象＝公共/電力/水/医療/通信）
+- GSC：%（要員現着率、3系統監視）
+- JG-Par：JPY/oz、JS-Par：JPY/oz、JOIL-Par：JPY/bbl、JGR-Par：JPY/バスケット、JWA-Par：JPY/m³
+- L/C稼働率：%
+- JIMS流量：JPY
+- Shadow-USD依存度：%
+<!-- THP-TIMELINE_D_v1 -->
+### T-0以降（DEATH発動時の自動遷移）
+- **T+0〜**：`CCR/GSC/CLS` が条件を満たし **Gate-D** 発動。ダッシュボードは **THP STATUS = ☠ Gate-D (TERMINAL)** を掲示し、**THP-Aftermath** 手順へ自動移行。
