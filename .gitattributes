@@ -1,7 +1,13 @@
+# Treat all files as text by default, and normalize their line endings to LF.
 * text=auto eol=lf
+
+# Explicitly declare binary files to prevent them from being treated as text.
+*.docx binary
+*.zip binary
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
 *.webp binary
 *.pdf binary
+*.lnk binary
