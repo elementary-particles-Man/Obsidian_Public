@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>LM-01 Crisis Dashboard v1.1 Integrated</title>
+  <meta http-equiv="Cache-Control" content="no-store" />
+  <style>
+    :root {
+      color-scheme: dark light;
+      font-family: "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+      background-color: #0f172a;
+      color: #e2e8f0;
+    }
+    body {
+      margin: 0;
+      padding: 24px;
+      background: radial-gradient(120% 120% at 50% 30%, rgba(30,64,175,0.18), #0f172a 60%);
+    }
+    header {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid rgba(148, 163, 184, 0.35);
+      padding-bottom: 16px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+      letter-spacing: 0.05em;
+    }
+    .meta-line {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      font-size: 0.9rem;
+      color: #cbd5f5;
+    }
+    .audit-header {
+      background: rgba(30, 64, 175, 0.2);
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      border-radius: 12px;
+      padding: 16px 20px;
+      margin-bottom: 24px;
+    }
+    .audit-header h2 {
+      margin-top: 0;
+      font-size: 1.1rem;
+      color: #bfdbfe;
+    }
+    .audit-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+    }
+    .audit-card {
+      background: rgba(15, 23, 42, 0.65);
+      border-radius: 10px;
+      padding: 12px;
+      border: 1px solid rgba(148, 163, 184, 0.2);
+    }
+    .audit-card dt {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #94a3b8;
+    }
+    .audit-card dd {
+      margin: 4px 0 0;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+    .deck {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+      margin-bottom: 32px;
+    }
+    .card {
+      backdrop-filter: blur(18px);
+      background: linear-gradient(160deg, rgba(30, 58, 138, 0.38), rgba(15, 23, 42, 0.82));
+      border-radius: 16px;
+      padding: 18px;
+      border: 1px solid rgba(59, 130, 246, 0.25);
+      box-shadow: 0 12px 28px rgba(14, 30, 64, 0.35);
+    }
+    .card h3 {
+      margin-top: 0;
+      margin-bottom: 12px;
+      font-size: 1.1rem;
+      color: #f8fafc;
+    }
+    .indicator {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px dashed rgba(148, 163, 184, 0.2);
+      font-size: 0.95rem;
+    }
+    .indicator:last-child {
+      border-bottom: none;
+    }
+    .indicator span.value {
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+      color: #fbbf24;
+    }
+   .indicator span.status {
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .status-watch {
+      background-color: rgba(251, 191, 36, 0.2);
+      color: #facc15;
+    }
+    .status-critical {
+      background-color: rgba(248, 113, 113, 0.2);
+      color: #f87171;
+    }
+    .status-ok {
+      background-color: rgba(34, 197, 94, 0.15);
+      color: #4ade80;
+    }
+    table.trigger-map {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+      font-size: 0.9rem;
+    }
+    .trigger-map th,
+    .trigger-map td {
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      padding: 10px 12px;
+    }
+    .trigger-map th {
+      background: rgba(30, 64, 175, 0.35);
+      color: #e0f2fe;
+    }
+    .trigger-map td {
+      background: rgba(15, 23, 42, 0.5);
+    }
+    footer {
+      font-size: 0.78rem;
+      color: #94a3b8;
+      border-top: 1px solid rgba(148, 163, 184, 0.2);
+      padding-top: 12px;
+    }
+    .note {
+      font-size: 0.8rem;
+      margin-bottom: 16px;
+      color: #cbd5f5;
+    }
+    code {
+      background: rgba(30, 64, 175, 0.3);
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>THP Crisis Dashboard v1.1 — Integrated Prototype</h1>
+    <div class="meta-line">
+      <span>Project: THP-Hardening-LastOneMile</span>
+      <span>Task: LM-01 CrisisDashboard_v1</span>
+      <span>Build Timestamp: 2025-09-18T05:18:00+09:00</span>
+      <span>Status: Prototype + Data Hooks (Not for production)</span>
+    </div>
+  </header>
+
+  <section class="audit-header" aria-labelledby="audit-header-title">
+    <h2 id="audit-header-title">Audit Header</h2>
+    <div class="audit-grid" id="audit-grid">
+      <dl class="audit-card">
+        <dt>audit.project</dt>
+        <dd>THP-Hardening-LastOneMile</dd>
+      </dl>
+      <dl class="audit-card">
+        <dt>audit.task_id</dt>
+        <dd>LM-01</dd>
+      </dl>
+      <dl class="audit-card">
+        <dt>audit.version</dt>
+        <dd>2025-09-18 v1.1-integrated</dd>
+      </dl>
+      <dl class="audit-card">
+        <dt>audit.data_timestamp</dt>
+        <dd id="data-timestamp">PENDING</dd>
+      </dl>
+      <dl class="audit-card">
+        <dt>audit.operator</dt>
+        <dd>Codex Support (Ops Liaison)</dd>
+      </dl>
+      <dl class="audit-card">
+        <dt>audit.commander_approval_id</dt>
+        <dd>PENDING</dd>
+      </dl>
+    </div>
+  </section>
+
+  <p class="note">データソースは `../ops/dashboard-public/kpi_map.public.json` および `../ops/dashboard-public/triggers.public.json` を参照。フェイルセーフとして直近のモック値を保持。</p>
+
+  <section class="deck" aria-label="KPI clusters" id="kpi-deck">
+    <!-- KPI cards will be injected here -->
+  </section>
+
+  <section aria-label="Trigger map">
+    <h2>TriggerTable 連携（自動生成）</h2>
+    <table class="trigger-map" id="trigger-table">
+      <thead>
+        <tr>
+          <th>Trigger Code</th>
+          <th>条件</th>
+          <th>初動（T+0〜T+6h）</th>
+          <th>連携タスク</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Trigger rows injected by JS -->
+      </tbody>
+    </table>
+  </section>
+
+  <section aria-label="Alert log">
+    <h2>最新アラートログ（Webhook ingest 15分毎）</h2>
+    <ul id="alert-log">
+      <!-- Alert entries from data feed -->
+    </ul>
+  </section>
+
+  <footer>
+    <p>ETL → Data API → 本フロントエンドの自動更新サイクルを 5 分間隔で設計。Audit Snapshot の生成は `window.generateAuditSnapshot()` を呼び出して JSON を取得後、War-Room 監査ストレージへ保存する。</p>
+  </footer>
+
+  <script type="application/json" id="audit-meta">
+  {
+    "audit.project": "THP-Hardening-LastOneMile",
+    "audit.task_id": "LM-01",
+    "audit.version": "2025-09-18 v1.1-integrated",
+    "audit.operator": "Codex Support (Ops Liaison)",
+    "audit.commander_approval_id": "PENDING",
+    "notes": [
+      "Spec: LM-01_Dashboard_Spec.md",
+      "Data sources: ../ops/dashboard-public/kpi_map.public.json, ../ops/dashboard-public/triggers.public.json",
+      "Requires Commander approval for production deployment"
+    ]
+  }
+  </script>
+
+  <script>
+    const KPI_ENDPOINT = '../ops/dashboard-public/kpi_map.public.json';
+    const TRIGGER_ENDPOINT = '../ops/dashboard-public/triggers.public.json';
+    const FALLBACK_DATA = {
+      timestamp: new Date().toISOString(),
+      clusters: [
+        {
+          id: 'treasury',
+          title: 'Treasury Stress',
+          indicators: [
+            { name: '10Y/30Y Auction Tail Spread', value: '+9.5 bp', status: 'Watch' },
+            { name: 'Bid-to-Cover Ratio', value: '2.05×', status: 'Watch' },
+            { name: 'Primary Dealer Allocation', value: '37%', status: 'Critical' }
+          ]
+        },
+        {
+          id: 'market',
+          title: 'Market Volatility',
+          indicators: [
+            { name: 'MOVE Index (1m)', value: '176', status: 'Critical' },
+            { name: 'Subprime Auto ABS OAS', value: '+265 bps', status: 'Watch' },
+            { name: 'CMBS Delinquency (Office)', value: '11.4%', status: 'Watch' }
+          ]
+        }
+      ],
+      triggers: [
+        {
+          code: 'TR-01 Treasury',
+          condition: 'Tail ≥ 12bp or Bid-to-Cover ≤ 2.0',
+          action: 'OpsRoomアラート／LM-02 契約班へ即時共有',
+          linkage: 'LM-02 / LM-05'
+        }
+      ],
+      alerts: [
+        'Fallback 04:45 JST — データフィード未接続のためモック値を表示。'
+      ]
+    };
+
+    function setAuditTimestamp(ts) {
+      const tsNode = document.getElementById('data-timestamp');
+      if (tsNode) tsNode.textContent = ts;
+    }
+
+    function statusClass(status) {
+      switch ((status || '').toLowerCase()) {
+        case 'critical':
+          return 'status status-critical';
+        case 'watch':
+          return 'status status-watch';
+        default:
+          return 'status status-ok';
+      }
+    }
+
+    function renderClusters(data) {
+      const deck = document.getElementById('kpi-deck');
+      deck.innerHTML = '';
+      data.clusters.forEach(cluster => {
+        const card = document.createElement('article');
+        card.className = 'card';
+        card.setAttribute('aria-labelledby', `cluster-${cluster.id}`);
+        const title = document.createElement('h3');
+        title.id = `cluster-${cluster.id}`;
+        title.textContent = cluster.title;
+        card.appendChild(title);
+
+        cluster.indicators.forEach(indicator => {
+          const row = document.createElement('div');
+          row.className = 'indicator';
+          row.innerHTML = `
+            <span>${indicator.name}</span>
+            <span class="value">${indicator.value}</span>
+            <span class="${statusClass(indicator.status)}">${indicator.status}</span>
+          `;
+          card.appendChild(row);
+        });
+
+        deck.appendChild(card);
+      });
+    }
+
+    function renderTriggers(data) {
+      const tbody = document.querySelector('#trigger-table tbody');
+      tbody.innerHTML = '';
+      data.triggers.forEach(trigger => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${trigger.code}</td>
+          <td>${trigger.condition}</td>
+          <td>${trigger.action}</td>
+          <td>${trigger.linkage}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function renderAlerts(data) {
+      const list = document.getElementById('alert-log');
+      list.innerHTML = '';
+      (data.alerts || []).forEach(entry => {
+        const li = document.createElement('li');
+        li.textContent = entry;
+        list.appendChild(li);
+      });
+    }
+
+    async function fetchJSON(url) {
+      const res = await fetch(url, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.status}`);
+      return res.json();
+    }
+
+    async function loadData() {
+      try {
+        const [kpiData, triggerData] = await Promise.all([
+          fetchJSON(KPI_ENDPOINT),
+          fetchJSON(TRIGGER_ENDPOINT)
+        ]);
+
+        const merged = {
+          timestamp: kpiData?.generated_at || new Date().toISOString(),
+          clusters: kpiData?.clusters || FALLBACK_DATA.clusters,
+          triggers: triggerData?.triggers || FALLBACK_DATA.triggers,
+          alerts: triggerData?.alerts || []
+        };
+
+        setAuditTimestamp(merged.timestamp);
+        renderClusters(merged);
+        renderTriggers(merged);
+        renderAlerts(merged);
+      } catch (err) {
+        console.error('データ取得に失敗しました。フォールバック表示へ切替えます。', err);
+        setAuditTimestamp(FALLBACK_DATA.timestamp);
+        renderClusters(FALLBACK_DATA);
+        renderTriggers(FALLBACK_DATA);
+        renderAlerts(FALLBACK_DATA);
+      }
+    }
+
+    window.generateAuditSnapshot = function () {
+      const meta = JSON.parse(document.getElementById('audit-meta').textContent);
+      const snapshot = {
+        audit: {
+          ...meta,
+          'audit.data_timestamp': document.getElementById('data-timestamp').textContent,
+          generated_at: new Date().toISOString()
+        },
+        clusters: Array.from(document.querySelectorAll('#kpi-deck .card')).map(card => ({
+          title: card.querySelector('h3').textContent,
+          indicators: Array.from(card.querySelectorAll('.indicator')).map(row => ({
+            name: row.children[0].textContent,
+            value: row.children[1].textContent,
+            status: row.children[2].textContent
+          }))
+        })),
+        triggers: Array.from(document.querySelectorAll('#trigger-table tbody tr')).map(row => ({
+          code: row.children[0].textContent,
+          condition: row.children[1].textContent,
+          action: row.children[2].textContent,
+          linkage: row.children[3].textContent
+        })),
+        alerts: Array.from(document.querySelectorAll('#alert-log li')).map(li => li.textContent)
+      };
+      return snapshot;
+    };
+
+    loadData();
+    setInterval(loadData, 5 * 60 * 1000);
+  </script>
+</body>
+</html>

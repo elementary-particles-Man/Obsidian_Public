@@ -1,0 +1,18 @@
+{
+  "project": "THP-Hardening-LastOneMile",
+  "timezone": "Asia/Tokyo",
+  "freeze": true,
+  "acks_required": ["Commander","Gemini","Assistant"],
+  "tasks": [
+    {"id":"LM-01","name":"CrisisDashboard_v1","status":"RUNNING","note":"Design spec completed on main (CLI)."},
+    {"id":"LM-02","name":"72h_Toolkit_Deploy","status":"RUNNING","note":"Spec created (contracts/TriggerTable)."},
+    {"id":"LM-03","name":"Financial_C4ISR_Standup","status":"RUNNING","note":"OpsRoom spec & liaison SOP drafted."},
+    {"id":"LM-04","name":"MiniLateral_Backup_Rails_MoU","status":"RUNNING","note":"MoU structure & flow defined."},
+    {"id":"LM-05","name":"Legal_Triggers_Promulgation","status":"RUNNING","note":"Legal mapping & templates drafted."},
+    {"id":"LM-06","name":"CCP_REPO_CounterCyclical_TS","status":"RUNNING","note":"TS parameters & notice flow drafted."},
+    {"id":"LM-07","name":"Comms_Pack_Finalization","status":"RUNNING","note":"3-scenario comms pack spec drafted."}
+  ],
+  "audit": [],
+  "risks": [],
+  "blocks": []
+}
