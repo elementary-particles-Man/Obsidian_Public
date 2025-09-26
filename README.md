@@ -1,7 +1,3 @@
-2025-09-17 06:10 JST — THP計画仕上げ段階：THE LAST ONE MILE実行中
-CLI等で本リポジトリ直下から作業を開始した場合は、[Paramount]Workflow/【最重要】The Horizon Protocol (THP)/【0917】 Last One Mile 配下へ移動し、前提資料と当該階層のREADMEを必ず確認してください。
----
-# Obsidian_Public
 
 基本的に、私はなんの専門家でもありません。
 医者でもない、弁護士でもない、農家でもない。
