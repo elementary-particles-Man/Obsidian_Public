@@ -1,5 +1,6 @@
 [
   "mermaid-popup",
   "mermaid-themes",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-pandoc"
 ]
