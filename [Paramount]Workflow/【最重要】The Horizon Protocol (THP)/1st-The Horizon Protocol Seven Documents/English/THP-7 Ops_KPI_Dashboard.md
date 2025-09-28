@@ -1,118 +1,104 @@
-# THP-7 Ops_KPI_Dashboard
+# THP-9 Ops-KPI Dashboard Ver. 2.4: Cascade Collapse Monitoring Framework (Final)
 
-**Version:** rev.3.3 (Walpurgis Edition) **Last Updated:** 2025-09-20 JST
+**DocID:** THP-KPI-DASH/v2.4/2025-09-27-18:00(JST) **Rev:** 2.4 **Threat Model:** Walpurgis Ver. 2.0 (Multiple, simultaneous, and cascading complex collapse)
 
-## 1. Operational Summary
+## 1. Operational Philosophy: Capturing the Initial Movement of the Chain
 
-This dashboard is an integrated operational monitoring panel for real-time detection of Walpurgis crisis precursors and automatic, phased activation of each THP protocol. All indicators are evaluated not in isolation, but in their interrelationships and temporal sequence.
+The sole purpose of this dashboard is to capture the **"initial movement"** of the world's systems beginning to collapse in a chain reaction. The threat is not a single financial event, but a polycrisis in which multiple **detonators** interact. The detection principle is **"Simultaneous Spike Detection"**.
 
-**Current Overall Status:** <font color="green">**GREEN**</font> (Monitoring Phase)
+## 2. Integrated Monitoring Gate System (7 Systems)
 
-## 2. Automated Execution Trigger Panel (Level 2)
+To improve monitoring accuracy, the gates have been expanded to 7 systems. These faults are constantly monitored in parallel, and their correlations are analyzed.
 
-### 2.1. Gate Judgment System (Walpurgis Precursor Detection System)
+|Gate ID|Name|Monitoring Target|
+|---|---|---|
+|**Gate-D**|**DOLLAR / DOMESTIC** (US Domestic Vulnerability)|Sustainability of US public finances.|
+|**Gate-L**|**LIQUIDITY / SETTLEMENT** (Liquidity and Settlement Plumbing)|Clogging of the financial system's "plumbing." A leading indicator of price fluctuations.|
+|**Gate-E/F**|**ENERGY & FOOD**|Risk of disruption to the physical supply chains that support the real economy.|
+|**Gate-S**|**STATES / MUNI** (US State and Local Finances)|Risk of collapse from areas that the federal government cannot bail out.|
+|**Gate-C/R**|**CASCADE - CHINA/RUSSIA** (Sino-Russian Collapse)|Geopolitical and economic shocks caused by the dysfunction of the Chinese and Russian states.|
+|**Gate-G**|**GEOPOLITICS** (Geopolitical Detonators)|Risk of accidental or planned military conflict in the Middle East and Europe.|
+|**Gate-M**|**MARKET** (Simultaneous Freezing of Market Sentiment)|Panic risk-off that occurs simultaneously in multiple markets.|
 
-| Gate | Status | Condition | Impact on THP Status |
-|---|---|---|---|
-| **Gate-A** | **WATCH** | `MOVE > 140` **AND** `HY OAS weekly +150bp` reached. | 🟢GREEN → 🟡WATCH |
-| **Gate-B** | **ARMED** | In addition to Gate-A conditions, **2 or more** of the 3 indicators for US Treasury auctions (Tail +5bp | B/C < 2.10 | Indirect < 50%) simultaneously reach the threshold. | 🟡WATCH → 🔶ALERT |
-| **Gate-C** | **FIRE** | In addition to Gate-B conditions, `DXY` `Gold` `WTI` simultaneously surge (correlation coefficient ρ > 0.6), OR all 3 US Treasury auction indicators reach the threshold. | 🔶ALERT → 🔴CRITICAL |
-<!-- THP-GATED_ROW_v1 -->
-| **Gate-D** | **TERMINAL** | `CCR<40%(48h)`・`GSC<85%(24h/3系中2)`・`CLS(95pctl×3 + CCP停止/強制ノビション)` of **2/3** simultaneously met for immediate promotion | 🔴CRITICAL → ☠ TERMINAL (**Forced transition to THP-Aftermath**) |
+## 3. Key Monitoring Indicators and Thresholds (Final Version)
 
-### 2.2. Global Financial Markets
+### Gate-L: LIQUIDITY / SETTLEMENT
 
-| Indicator Category | Indicator Name | Current Value | Status | Execution Trigger | Status |
-|---|---|---|---|---|---|
-| **Interest Rate Volatility** | **MOVE Index** | 125 | Stable | `> 140` (Gate-A) / `> 170` (Gate-B) | 🟢 |
-| **Credit Risk** | **HY OAS** | +350bp | Stable | Weekly `+150bp` (Gate-A) | 🟢 |
-| **US Treasury Auction** | **Tail / B/C / Indirect Bid** | Normal | Stable | 2 out of 3 points reached (Gate-B) / All 3 points simultaneously reached (Gate-C)¹ | 🟢 |
-| **Composite Risk** | **DXY, Gold, WTI** | Normal | Stable | Simultaneous surge of 3 indicators (ρ > 0.6) (Gate-C) | 🟢 |
-| **FX Intervention** | **Yen Appreciation Suppression Operation** | None | Normal | **Detection of this operation is a taboo subject**² | 🟢 |
+|Indicator|Monitoring Item|Alert Threshold (YELLOW)|
+|---|---|---|
+|**Cross-Currency Basis** ⏱️|USD/JPY 3M Basis|≤ –75bp (and ≤–15bp from the previous day)|
+|**Repo Market** ⏱️|GC Repo – SOFR Spread|≥ +35bp (continuous throughout the day)|
+|**Settlement Fails** ⏱️|UST Fails-to-Deliver|≥ $50bn/day (for 2 consecutive business days)|
 
-¹ **Footnote: US Treasury Auction 3-Point Set** - Simultaneous achievement of all 3 points is considered one of the Gate-C conditions.
+### Gate-E/F: ENERGY & FOOD
 
-- Reaching 2 out of 3 points activates Gate-B (Armed) and transitions to an early warning posture.
+|Indicator|Monitoring Item|Alert Threshold (YELLOW)|
+|---|---|---|
+|**Energy Prices** ⏱️|JKM or TTF|+30% / 10 business days|
+|**Grain Futures Prices** ⏱️|CBOT Wheat/Corn|+15% / 5 business days|
+|**Supply and Demand Report** ⏱️|WASDE World Major Grain Stocks|Downward revision of ≥ 3% from the previous month|
+|**Export Restrictions** ⏱️|Grain export restrictions by major countries|Lights up on **news flash + sudden change in futures prices**|
 
-² **Footnote: Taboo on Yen Appreciation Suppression (Dollar Buying) Intervention** - **Reasons for prohibition:** ① Waste of foreign reserves by counter-supporting during dollar flight, ② Worsens currency swap basis and increases procurement costs, ③ Sends wrong signals to the market, ④ Undermines the ideological foundation of THP's multi-currency lifeline corridor design.
+### Gate-S: STATES / MUNI
 
-- **Detection Proxy:** ① "Fireworks-type" spike in USD/JPY not linked to indicators, followed by a stall, ② Rapid expansion of USD/JPY currency basis swap in the negative direction, ③ Unnatural fluctuations in T-Bill/FB issuance or GC repo market, ④ Abnormal expansion/contraction of BOJ current account balance/call market on the next business day. The composite occurrence of these factors will raise the Gate judgment by one level.
+|Indicator|Monitoring Item|Alert Threshold (YELLOW)|
+|---|---|---|
+|**Credit Risk (Long-Term)** ⏱️|CA/IL/NY 5Y CDS|+40bp / week|
+|**Credit Risk (Short-Term)** ⏱️|Short-Term Muni Market Spread|Rapid widening (+20bp / 3 business days)|
+|**Fiscal Situation** ⏱️|Revenue performance of major states|≥ 5% below budget for 2 consecutive months|
 
-## 3. Operational Guidelines
+### Gate-M: MARKET
 
-### 3.1. Operational Cycle and Log Format
+|Indicator|Monitoring Item|Alert Threshold (YELLOW)|
+|---|---|---|
+|**Composite Volatility** ⏱️|**Simultaneous expansion** of VIX, MOVE, and CDX spreads|Each indicator exceeds the 95th percentile of the past 60 days|
 
-- **Operational Cycle:**
+_(Note: Indicators for Gate-D, G, and C/R are unchanged from Version 2.2)_
 
-    - **Time Point I (09:00 JST):** Reflects the situation after the Tokyo market opens.
+## 4. Activation Protocol: "Simultaneous Lighting" Detection Logic
 
-    - **Time Point II (23:00 JST):** Reflects the situation after London Fix.
+|Alert Level|Condition|THP Action|
+|---|---|---|
+|**YELLOW**|**Multiple alerts within a single Gate**|EOC semi-operational. Information gathering and immediate response preparations begin.|
+|**RED**|**"2/7 Rule":** **Two or more** of the **7 different Gates** reach the alert level simultaneously **within 48 hours**.|EOC fully operational. Final execution preparations for PJ0 and the Japan Salvation Plan begin. Action begins based on the **practical runbook**.|
+|**BLACK**|In addition to the RED level, **two or more indicators in Gate-L (settlement plumbing) (e.g., Fails-to-Deliver and repo rate spread) reach an emergency state simultaneously**.|**All THP protocols are activated immediately.**|
 
-    - **Time Point III (22:30 JST):** Reflects the situation after the US spot market opens.
+**Supplementary Rules:**
 
-    - **Ad-hoc:** At the time of US Treasury auction results announcement (02:00–03:00 JST).
+- **Hysteresis (Deactivation Condition):** After RED is activated, the alert level will be lowered to YELLOW only if all relevant Gates **return to a normal state for 24 consecutive hours**.
+    
+- **Weighting:** For initial movement detection, the threshold excess for Gates D, L, and M is calculated with a score multiplied by 1.2.
+    
 
-- **Standard Log Format:**
+## 5. Data Reliability Assurance
 
-    - **Observation:** `MOVE=158, HY OAS=+190bp/w, Tail=+6.2bp, Indirect=48%`
+- **Visualization of Data Delays:** Each indicator is given an icon (⏱️) to indicate the data update frequency (real-time/daily/weekly/monthly).
+    
+- **Fail-Safe:**
+    
+    - **Two-System Source Verification:** Key indicators are always cross-checked with two or more independent information sources.
+        
+    - **Headline Decontamination:** News (headlines) are adopted as a basis for situational judgment only when the relevant market indicators move in the same direction.
+        
+    - **Manual Override:** The EOC has the authority to manually change the alert level, provided that a clear rationale is given and a record is kept.
+        
 
-    - **Judgment:** `Gate-B, THP-Status=🟡→🔶`
+## 6. Practical Runbook (Immediate Action List upon RED Activation)
 
-    - **Interpretation:** `Dollar flight accelerates, secondary market buying demand evaporates. Precursor to auction dysfunction.`
+1. **Activation of Communication Network:** Immediately activate the confidential lines (Signal/dedicated satellite) of relevant ministries, major infrastructure operators (electricity, gas, water, settlement), and designated financial institutions.
+    
+2. **Deployment of Funding Kits:** Share a list of immediately available funds and collateral held by the national treasury, the Bank of Japan, and designated financial institutions.
+    
+3. **Final Confirmation of Imported Necessities List:** Based on the 90-day procurement coverage table for energy and food, finally confirm the status of securing alternative procurement routes (especially the Australian node).
+    
 
-    - **THP Connection:** `LM-02(Toolkit)=ARMED, LM-05(Legal)=ARMED, LM-07(Comms)=PREPARE`
+## 7. Most Recent Intelligence to Monitor (as of 2025/09/27 JST)
 
-### 3.2. T-13 → T-0 Sequence Model
+The following events may progress over the weekend and are monitored with the highest priority as **"imminent indicator candidates"** that could shake multiple Gates simultaneously.
 
-- **T-13~10:** HY OAS expands, and rating agencies announce negative watch or similar measures within the same week. **Gate-A** activated.
-
-- **T-9~6:** MOVE index approaches 170, and 2 out of 3 indicators in US Treasury auctions worsen. **Gate-B** activated.
-
-- **T-5~2:** DXY, Gold, WTI simultaneously rise (ρ > 0.6). **Gate-C** activated. Just before Niagara Falls (vertical market drop).
-
-- **T-1~0:** Excessive allocation to primary dealers is confirmed in the auction. SLR/repo market tightens, and additional margin calls by CCPs occur in a chain reaction.
-
-- **T-0:** The market fully prices in the auction failure, and the THP protocol is officially activated.
-
-## 4. Social and Inequality Domain
-
-| Indicator Category | Indicator Name | Current Value | Status | Execution Trigger | Status |
-|---|---|---|---|---|---|
-| **Wealth Inequality** | **Asset Share of Bottom 50%** | 2.5% | Stable | `≤ 2.0%` に低下 | 🟡WATCH |
-| **Social Psychology** | **Inequality Narrative Utterance** | Increasing | Monitoring | "Criticism of overseas aid + household budget fiscal discourse" overlap in the same week | 🟡WATCH |
-| **Social Stability** | **Number of Riots/Protests** | Minimal | Calming | "Zero protest actions" + "rising inflation rate" occur simultaneously | 🔴ALERT |
-<!-- THP-DEATH_OPS_KPI_v1 -->
-## Gate-D (☠ DEATH / TERMINAL) — Addendum
-
-**Promotion Conditions (Immediate activation upon 2/3 simultaneous fulfillment)**
-1. **Cash Convertibility Ratio (CCR) Collapse**:
-   - Definition: CCR = "Ratio of salaries for public services, electricity, water, medical, and communication that can be converted to JPY/JPY-Parities at T+2"
-   - Threshold: CCR < 40% for 48 consecutive hours
-2. **Grid Staffing Continuity (GSC) Index**:
-   - Definition: GSC = "Arrival rate of minimum replacement personnel for critical facilities"
-   - Threshold: < 85% for 24 consecutive hours in two out of three systems (transmission/distribution, control, power generation)
-3. **Clearing Collapse Signal (CLS)**:
-   - Condition: CCP required margin Δ (Initial+Variation) exceeds 95th percentile of normal times for 3 consecutive business sessions
-   - AND: Public announcement of "temporary suspension" or "forced novation" by major CCPs confirmed
-
-> **Declaration (Dashboard Display)**:
-> **THP STATUS = ☠ Gate-D (TERMINAL)** — Irreversible recovery impossible. Forced transition to post-order system (THP-Aftermath).
-
-### New KPIs (Addendum)
-- **CCR (Cash Convertibility Ratio)**: Salary convertibility rate based on T+2 (Target: public services, electricity, water, medical, communication)
-- **GSC (Grid Staffing Continuity)**: Personnel arrival rate for ISO/TSO/major power generation (3-system monitoring)
-- **JG/JS/JOIL-Par**: Provisional Fix of JPY/Gold, JPY/Silver, JPY/WTI
-- **L/C Utilization Rate**: Issuance execution ratio of government-guaranteed L/C + reinsurance pool
-- **JIMS Corridor Flow**: JPY settlement volume of humanitarian aid, power fuel, medical, and water passing through
-- **Shadow-USD Dependency**: Ratio of immediate dollar exchange of other currency invoices (pseudo-dollarization indicator)
-<!-- THP-KPI_UNITS_v1 -->
-### KPI Units (Explicit)
-- CCR: % (T+2, Target = Public/Electricity/Water/Medical/Communication)
-- GSC: % (Personnel arrival rate, 3-system monitoring)
-- JG-Par: JPY/oz, JS-Par: JPY/oz, JOIL-Par: JPY/bbl, JGR-Par: JPY/basket, JWA-Par: JPY/m³
-- L/C Utilization Rate: %
-- JIMS Flow: JPY
-- Shadow-USD Dependency: %
-<!-- THP-TIMELINE_D_v1 -->
-### T-0 Onwards (Automatic Transition upon DEATH Activation)
-- **T+0~**: `CCR/GSC/CLS` conditions met, **Gate-D** activated. Dashboard displays **THP STATUS = ☠ Gate-D (TERMINAL)** and automatically transitions to **THP-Aftermath** procedure.
+|Event|Related Gate|Impact Analysis|
+|---|---|---|
+|**Qualitative Change in Sino-Russian Military Cooperation**|Gate-G, Gate-C/R|Qualitatively different from mere coordination in that it is an "enhancement of invasion response capabilities." Increases geopolitical risk in the Asia-Pacific region and makes a Taiwan contingency more realistic.|
+|**US Pressure on India**|Gate-G, Gate-E/F|This is a move aimed at dividing BRICS, increasing dependence on alternative suppliers of Russian crude oil (e.g., Australia), and increasing the vulnerability of the energy supply chain.|
+|**Cracks within NATO**|Gate-G, Gate-D|The allegations surrounding Hungary expose the fact that the unity of the Western alliance is not monolithic. It undermines US leadership and the credibility of the dollar system.|
+|**Reimposition of Iran Sanctions**|Gate-G, Gate-E/F|Reignites military tensions in the Middle East and increases the risk of a surge in crude oil prices and marine insurance premiums. Could be a direct external shock to the dollar system.|

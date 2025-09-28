@@ -1,132 +1,208 @@
 # THP-2: Ethics Charter
 
-### Preamble
+## Preface
 
-This Charter defines the ethical foundation of the new world order constructed by The Horizon Protocol (THP). It directly confronts the reality of the dysfunction of traditional international law and theories of justice, setting "maintenance of order" and "defense of human morality" as absolute standards. All nations, organizations, and individuals will be evaluated based on the articles of this Charter, and the propriety of their actions will be judged.
+**Academic Version**
+This charter defines the ethical foundation of the new world order constructed by The Horizon Protocol (THP). It confronts the reality that conventional international law and theories of justice have become dysfunctional, and establishes "maintenance of order" and "defense of humanity" as absolute standards. All states, organizations, and individuals will be evaluated based on the articles of this charter, and the rightness or wrongness of their actions will be judged.
 
-## Scope of Application
+**Explanatory Version (Explanation of Order in THP)**
+In an ideal world, rules and charters are not necessary.
+However, reality, like the law of the jungle and natural selection, mercilessly brings both happiness and disaster.
 
-<!-- AUDIT:
-ACTION_ID: ETHICS-INSERT-COUNCIL-SECTION
-WHO: Gemini via CODEX
-WHEN_JST: auto
-WHY: Clarify names and functions, prevent hierarchical misunderstandings
--->
+In order for humans to live with dignity as "humans," a wall is needed to protect them from this harsh reality.
+That wall is "humanity" (→ see Lexicon), and we survive inside it through "collective self-defense."
 
-## Condemnation Mechanism (Names and Hierarchy)
+The act of breaking this wall becomes a "sin." There are two types of sin: "atonement," which allows one to return after repentance and reparation, and "condemnation," which is unforgivable and results in exile outside the wall.
+Order in THP is to make this "humanity" the sole standard and to protect collective self-defense through "atonement and condemnation."
 
-### Global Council of Condemnation
-- The highest authority. Possesses the sole power to declare condemnation and atonement in the name of humanity.
-- Imprints a final stigma on history only for universal grave sins.
+---
 
-### National Councils of Condemnation
-- Established in each integrated entity (nation, government, supranational organization, etc.).
-- Responsible for fact-finding, deliberation, and sentencing, and submits conclusions to the Global Council of Condemnation (does not hold the authority to declare).
+## Humanity Organization (Name and Hierarchy)
 
-- Condemnation based on this Charter is limited to universal grave sins (large-scale civilian killings, institutional persecution, repeated aggression). Individual political disputes are not subject.
+### Global Council of Ethics
 
-# 【Special Most Important Annotation】
+**Academic Version**
+As the highest body, it has the sole authority to declare condemnation and atonement in the name of all humanity. The subjects are limited to universal mortal sins, and its decisions are recorded as historical stigmas.
 
-### Only the Global Council of Condemnation (formerly: Council of Human Morality) can declare condemnation and atonement.
-### Individuals, organizations, and AI do not possess this authority.
-### Unauthorized use of this authority is a destruction of order.
+**Explanatory Version**
+The "final judge" of all humanity.
+It is the only place that ultimately decides whether to "forgive (atonement)" or "never forgive (condemnation)."
 
-### Each integrated entity (nation, government, organization) must punish the abuse of condemnation and atonement when confirmed.
+---
 
-## Priority of Culture/Religion and Universal Human Rights (Connection to People's Charter)
+### National Councils of Ethics
 
-- Cultural and religious practices are protected, but if they violate universal human rights, such practices are invalidated. This is in accordance with the People's Charter's "List of Prohibited Practices."
+**Academic Version**
+Established in each integrated entity (states, governments, supranational organizations, etc.). It is responsible for fact-finding, deliberation, and sentencing, and reports its conclusions to the Global Council of Ethics. However, it does not have the authority to declare in its own name.
 
-### Article 1: Fundamental Principle: Affirmation of Life and Priority of Order
+**Explanatory Version**
+The "investigation team" of each country and organization.
+When an incident occurs, they thoroughly investigate it and report to the Global Council of Ethics.
 
-#### Research Version
+---
 
-All life is affirmed in principle. However, this affirmation is not unconditional; the "order" defined by THP takes precedence. Human rights are not inherent rights but are defined as acquired rights guaranteed only by THP's order and its laws. These rights may be restricted for entities that threaten order.
+### Humanity Study Group
 
-#### Article Version
-(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
+**Academic Version**
+An advisory body composed of the Four Sages (tentatively, the current Emperor of Japan, the Pope, the King of Saudi Arabia, and King Richard). It has no hierarchical superiority over other ethics councils, but has the two powers of requesting pardon and requesting reconsideration of condemnation.
 
-Everyone's life is very important. However, "order" for everyone to live peacefully is even more important. Human rights are guaranteed only by upholding this order.
+**Explanatory Version**
+The "conscience of humanity."
+Its role is to put a "hold" on punishments that are too severe, or to suggest "why don't you forgive them now?" to those who have repented.
+These two are its only special powers, and it does not stand above others.
 
-### Article 2: Definition of Sin: Destruction of Order and Challenge to Human Morality
+---
 
-#### Research Version
+## [Special Note] Regarding the Selection of the Humanity Study Group (Four Sages)
 
-"Sin" in THP is broadly categorized into two types:
+**Academic Version**
+The composition of the Four Sages is provisional, and its essence lies in its function as a "safety device to introduce human emotion into cold logic." The current composition is a symbolic authority representing the major cultural spheres, but it lacks universality in terms of secular/non-religious perspectives, geographical/demographic balance, and gender balance. The official composition will be reconsidered through a democratic process after the new order is stabilized.
 
-1. **Acts that destroy order itself**: All acts that fundamentally shake the world's stability defined by THP, such as inviting foreign invasion, destroying critical infrastructure through cyberattacks, or intentionally disrupting the reserve currency system.
+**Explanatory Version**
+The Four Sages are a temporary arrangement for now.
+The role of this organization is a safety device to introduce human emotions and conscience to prevent a "cold system of logic alone."
 
-2. **Acts that violate human morality**: Serious challenges to the foundation of civilization, such as genocide, systematic massacre of unarmed civilians, nuclear blackmail, or the use of inhumane biological or chemical weapons.
+However, the current members are centered on religion and royalty, and there are no representatives from scientists, women, or regions such as Africa and South America.
+Originally, a more diverse representation is scheduled to be re-elected democratically, but for now, it is a temporary arrangement to prioritize crisis response.
 
-#### Article Version
-(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
+---
 
-In the world of THP, "sin" refers to two things:
+## Article 0: Nature and Granting of Human Rights
 
-1. Intentionally destroying the rules and systems that allow everyone to live safely.
+**Academic Version**
+Human rights are not inherent, but are granted only to subjects who comply with humanity. The granting body has a two-tiered structure, consisting of both (1) domestic granting by the group to which each individual belongs, and (2) international granting based on the consensus of all humanity. Therefore, human rights are guaranteed as part of collective self-defense on the condition of maintaining order.
 
-2. Doing "things that are absolutely unacceptable as human beings" (→ See Lexicon: Human Morality).
+**Explanatory Version**
+Human rights are not "innate."
+Only those who protect "humanity" receive human rights from their country or group.
+Furthermore, "international human rights" are also granted by the consensus of all humanity.
+In other words, human rights are conditional on "protecting order."
+(Of course, newborn babies and someone's guardian are protected through their guardian.)
 
-### Article 3: Atonement: Reintegration into the International Community
+---
 
-#### Research Version
+## Scope of Application of Condemnation
 
-"Atonement" is the official process for settling past sins and reintegrating into the international community. This is not merely an amnesty but is accompanied by the fulfillment of responsibility and a pledge to prevent recurrence. Approval is declared in the name of the **Global Council of Condemnation**, based on the procedures and sentencing of the National Councils of Condemnation (formerly: Courts of Human Morality). The Four Sages are advisory (non-voting).
+**Academic Version**
+Condemnation is applied only to universal mortal sins (large-scale civilian killing, institutional persecution, repetition of aggression). Individual political issues are not subject to condemnation.
 
-- **Judicial Body**: National Councils of Condemnation handle litigation procedures and sentencing, and the **final judgment is declared in the name of the Global Council of Condemnation**.
+**Explanatory Version**
+Only "absolutely unforgivable mortal sins" are condemned.
+You will not be condemned for political conflicts or differences of opinion.
 
-#### Article Version
-(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
+---
 
-"Atonement" (→ See Lexicon) means atoning for committed sins, having "sorry" recognized by the world, and rejoining the community.
+## [Special Most Important Note]
 
-### Article 4: Condemnation: Irreversible Historical Stigma
+**Academic Version**
+The authority to declare condemnation and atonement belongs exclusively to the Global Council of Ethics. Usurpation by individuals, organizations, or AI is considered an act of destroying order, and each subject is obligated to punish it as soon as it is confirmed.
 
-#### Research Version
+**Explanatory Version**
+Only the Global Council of Ethics can speak of condemnation or atonement.
+No one is allowed to say "I have been condemned" on their own.
+If found, each country must punish it by law.
 
-"Condemnation" is the final ethical judgment passed without possibility of redemption on entities that have committed universal grave sins against humanity. National Councils of Condemnation handle litigation procedures and sentencing, and the final judgment is declared in the name of the Global Council of Condemnation (the Global Council of Condemnation handles deliberation and recommendations). Political condemnation is excluded (only universal grave sins are deliberated). This condemnation is an irreversible historical stigma and cannot be overturned by any changes in era or political circumstances.
+---
 
-#### Article Version
-(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
+## Priority of Culture, Religion, and Universal Human Rights (Connection with the People's Charter)
 
-"Condemnation" (→ See Lexicon) means being eternally marked in history as an unforgivable sin.
+**Academic Version**
+The practices of each culture and religion are respected in principle, but are considered invalid if they violate universal human rights. The judgment criteria are based on the "List of Prohibited Practices" in the People's Charter.
 
-### Article 5: Enforcement: E-MAD Protocol
+**Explanatory Version**
+Culture and religion are respected.
+However, when they violate universal human rights, which are "absolutely unacceptable as a human being," human rights take precedence over the rules of that culture or religion.
 
-#### Research Version
+---
 
-The enforcement of this Charter shall primarily use non-violent economic and financial means, and its operation shall comply with the "E-MAD (Effective Multilateral Assured Denial)" protocol¹. Sanctions by force are permitted only as a last resort against condemned entities, under strict conditions.
+## Articles
 
-#### Article Version
-(A concise version of the research version's key points in legal text. Terminology aligns with the Lexicon.)
+### Article 1: Fundamental Principle - Affirmation of Life and Priority of Order
 
-Punishment for those who break the rules of this Charter will be automatically carried out through an economic mechanism called E-MAD (→ See Lexicon).
+**Academic Version**
+The dignity of life is an absolute value, but its rights are guaranteed on the premise of maintaining order.
 
-*"If you shoot, be prepared to be shot. Salvation for those who uphold order, judgment for those who destroy it."*
+**Explanatory Version**
+Everyone's life is very important. But only by protecting "order" can life and rights be protected.
 
-¹ _Refer to the supplementary material "E-MAD Specifications" for details._
+---
 
-## Scope of Condemnation (Reiteration)
+### Article 2: Definition of Sin - Destruction of Order and Challenge to Humanity
 
-- Applies only to universal grave sins (large-scale civilian killings, institutional persecution, repeated aggression). Individual political disputes are not subject.
+**Academic Version**
+Sin is (1) the act of intentionally destroying the framework for maintaining order, and (2) the act of violating humanity.
 
-## Organizational Integration (Councils / Courts / Four Sages)
+**Explanatory Version**
+There are only two things that become sins.
+- Destroying the system that allows everyone to live in peace.
+- Doing what you should never do as a human being.
 
-- Final judgment is in the **name of the Global Council of Condemnation**.
-- National Councils of Condemnation: Judicial department (litigation procedures and sentencing).
-- Four Sages: **Advisory (non-voting)**.
+---
 
-<!-- AUDIT:
-ACTION_ID: ETHICS-APPEND-LEGACY-NAMES
-WHO: Gemini via CODEX
-WHEN_JST: auto
-WHY: Clarify replacement, prevent misinterpretation
--->
+### Article 3: Atonement - Return to the International Community
 
-## Supplementary Provisions (Handling of Former Names)
+**Academic Version**
+Atonement is the process of settling guilt and returning to the international community on the condition of fulfilling responsibility and preventing recurrence.
 
-- Former names "Court of Human Morality" and "Council of Human Morality" in this Charter are replaced as follows:
-  - Court of Human Morality → National Councils of Condemnation
-  - Council of Human Morality → Global Council of Condemnation
+**Explanatory Version**
+Atonement means saying "I'm sorry," and if your repentance is accepted, you can return to the group.
 
-- For consistency in historical materials and citations, parenthetical notes **(formerly: ...)** are permitted only at the first appearance. Thereafter, new names shall be used consistently.
+---
+
+### Article 4: Condemnation - Irreversible Historical Stigma
+
+**Academic Version**
+Condemnation is the final ethical judgment handed down to a subject who has committed a universal mortal sin, and it is an irreversible historical stigma.
+
+**Explanatory Version**
+Condemnation means that it will remain in history forever as an "unforgivable sin."
+
+---
+
+### Article 5: Execution - E-MAD Protocol
+
+**Academic Version**
+Sanctions are automatically executed by economic means based on the E-MAD protocol.
+
+**Explanatory Version**
+Those who break the rules will be automatically punished by the economic system called E-MAD.
+"If you shoot, you will be shot. If you protect, you will be saved." That is the mechanism of order.
+
+---
+## **Article 6: E-Penalty - Non-violent Order Maintenance Measures**
+
+**Academic Version**
+E-Penalty is a **micro-level order maintenance system** in THP and is clearly distinguished from the atonement/condemnation frame of E-MAD.
+The target of application is a subject who has violated the obligation to maintain order, and the measures applied are limited to **non-violent means**.
+
+Examples of measures include:
+
+- Addition of a risk premium to financial transactions and capital costs
+    
+- Imposition of penalties on various credit scores
+    
+- Lowering of priority in international cooperation networks
+    
+
+These are implemented through consultation between each regional supervisor and the target country, based on the principles of **transparency, fairness, and accuracy** ("accuracy" means the correspondence between sin and punishment).
+
+If the deviant act exceeds the scope of E-Penalty, its handling is entrusted to **E-MAD (National Councils of Ethics)**. THP approves the existence of E-Penalty, but does not directly implement it.
+
+---
+
+**Explanatory Version**
+E-Penalty is a "punishment for rule violations," but **it does not use violence**.
+All it can do is increase risk or lower credit.
+
+For example:
+
+- The money you borrow becomes more expensive (risk premium)
+    
+- Your credit score goes down
+    
+- You are put on the back burner in international cooperation
+    
+
+These are "economic and social disadvantages."
+
+If it progresses to a more serious violation (violence or serious destruction), E-MAD (each country's ethics council) will judge, and THP will not intervene there.

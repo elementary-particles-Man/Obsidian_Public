@@ -1,73 +1,75 @@
 # THP-4: Religion Charter
 
-### Preamble: Coexistence of Religion and Reality
+### Preface: Coexistence of Religion and Reality
 
-#### Research Version
+#### Academic Version
 
-The Horizon Protocol (THP) completely separates religion from state and politics, redefining it as belonging to the realm of individual inner spirituality. The basis of coexistence lies in positioning empirical and verifiable **"reality"** as a common reference standard above all religions and ideologies. Religions are free to articulate hope and meaning within their respective doctrines, built upon this common reality.
+The Horizon Protocol (THP) redefines religion as something that belongs to the realm of individual inner spirituality, completely separate from the state and politics. The basis for coexistence is to position **"reality,"** which is empirical and verifiable, as a common frame of reference above all religions and ideologies. Religion has the freedom to speak of hope and meaning in its respective doctrines on the foundation of this common reality.
 
-#### Article Version
+#### Simplified Version
 
-Respect each other's beliefs. However, no belief shall deny scientific or medical facts, nor justify acts that harm the life or health of others.
+Respect each other's faith. However, no faith shall deny scientific or medical facts or justify acts that harm the life or health of others.
 
-### Article 1: Freedom of Belief and Separation of Church and State
+### Article 1: Freedom of Belief and Separation of Religion and State
 
-- (Refer to) Lexicon: Cult / Inviolability of Science and Medicine.
+- (See) Lexicon: Cult / Inviolability of Science and Medicine.
 
-#### Research Version
+#### Academic Version
 
-All individuals have the right to freely choose, explore, practice, or abandon their beliefs. The state shall not favor or suppress any particular religion and is obligated to maintain a thorough separation of church and state in public education and administration.
+All individuals have the right to freely choose, seek, practice, or abandon their own beliefs. The state shall not favor or suppress any particular religion and has a duty to maintain a thorough separation of religion and state in public education and administration.
 
-#### Article Version
+#### Simplified Version
 
-1. What religion one believes in, or does not believe in, is entirely a matter of individual freedom.
+1. It is completely up to the individual what religion to believe in or not to believe in.
 
-2. The state and government must not favor or persecute any particular religion.
+2. The state and government shall not favor or bully any particular religion.
 
 ### Article 2: Duty of Mutual Respect
 
-- (Refer to) Lexicon: Cult / Inviolability of Science and Medicine.
+- (See) Lexicon: Cult / Inviolability of Science and Medicine.
 
-#### Research Version
+#### Academic Version
 
-All believers have a duty to respect the beliefs and thoughts of others. Acts that assert the absolute truth of one's own doctrine and insult or attack the beliefs of others as "wrong" or "evil" are considered "intolerance" prohibited by THP and acts that destroy the spiritual peace of the world.
+All believers have a duty to respect the beliefs and ideas of others. The act of asserting the absoluteness of one's own doctrine and insulting or attacking the beliefs of others as "wrong" or "evil" is considered "intolerance" prohibited by THP and an act that destroys the spiritual peace of the world.
 
-#### Article Version
+#### Simplified Version
 
-3. Do not belittle or judge the beliefs of others as wrong.
+3. You shall not make fun of or decide that other people's beliefs are wrong.
 
-### Article 3: Prohibition of Falsehood Against Reality
+### Article 3: Prohibition of Falsehoods Against Reality
 
-- (Refer to) Lexicon: Cult / Inviolability of Science and Medicine.
+- (See) Lexicon: Cult / Inviolability of Science and Medicine.
 
-#### Research Version
+#### Academic Version
 
-Acts performed in the name of religion that deny scientific or medical reality, and acts that force such denials upon others, are considered "falsehoods" rather than beliefs, and are prohibited¹.
+Acts that deny scientific or medical reality in the name of religion, and acts that force them on others, are not faith but "falsehoods" and are prohibited¹.
 
-#### Article Version
+#### Simplified Version
 
-4. Do not tell "lies" that deny science or medicine for religious reasons, or force such lies on others.
+4. You shall not tell "lies" that deny science or medicine for religious reasons, or force them on others.
 
 ### Article 4: Definition and Exclusion of Cults
 
-- (Refer to) Lexicon: Cult / Inviolability of Science and Medicine.
+- (See) Lexicon: Cult / Inviolability of Science and Medicine.
 
-#### Research Version
+#### Academic Version
 
-Organizations that deny the beliefs of others, promote social isolation, or spiritually or economically exploit their followers are defined as "cults" rather than religions, and are subject to exclusion based on the THP Ethical Charter.
+Organizations that deny the beliefs of others, encourage isolation from society, or spiritually or economically exploit their followers are defined not as religions but as "cults" and are subject to exclusion based on the THP Ethics Charter.
 
-#### Article Version
+#### Simplified Version
 
-5. Dangerous groups that deceive people for money, or isolate them from society, are not religions but mere "cults." They are not tolerated.
+5. A dangerous group that deceives people to take their money or isolates them from society is not a religion but just a "cult." It is not allowed.
 
-### Article 5: Salvation Through Reality
+### Article 5: Salvation by Reality
 
-#### Research Version
+- (See) Lexicon: Cult / Inviolability of Science and Medicine.
 
-In the THP worldview, "reality" already provides universal and neutral salvation through all phenomena. Religion plays the role of articulating individual hopes and meanings upon this foundation of reality.
+#### Academic Version
 
-#### Article Version
+In the worldview of THP, "reality" already provides universal and neutral salvation through all things in nature. Religion plays the role of speaking of individual hopes and meanings on the foundation of that reality.
 
-6. "Reality," such as water, sun, and earth, sustains all people equally. Religion is built upon this gratitude.
+#### Simplified Version
 
-¹ _For details, refer to THP-5: Lexicon (sections on "Cult" and "Inviolability of Science and Medicine")._
+6. "Reality," such as water, the sun, and the earth, allows all people to live equally. Religion is built on that gratitude.
+
+¹ _For details, see THP-5: Lexicon (sections on "Cult" and "Inviolability of Science and Medicine")._
