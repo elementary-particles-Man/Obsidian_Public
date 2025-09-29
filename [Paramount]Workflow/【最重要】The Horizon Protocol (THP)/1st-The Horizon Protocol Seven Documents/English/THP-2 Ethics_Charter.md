@@ -1,226 +1,283 @@
-# THP-2: Ethics Charter
 
-## Preamble
+### **THP-2: Ethics Charter**
 
-**Academic Version**
-This Charter defines the ethical foundation of the new world order established by The Horizon Protocol (THP). Confronting the reality that conventional international law and theories of justice have become dysfunctional, it establishes "maintenance of order" and "defense of humanity" as absolute standards. All nations, organizations, and individuals shall be evaluated based on the articles of this Charter, and the legitimacy of their actions shall be judged accordingly.
+### **Preamble**
 
-**Explanatory Version (Explanation of Order in THP)**
+Academic Version
+
+This Charter defines the ethical foundation of the new world order to be established by The Horizon Protocol (THP). Confronting the reality that conventional international law and theories of justice have become dysfunctional, it establishes the "maintenance of order" and the "defense of humanity's principles (Jinrin)" as its absolute criteria. All states, organizations, and individuals shall be evaluated, and the legitimacy of their actions judged, based on the articles of this Charter.
+
+Explanatory Version (On Order within THP)
+
 In an ideal world, rules and charters are unnecessary.
-However, reality, much like survival of the fittest or natural selection, mercilessly brings both happiness and calamity.
 
-For humans to live with dignity as "human beings," a wall is necessary to protect them from this harsh reality.
-That wall is "humanity (→ see Lexicon)," and within it, we survive through "collective self-defense."
+However, reality, much like the law of the jungle or natural selection, mercilessly delivers both fortune and calamity.
 
-Acts that break this wall become "crimes." There are two types of crimes: "atonement," where one can return after reflection and reparation, and "condemnation," where one is unforgiven and exiled outside the wall.
-Order in THP is to uphold this "humanity" as the sole standard and to protect collective self-defense through "atonement and condemnation."
+For human beings to live with dignity as humans, a wall is required to protect ourselves from this harsh reality.
 
----
+That wall is "Jinrin" (the principles of humanity), and within it, we survive through "collective self-defense."
 
-## Ethical Institutions (Names and Hierarchy)
+Acts that destroy this wall constitute "transgressions." There are two types of transgressions: those that can be atoned for, allowing for a return to the community through remorse and reparation ("Atonement"), and those that can never be forgiven, resulting in permanent expulsion beyond the wall ("Condemnation").
 
-### Global Council of Ethics
-
-**Academic Version**
-As the highest body, it possesses the sole authority to declare condemnation and atonement in the name of all humanity. Its scope is limited to universal grave sins, and its decisions are recorded as historical stigmas.
-
-**Explanatory Version**
-The "final judge" for all of humanity.
-It is the only place that ultimately decides whether to "forgive (atonement)" or "never forgive (condemnation)."
+Order within THP is nothing less than the act of upholding this collective self-defense through the strict rules of "Atonement and Condemnation," with Jinrin as the sole criterion.
 
 ---
 
-### National Councils of Ethics
+### **Article X: The Reality Precedence Clause – On Discrepancies Between Jinrin and Reality**
+
+Jinrin is a covenant with reality, never to be broken, for human beings to live as humans.
+
+Its details are stipulated in THP-5 "The Lexicon," but specifically, it inherits the principles of "crimes against humanity in the old order (e.g., Geneva Conventions, Rome Statute)," and its additions, amendments, or redefinitions shall be democratically determined by the "Global Council of Ethics" as described later.
+
+**THP possesses neither the authority nor the qualification to unilaterally define Jinrin.**
 
 **Academic Version**
-Established in each integrated entity (nations, governments, supranational organizations, etc.). They are responsible for fact-finding, deliberation, and sentencing, and submit their conclusions to the Global Council of Ethics. However, they do not have the authority to declare sentences.
+
+1. Should theory and reality conflict, **reality is always deemed correct**; theory is merely a tool to explain reality.
+    
+2. Even the ideal of Jinrin, when it contradicts the constraints of reality, requires that we **accept the constraints of reality** and pursue the realization of Jinrin thereupon.
+    
+3. However, the ultimate purpose of the world order, including Jinrin, lies in the **affirmation of the sustainable existence** of humanity and all of creation.
+    
+4. Therefore, in all judgments, including Condemnation, the judging party must respect the ideal of Jinrin to the fullest extent, while simultaneously confronting the incompatible constraints of reality, and carry out the execution in a manner as consistent with Jinrin as possible under those constraints.
+    
 
 **Explanatory Version**
-The "investigation team" for each country and organization.
-When an incident occurs, they thoroughly investigate and report to the Global Council of Ethics.
+
+- If "idealism" and "harsh reality" collide, we always prioritize reality in our thinking. Theories are tools to overcome reality.
+    
+- Even a high ideal like Jinrin must first yield to the acceptance of reality if it is practically impossible to implement.
+    
+- However, the true purpose of Jinrin and the world's rules is "to enable the continued existence of both people and nature."
+    
+- Therefore, even when meting out punishment, it will be done in a way that is as aligned with Jinrin as possible within the scope of what is realistic, without forgetting the ideal.
+    
 
 ---
 
-### Humanity Study Group
+### **The Jinrin Apparatus (Names and Hierarchy)**
 
-**Academic Version**
-An advisory body composed of the Four Sages (tentatively, the current Emperor of Japan, the Pope, the King of Saudi Arabia, and King Richard). It holds no hierarchical superiority over other ethics councils but possesses the two powers of requesting amnesty and requesting reconsideration of condemnation.
+#### **Global Council of Ethics**
 
-**Explanatory Version**
+Academic Version
+
+As the highest decision-making body, it possesses the sole authority to declare "Condemnation" and "Atonement" in the name of all humanity. Its jurisdiction is limited to universal high crimes, and its decisions are recorded as irreversible historical marks.
+
+Explanatory Version
+
+The "final judge" of all humanity.
+
+This is the only place that ultimately decides whether to forgive (Atonement) or to never forgive (Condemnation).
+
+#### **National Councils of Ethics**
+
+Academic Version
+
+Established within each integrated entity (state, government, supranational organization, etc.). It is responsible for fact-finding, evidence collection, initial hearings, and sentencing recommendations, submitting its conclusions to the Global Council of Ethics. It does not, however, hold the final power of declaration.
+
+Explanatory Version
+
+The "investigation and prosecution teams" of each country and organization.
+
+When an incident occurs, they investigate it thoroughly and report to the Global Council of Ethics, "a punishment of this nature is appropriate."
+
+#### **Humanity Study Group**
+
+Academic Version
+
+An advisory body composed of the Four Saints (tentatively designated as His Majesty the Emperor of Japan, His Holiness the Pope, His Majesty the King of Saudi Arabia, and His Majesty King Richard). As an independent body without hierarchical superiority over other ethics councils, it exercises only two inherent powers: the "Right to Request Pardon" and the "Right to Request Reconsideration of Condemnation."
+
+Explanatory Version
+
 The "conscience of humanity."
-Its role is to call for a halt when a punishment is too severe or to suggest "perhaps it's time to forgive" for those who have repented.
-These two special powers are its only ones, and it does not stand above others.
+
+It plays a special role, such as calling for a halt when a punishment is too severe, or suggesting, "Perhaps we should forgive this person now," for those who have shown deep remorse.
+
+Its authority is limited to these two rights; it is not superior to others.
 
 ---
 
-## 【Special Note】Regarding the Selection of the Humanity Study Group (Four Sages)
+### **【Special Note】On the Selection of the Humanity Study Group (The Four Saints)**
 
-**Academic Version**
-The composition of the Four Sages is provisional; its essence lies in its function as a "safety device to introduce human emotion into cold logic." The current composition represents symbolic authorities of major civilizations but lacks universality in terms of secular/non-religious perspectives, geographical/demographic balance, and gender balance. The official composition will be reconsidered through democratic procedures after the new order stabilizes.
+Academic Version
 
-**Explanatory Version**
-The Four Sages are a temporary arrangement for now.
-The role of this organization is to be a safety device that incorporates human emotions and conscience to prevent a "cold system of logic alone."
+The current composition of the Four Saints is provisional. Its essence lies in its function as a "failsafe mechanism to introduce human compassion and wisdom into cold logic." While the current composition represents symbolic authorities from major civilizational spheres, it is clearly lacking in universality from secular/non-religious perspectives, geographical/cultural balance, and gender balance. The official composition shall be reconsidered through a democratic process involving all humanity after the new order has stabilized.
 
-However, the current members are centered around religion and royalty, and there are no representatives from science, women, or regions like Africa and South America.
-Originally, a more diverse representation is planned to be chosen democratically, but for now, crisis response is prioritized, so this is a temporary measure.
+Explanatory Version
 
----
+The members of the Four Saints are, for now, placeholders.
 
-## Article 0: The Nature and Granting of Human Rights
+The true role of this organization is to serve as a failsafe that prevents a "cold system based on logic alone" from running amok, by reflecting human emotion, conscience, and the wisdom cultivated over long history.
 
-**Academic Version**
-Human rights are not inherent but are granted only to subjects who adhere to humanity. The granting body has a two-tiered structure, established through both ① domestic granting by the group to which each individual belongs, and ② international granting based on the consensus of all humanity. Therefore, human rights are guaranteed as part of collective self-defense, conditional on the maintenance of order.
+The current members are biased toward religion and royalty, lacking representatives such as scientists, women, or individuals from regions like Africa or South America.
 
-**Explanatory Version**
-Human rights are not "innate."
-Only those who uphold "humanity" receive human rights from their country or group.
-Furthermore, "international human rights" are also granted by the consensus of all humanity.
-In other words, human rights are conditional on "maintaining order."
-(Of course, newborn babies and their guardians are protected through their guardians.)
+Ideally, a more diverse group of representatives should be democratically elected, but as we are in a time of emergency, crisis response is prioritized, and this provisional composition is adopted.
 
 ---
 
-## Scope of Application for Condemnation
+### **Article 0: The Nature and Bestowal of Human Rights**
 
-**Academic Version**
-Condemnation is applied only to universal grave sins (large-scale civilian massacres, institutional persecution, repeated aggression). Individual political disputes are not subject to condemnation.
+Academic Version
 
-**Explanatory Version**
-Condemnation is only for "absolutely unforgivable grave sins."
-Political conflicts or differences of opinion will not result in condemnation.
+Human rights are not endowed by nature, but are a qualification granted only to members of a community who adhere to Jinrin. The granting authority has a dual structure, established through both (1) domestic bestowal by the group to which each individual belongs, and (2) international bestowal based on the consensus of all humanity. Therefore, human rights are guaranteed as a part of collective self-defense, conditional upon the maintenance of order.
 
----
+Explanatory Version
 
-## 【Special Most Important Annotation】
+Human rights are not something one "is naturally born with."
 
-**Academic Version**
-The authority to declare condemnation and atonement belongs exclusively to the Global Council of Ethics. Any arrogation by individuals, organizations, or AI is considered an act of order destruction, and each entity is obligated to punish it upon confirmation.
+Only those who abide by the common rules of "Jinrin" are granted human rights as members of their own country or group.
 
-**Explanatory Version**
-Only the Global Council of Ethics can speak of condemnation or atonement.
-No one is allowed to arbitrarily say someone is "condemned."
-If found, each country must punish it by law.
+Furthermore, "international human rights" are also guaranteed by the consensus of all humanity.
+
+In other words, human rights are a qualification for maintaining the community, conditional on "upholding order."
+
+(It goes without saying that for those unable to fulfill their duties themselves, such as infants or protected persons, their rights are protected through their guardians.)
 
 ---
 
-## Priority of Culture, Religion, and Universal Human Rights (Connection with the Ethnic Charter)
+### **Scope of Application for Condemnation**
 
-**Academic Version**
-The practices of each culture and religion are respected in principle, but they are invalidated if they conflict with universal human rights. The criterion for judgment is based on the "List of Prohibited Practices" in the Ethnic Charter.
+Academic Version
 
-**Explanatory Version**
-Culture and religion are respected.
-However, when they conflict with universal human rights, which are "absolutely unacceptable as a human being," human rights take precedence over the rules of that culture or religion.
+Condemnation shall be applied exclusively to universal high crimes (large-scale killing of civilians, systematic persecution, repetition of aggression). Specific political disputes or ideological conflicts shall not be subject to Condemnation.
 
----
+Explanatory Version
 
-## Articles
+Only "great transgressions that cross a line that must never be crossed as a human being, which are unforgivable no matter how one looks at it," are condemned.
 
-### Article 1: Fundamental Principle - Affirmation of Life and Priority of Order
-
-**Academic Version**
-The dignity of life is an absolute value, but its rights are guaranteed on the premise of maintaining order.
-
-**Explanatory Version**
-Everyone's life is very important. But only by protecting "order" can life and rights be protected.
+One cannot be condemned for political conflicts or differences of opinion.
 
 ---
 
-### Article 2: Definition of Crime - Destruction of Order and Challenge to Humanity
+### **【Special and Most Important Annotation】**
 
-**Academic Version**
-A crime is either ① an act that intentionally destroys the framework of order maintenance, or ② an act that goes against humanity.
+Academic Version
 
-**Explanatory Version**
-There are only two things that constitute a crime:
-・Destroying the system that allows everyone to live in peace.
-・Doing something that is absolutely forbidden as a human being.
+The authority to declare Condemnation and Atonement belongs exclusively to the Global Council of Ethics. Any usurpation of this authority by any entity, including individuals, groups, or AI, shall be deemed a grave act of destruction against order itself, and each governing entity bears the absolute obligation to punish such acts under law upon confirmation.
 
----
+Explanatory Version
 
-### Article 3: Atonement - Return to the International Community
+Only the Global Council of Ethics can declare "Condemnation" or "Atonement."
 
-**Academic Version**
-Atonement is the process of settling guilt and returning to the international community on the condition of fulfilling responsibilities and preventing recurrence.
+No individual, organization, or AI is ever permitted to arbitrarily state, "You are condemned."
 
-**Explanatory Version**
-Atonement means saying "I'm sorry," and if your remorse is accepted, you can return to the group.
+If such an act is discovered, the governments of each nation must punish it strictly under the law.
 
 ---
 
-### Article 4: Condemnation - Irreversible Historical Stigma
+### **Priority between Culture/Religion and Universal Human Rights (Connection to the Ethnic Charter)**
 
-**Academic Version**
-Condemnation is the final ethical judgment passed on a subject who has committed a universal grave sin, and it is an irreversible historical stigma.
+Academic Version
 
-**Explanatory Version**
-Condemnation means being permanently recorded in history as an "absolutely unforgivable sin."
+The practices of each culture and religion shall, in principle, be respected to the fullest extent, but shall be rendered void if they conflict with universal human rights. The criterion for judgment shall be based on the "List of Prohibited Practices" attached to the THP Ethnic Charter.
 
----
+Explanatory Version
 
-### Article 5: Enforcement - E-MAD Protocol
+Diverse cultures and religions are respected.
 
-**Academic Version**
-Sanctions are automatically executed by economic means based on the E-MAD protocol.
-
-**Explanatory Version**
-Those who break the rules will be automatically punished by an economic mechanism called E-MAD.
-"If you shoot, you will be shot. If you protect, you will be saved." That is the mechanism of order.
-
----
-## **Article 6: E-Penalty - Non-Violent Order Maintenance Measures**
-
-**Academic Version**
-E-Penalty is a **micro-level order maintenance system** within THP, clearly distinguished from the atonement/condemnation framework of E-MAD.
-It applies to subjects who have violated their duty to maintain order, and the measures applied are limited to **non-violent means**.
-
-Examples of measures include:
-
--   Addition of a risk premium to financial transactions and capital costs
--   Imposition of penalties on various credit scores
--   Lowering of priority in international cooperation networks
-
-These are implemented based on the principles of **transparency, fairness, and accuracy** (where "accuracy" means the correspondence between crime and punishment), through consultations between each regional supervisor and the target country.
-
-If the deviant behavior exceeds the scope of E-Penalty, its handling is delegated to **E-MAD (National Councils of Ethics)**. THP acknowledges the existence of E-Penalty but does not directly implement it.
-
----
-# Appendix Draft Article: "What is Condemnation (The Limits of THP)"
-
-## Chapter X: Condemnation and Reality Priority Clause
-
-1.  **Fundamental Principle**
-    When humanity and reality contradict, reality is always considered correct. Theories and ideals are merely tools to assist order and are never prioritized over reality.
-
-2.  **Necessity of Application**
-    In situations of large-scale state collapse, mass outflow of economic refugees, or other events that shake the international order, it may seem that justice demands accepting everyone in accordance with humanity. However, if a single country were to "accept all" in reality, that country would immediately collapse, and the entire order would be lost. This article is established to avoid this contradiction.
-
-3.  **Definition of Condemnation**
-    Condemnation is the irreversible judgment of acts and subjects that have deviated from humanity. However, the judging party is also not permitted to deviate from humanity. The minimum exceptions to be protected, such as women, children, and the seriously ill, are always respected.
-
-4.  **Weight of Enforcement**
-    Condemnation carries extremely grave meaning, and its arbitrary application corrupts the order itself. Therefore, the final decision for condemnation always requires the deliberation of the **Humanity Study Group** to serve as a psychological guarantee for the enforcer.
-
-5.  **Vigilance Against Moral Hazard**
-    Assuming the existence of condemnation, violators will try to exploit this exception for their survival. Since the abuse of condemnation will inevitably occur, each application will be audited and recorded to prevent recurrence.
-
-6.  **Positioning as a Limit of THP**
-    This article was not established to transcend humanity, but as a limiting provision to protect it. We are not representatives of humanity, but merely observers and recorders for the maintenance of order. Therefore, the articles presented here are recorded at the end of the Ethics Charter and E-MAD materials as proof of the **"limits of order that humanity can achieve."**
-
+However, if they contradict the universal human rights that define "what is absolutely unacceptable for a human being," then human rights take precedence over the rules of that culture or religion.
 
 ---
 
-**Explanatory Version**
-E-Penalty is a "punishment for rule violations," but **it does not use violence**.
-All it can do is increase risks or lower credit.
+### **Articles**
 
-For example:
+#### **Article 1: Fundamental Principle – Affirmation of Life and the Primacy of Order**
 
--   The cost of borrowing money increases (risk premium)
--   Credit scores go down
--   Being put at the back of the line in international cooperation
+Academic Version
 
-These are "economic and social disadvantages."
+The dignity of life is an absolute value, but its rights are predicated on the maintenance of the order that guarantees them.
 
-If the violation escalates to something more serious (violence or severe destruction), E-MAD (the National Councils of Ethics) will make the judgment, and THP will not intervene.
+Explanatory Version
+
+Everyone's life is precious. However, that life and its rights are protected only upon the foundation of "order."
+
+#### **Article 2: Definition of Transgression – The Destruction of Order and Defiance of Jinrin**
+
+Academic Version
+
+A transgression is limited to two acts: (1) an act that intentionally destroys the framework for maintaining order, and (2) an act contrary to Jinrin.
+
+Explanatory Version
+
+Only two things constitute a transgression:
+
+- Intentionally breaking the system that allows everyone to live in peace.
+    
+- Crossing the line of what is absolutely unacceptable for a human being.
+    
+
+#### **Article 3: Atonement – Re-entry into the International Community**
+
+Academic Version
+
+Atonement is the process by which an entity is permitted to re-enter the international community, on the condition that it has fully discharged its responsibility for the transgression committed and that a framework for preventing recurrence has been established.
+
+Explanatory Version
+
+Atonement is the procedure through which one can rejoin the community after saying "I'm sorry," making full amends, and having a system in place that is recognized to ensure "it will never happen again."
+
+#### **Article 4: Condemnation – The Irreversible Historical Mark**
+
+Academic Version
+
+Condemnation is the final and irreversible ethical judgment rendered in the name of humanity upon an entity that has committed a universal high crime, and it is a historical mark.
+
+Explanatory Version
+
+Condemnation means that the fact of being one who has committed an "unforgivable transgression" is permanently etched into history.
+
+#### **Article 5: Enforcement – The E-MAD Protocol**
+
+Academic Version
+
+Sanctions associated with Condemnation and Atonement shall be automatically enforced, primarily through economic means, based on the E-MAD (Economically-Assured Mutual Destruction) Protocol.
+
+Explanatory Version
+
+Those who break the rules will be automatically punished by the economic mechanism known as E-MAD.
+
+"Strike, and you will be struck. Defend, and you will be saved." — That is the foundation of this order.
+
+#### **Article 6: E-Penalty – Non-violent Order Maintenance Measures**
+
+Academic Version
+
+The E-Penalty is a micro-level order maintenance system within THP, clearly distinguished from the Atonement/Condemnation framework of E-MAD. It applies to entities that have violated their obligation to maintain order, and the measures applied are limited to non-violent means. Examples of measures include the addition of risk premiums on financial transactions, the lowering of various credit scores, and a reduction in priority within international cooperation networks. These are implemented based on the principles of "Transparency, Fairness, and Accuracy" (where "Accuracy" refers to the balance between transgression and punishment) through consultation between each governing entity and the subject nation. Should the deviant behavior exceed the scope of the E-Penalty, its handling shall be referred to E-MAD (the National Councils of Ethics). THP acknowledges the existence of the E-Penalty but does not directly involve itself in its implementation.
+
+Explanatory Version
+
+The E-Penalty is a "small, non-violent punishment for rule-breaking."
+
+For example, it entails "economic and social disadvantages" such as making it harder to borrow money, having one's credit rating lowered, or being moved to the back of the line in international cooperation efforts.
+
+If the violation escalates to something more severe (e.g., violence or serious destruction), E-MAD (the National Councils of Ethics) will make the judgment, and THP will not intervene in that process.
+
+---
+
+### **Appendix Draft Article: "On Condemnation (The Limits of THP)"**
+
+#### **Chapter X: Condemnation and the Reality Precedence Clause**
+
+1. Fundamental Principle
+    
+    When Jinrin and reality conflict, reality is always to be deemed correct. Theories and ideals are merely tools to assist order and are never to take precedence over reality.
+    
+2. The Inevitability of Application
+    
+    In the face of large-scale state collapse, mass flows of economic refugees, or other situations that shake the international order, it may seem that the ideal of Jinrin would be to accept all. However, if a single nation were to practice "universal acceptance" in reality, that nation would instantly collapse, and the entire order would be lost. This article is established to avoid this self-destructive contradiction.
+    
+3. Definition of Condemnation
+    
+    Condemnation is the irreversible judgment of an act or entity that has deviated from Jinrin. However, the judging party is also not permitted to deviate from Jinrin. Minimal exceptions for those who must be protected, such as women, children, and the seriously ill, shall always be respected.
+    
+4. The Gravity of Enforcement
+    
+    Condemnation carries extremely grave meaning, and its arbitrary application would corrupt order itself. Therefore, the final decision for Condemnation shall always require the deliberation of the Humanity Study Group as a safeguard against the psychological burden on the enforcers.
+    
+5. Vigilance Against Moral Hazard
+    
+    It is inevitable that transgressors, on the premise that Condemnation exists, will attempt to exploit this exception clause for their own survival. As the abuse of Condemnation is unavoidably possible, all cases of its application shall be audited and recorded, and measures to prevent recurrence shall be implemented.
+    
+6. Positioning as a Limitation of THP
+    
+    This article is not established to transcend Jinrin, but rather is a limiting provision to protect Jinrin. We are not the agents of Jinrin, but merely observers and recorders for the maintenance of order. Therefore, the provisions set forth herein shall be recorded at the end of the Ethics Charter and E-MAD documents as a testament to "the limits of order that humanity can achieve."
