@@ -1,0 +1,12 @@
+{
+  "priority_order": [
+    ["LM-01"], ["LM-05"], ["LM-03"], ["LM-04"], ["LM-06"], ["LM-02"], ["LM-07"]
+  ],
+  "parallelizable_groups": [
+    ["LM-03","LM-06"], ["LM-02","LM-07"]
+  ],
+  "dependency_edges": [
+    ["LM-01","LM-05"], ["LM-03","LM-04"], ["LM-01","LM-02"], ["LM-01","LM-07"]
+  ],
+  "note": "PUBLIC view; authoritative specs reside on main (CLI outputs)."
+}
