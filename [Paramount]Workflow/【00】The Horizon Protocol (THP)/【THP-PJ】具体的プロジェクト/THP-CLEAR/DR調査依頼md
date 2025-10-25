@@ -1,0 +1,215 @@
+以下をそのままコピペして使えます。各セクションが**ファイル名＋コードブロック**になっています。（PDF指定のものは .md で作成→提出時にPDF化してください）
+
+---
+
+# `THP-CLEAR-DR/01_Core/01_CLEAR_ExecSummary_v1.0.0-rc1.md`
+
+```markdown
+---
+title: "THP-CLEAR エグゼクティブ・サマリー"
+doc_id: THP-EXEC-SUMM-v1.0.0-rc1
+status: draft
+date: 2025-10-12
+---
+
+## 1. 趣旨
+- リコー行政・金融特化LLMの実運用前提
+- **外的真実性**（公証役）としてのTHP-CLEAR位置付け
+- **E-20限定監査**・暗号資産の投機領域は対象外
+
+## 2. 要約（箇条書き）
+- 監査対象: E-20（ERC-20互換ステーブル）限定
+- 物理構成: ミニPC ~100台/国（“壊れたら交換”原則）
+- セキュリティ: mTLS / 2-of-3 署名束 / ISE+AES / 10分鍵ローテ / Prometheus
+- 目的: 国家信認アーキテクチャとしての透明監査（Witness-Only）
+
+## 3. 次アクション
+- `make itest` → v1.0.0 リリースタグ
+- リコーAI 承認ログハッシュ → Witness 同期 PoC
+- 国際標準化ドラフト（API/ログ仕様）
+```
+
+---
+
+# `THP-CLEAR-DR/01_Core/02_Aftermath_Excerpts_EJPF-JPYPar_Witness-ShadowUSD.md`（提出時PDF化）
+
+```markdown
+---
+title: "Aftermath 抜粋：E-JPF / JPY-Parities / Witness-Only / Shadow-USD"
+status: draft
+---
+
+## 1) E-JPF（緊急円建て給与ファシリティ）
+- 用途限定バウチャー（MCC制御）
+- 清算: 円建 / 政府間差額決済
+
+## 2) JPY-Parities（臨時Fix）
+- JG-Par（金）, JS-Par（銀）, JOIL-Par（原油）, JGR-Par（穀物）, JWA-Par（水）
+
+## 3) Witness-Only（公開監査）
+- 取引/承認ログのハッシュ公開
+- チェーン・オブ・カストディ明示
+
+## 4) Shadow-USD禁止条項
+- 円建決済の即時ドル両替・ドルヘッジの**契約禁止**
+- 違反時クローバック
+```
+
+---
+
+# `THP-CLEAR-DR/01_Core/03_OpsKPI_v2.4.md`
+
+```markdown
+---
+title: "Ops-KPI ダッシュボード要件 v2.4"
+status: draft
+---
+
+## 1. Gate定義
+- Gate-A（情報）：軽微異常
+- Gate-B（警戒）：継続/拡大の兆候
+- Gate-C（重大）：業務影響
+- Gate-D（DEATH/TERMINAL）：復旧不可→Aftermathへ転移
+
+## 2. 主要KPI（例）
+- TPS（avg/peak, P50/P95）
+- レイテンシ（RPC, 検証, 署名束）
+- 失敗率/再試行率
+- 鍵ローテ成功率
+- Witness書込遅延
+- ノード稼働率/MTTR
+
+## 3. アラート閾値（雛形）
+- P95レイテンシ > 800ms（X分連続）→ Gate-B
+- 失敗率 > 0.5%（Y分連続）→ Gate-B
+- Witness遅延 > 5分（Z分連続）→ Gate-C
+- ノード稼働率 < 60%（W分）→ Gate-C
+- 連鎖障害/回復不能 → Gate-D
+```
+
+---
+
+# `THP-CLEAR-DR/02_Standards/01_Ethics_Charter.md`
+
+```markdown
+# 参照：THP-2 倫理憲章（抜粋要点）
+- 最上位理念：透明・公平・正確
+- 贖罪/断罪の区別
+- 「理論より現実」の優先（現実優先条項）
+```
+
+---
+
+# `THP-CLEAR-DR/02_Standards/02_EMAD_Background.md`
+
+```markdown
+# 参照：E-MAD 背景と目的（要点）
+- 負の外部性を可視化する評価フレーム
+- 客観損害（F）と文脈修正（M_intent, M_scale）の分離
+```
+
+---
+
+# `THP-CLEAR-DR/02_Standards/03_EMAD_Formula.md`
+
+```markdown
+# 参照：E-MAD 算定式（雛形）
+- Master: E-MAD = F × M_intent × M_scale
+- カテゴリ: HUM / ENV / GOV（重み付）
+- 監査ログ→E-MAD指標マッピングの方針のみ記載
+```
+
+---
+
+# `THP-CLEAR-DR/02_Standards/04_Lexicon.md`
+
+```markdown
+# 参照：THP 用語辞書（最低限）
+- 人倫 / 秩序 / 贖罪 / 断罪
+- Witness-Only / Gate-D / Shadow-USD ほか
+```
+
+---
+
+# `THP-CLEAR-DR/02_Standards/05_Appendix_Principles.md`
+
+```markdown
+# 参照：Appendix（第一原理）
+- 「理論と現実が矛盾する時、常に誤りは理論」
+- 思考の公理（LSC-OS）要点のみ列挙
+```
+
+---
+
+# `THP-CLEAR-DR/03_Samples/01_witness_sample_day.jsonl`
+
+```json
+{"tx_hash":"0xaaa...", "chain_id":"1", "token_contract":"0xUSDC...", "amount":"125.40", "merchant_mcc":"5411", "approval_bundle":"0xBUNDLEHASH...", "witness_ts":"2025-10-12T09:01:02Z", "node_id":"node-01"}
+{"tx_hash":"0xbbb...", "chain_id":"137", "token_contract":"0xJPYC...", "amount":"980.00", "merchant_mcc":"5541", "approval_bundle":"0xBUNDLEHASH...", "witness_ts":"2025-10-12T09:03:22Z", "node_id":"node-07"}
+{"tx_hash":"0xccc...", "chain_id":"42161", "token_contract":"0xUSDT...", "amount":"42.00", "merchant_mcc":"5912", "approval_bundle":"0xBUNDLEHASH...", "witness_ts":"2025-10-12T09:05:59Z", "node_id":"node-15"}
+```
+
+---
+
+# `THP-CLEAR-DR/03_Samples/02_sigbundle_example.json`
+
+```json
+{
+  "doc_hash": "0xDOC...HASH",
+  "epoch": "2025-10-12T09:00:00Z",
+  "pubkeys": [
+    "0xPUB_A...", "0xPUB_B...", "0xPUB_C..."
+  ],
+  "sig_A": "0xSIG_A...",
+  "sig_B": "0xSIG_B..."
+}
+```
+
+---
+
+# `THP-CLEAR-DR/03_Samples/03_key_rotation_epoch_sample.jsonl`
+
+```json
+{"epoch":"2025-10-12T09:00:00Z","key_id":"K-20251012-0900","prev_key_id":"K-20251012-0850","rollover_ts":"2025-10-12T09:00:05Z","grace":"E-1"}
+{"epoch":"2025-10-12T09:10:00Z","key_id":"K-20251012-0910","prev_key_id":"K-20251012-0900","rollover_ts":"2025-10-12T09:10:05Z","grace":"E-1"}
+```
+
+---
+
+# `THP-CLEAR-DR/03_Samples/04_e20_targets.csv`
+
+```csv
+chain,token_symbol,contract_addr,decimals,oracle_ref
+1,USDC,0xUSDC...,6,coingecko:usd-coin
+137,JPYC,0xJPYC...,18,issuer:JPYC
+42161,USDT,0xUSDT...,6,coingecko:tether
+```
+
+---
+
+# `THP-CLEAR-DR/04_Assumptions/01_load_profile_LMH.md`（提出時PDF化）
+
+```markdown
+---
+title: "負荷前提（L/M/H）"
+status: draft
+---
+
+## 1. トラフィック想定
+- **L**: 10^6 件/日（peak係数 3.0）
+- **M**: 10^8 件/日（peak係数 3.5）
+- **H**: 10^9 件/日（peak係数 4.0）
+
+## 2. 性能目標
+- P95 レイテンシ（監査パス）: L=300ms / M=600ms / H=800ms
+- 失敗率（監査書込/検証）: <0.5%（各レベル）
+
+## 3. 運用前提
+- 監査対象：**E-20限定（ERC-20互換ステーブル）**
+- 鍵ローテ：10分エポック / E-1グレース
+- 署名束：2-of-3（復旧SOP別紙）
+```
+
+---
+
+必要に応じて、任意箇所の見出しだけ差し替えてお使いください。

@@ -1,0 +1,6 @@
+pdf-engine: xelatex
+variables:
+  mainfont: "Noto Sans JP"
+  sansfont: "Noto Sans JP"
+  monofont: "Noto Sans Mono"
+  CJKmainfont: "Noto Sans JP"
