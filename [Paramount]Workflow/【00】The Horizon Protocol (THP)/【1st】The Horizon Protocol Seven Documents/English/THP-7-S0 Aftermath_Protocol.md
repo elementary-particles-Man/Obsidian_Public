@@ -2,104 +2,98 @@
 
 ## 1. Activation Conditions
 
-This protocol is activated immediately and automatically when **Gate-D (DEATH / TERMINAL)** is declared on the `THP-7 Ops-KPI Dashboard`. This means that "recovery" of the existing system is impossible, and all resources will be shifted to "establishing a new, separate system."
+This protocol is activated immediately and automatically when **Gate-D (DEATH / TERMINAL)** is declared in the `THP-7 Ops-KPI Dashboard`. This signifies that the "restoration" of existing systems has become impossible, and all resources are to be shifted to the "establishment of a separate new system."
 
-## 2. Operational Packages
+## 2. Operational Package
 
 ### A) Emergency JPY Payroll Facility (E-JPF)
 
-- **Objective:** To guarantee the salary payments of personnel responsible for infrastructure essential for the maintenance of civilization, such as electricity, water, medical care, communications, and food supply, and to prevent a complete shutdown of Grid Management (GM).
-    
-- **Design:**
-    
-    1. **Unit of Claim:** All claims shall be denominated in **Japanese Yen (JPY)** as the numeraire. To stabilize its value, gold will be used as an anchor asset, and a discipline band (e.g., 20–30% Gold / 70–80% JPY) will be established.
-        
-    2. **Payment Methods:**
-        
-        - **JPY Vouchers:** Use-restricted type that can only be used to purchase lifeline goods (food, fuel, etc.).
-            
-        - **Mobile QR Payments:** A QR code payment system that can be used even offline.
-            
-        - **Paper Vouchers:** A backup in case the digital infrastructure fails.
-            
-    3. **Settlement:** Payments to goods suppliers will be settled based on the **JPY-Parities** described below. If the banking system becomes dysfunctional, settlement will be guaranteed through intergovernmental clearing via the JIMS corridor (Japan–India–Malaysia–Singapore).
-        
-    4. **Control and Audit:** Use is strictly limited by MCC (Merchant Category Code) control. Identity verification will comply with the WAU/KAIRO-P protocol, and all transactions will be auditable on a public ledger (Witness-Only).
-        
-- **Duration:** This is a provisional measure for up to **T+90 days** after activation. Extension will be at the discretion of THP Command.
-    
+-   **Purpose:** To guarantee salary payments for personnel essential for maintaining civilization, such as those in power, water, medical, communication, and food supply infrastructure, and to prevent the complete shutdown of grid management (GM).
 
-### B) Publication of JPY-Parities (Provisional Fix)
+-   **Design:**
 
-- **Objective:** To reset the anchor of the international price system and prevent a regression to barter in the midst of the chaos of the collapse of the US dollar as a unit of account. This is not to control prices, but to provide a **coordinate** for accounting and settlement.
-    
-- **Content:** The following provisional fixed prices (Parity) in Japanese Yen for major goods and assets will be published.
-    
-    - **JG-Par:** JPY/Gold
-        
-    - **JS-Par:** JPY/Silver
-        
-    - **JOIL-Par:** JPY/WTI (Crude Oil)
-        
-    - **JGR-Par:** JPY/Grain (Major Grain Basket)
-        
-    - **JWA-Par:** JPY/Water (Desalination and Transportation Cost Basis)
-        
+    1.  **Unit of Claim:** All claims shall be denominated in **Japanese Yen (JPY)** as the numeraire. To stabilize value, gold shall be used as an anchor asset, and a disciplinary band (e.g., 20–30% Gold / 70–80% JPY) shall be set.
+
+    2.  **Payment Methods:**
+
+        -   **JPY Voucher:** Use-limited type, usable only for purchasing lifeline goods (food, fuel, etc.).
+
+        -   **Mobile QR Payment:** QR code payment system usable offline.
+
+        -   **Paper Certificates:** Backup in case digital infrastructure fails.
+
+    3.  **Clearing:** Payments to material suppliers shall be settled based on the **JPY-Parities** described below. If the banking system fails, settlement shall be guaranteed through intergovernmental clearing via the JIMS Corridor (Japan–India–Malaysia–Singapore).
+
+    4.  **Control and Audit:** Use is strictly limited by MCC (Merchant Category Code) control. Identity verification shall comply with WAU/KAIRO-P protocols, and all transactions shall be auditable on a public ledger (Witness-Only).
+
+-   **Term:** Provisional measure until **T+90 days** after activation. Extension shall be at the discretion of THP Command.
+
+### B) Publication of JPY-Parities (Temporary Fix)
+
+-   **Purpose:** To re-establish an anchor for the international pricing system amidst the collapse of the US dollar as a numeraire, and to prevent a regression to bartering. This is not about controlling prices, but about providing **coordinates** for accounting and clearing.
+
+-   **Content:** Temporary fixed prices (Parity) in Japanese Yen shall be published for the following key goods and assets:
+
+    -   **JG-Par:** JPY/Gold
+
+    -   **JS-Par:** JPY/Silver
+
+    -   **JOIL-Par:** JPY/WTI (Crude Oil)
+
+    -   **JGR-Par:** JPY/Grain (Major Grain Basket)
+
+    -   **JWA-Par:** JPY/Water (Desalination/Transportation Cost Standard)
 
 ### C) L/C Government Guarantee + Reinsurance Pool
 
-- **Objective:** To unfreeze international trade finance and resume the international transport of lifeline resources.
-    
-- **Operation:**
-    
-    1. **Scope:** Limited to items related to the four sectors of water, medical care, electricity, and food.
-        
-    2. **Guarantee:** The Japanese government will 100% guarantee letters of credit (L/C) by making maximum use of the existing legal authority of MOF/JBIC/JICA.
-        
-    3. **Reinsurance:** A reinsurance pool will be created, starting with Japan and in coordination with India and Singapore, to cover the risks of war and political upheaval.
-        
-    4. **Settlement:** All settlements will be made in yen, and net settlements will be made between governments through the JIMS corridor. The contract terms will explicitly prohibit **pseudo-dollarization (exchange to dollars immediately after the transaction)**.
-        
+-   **Purpose:** To unfreeze international trade finance and resume international transportation of lifeline resources.
+
+-   **Operation:**
+
+    1.  **Scope:** Limited to items related to the four sectors of water, medical care, electricity, and food.
+
+    2.  **Guarantee:** The Japanese government shall 100% guarantee Letters of Credit (L/C) by maximizing the use of existing legal authorities of MOF/JBIC/JICA.
+
+    3.  **Reinsurance:** A reinsurance pool covering war and political change risks shall be established, starting from Japan, in cooperation with India and Singapore.
+
+    4.  **Clearing:** All settlements shall be in JPY, and net settlement shall be conducted between governments through the JIMS Corridor. Contract clauses shall explicitly prohibit **pseudo-dollarization (immediate exchange to dollars after transaction).**
 
 ### D) Grid Blackstart Shield
 
-- **Objective:** To prevent the collapse of the **"recovery system"** itself, which is involved in the restoration and maintenance of the grid (power grid).
-    
-- **Operation:**
-    
-    1. **Protection of Minimum Personnel:** The minimum number of personnel required to maintain and restart the power system will be listed as a "black frame," and their salary payments will be guaranteed with the highest priority by the E-JPF.
-        
-    2. **Securing Fuel Corridors:** Fuel transport routes to power plants will be designated as "humanitarian corridors," and escort by the UN-PDF and top priority treatment in customs procedures will be guaranteed.
-        
-    3. **Redundancy of Communications:** To maintain the command and control system, redundancy of communication means such as radio, satellite, and emergency power supplies will be secured.
-        
+-   **Purpose:** To prevent the **collapse of the "restoration system" itself** related to the recovery and maintenance of the grid (power network).
+
+-   **Operation:**
+
+    1.  **Protection of Minimum Personnel:** A list of minimum personnel required for maintaining and restarting the power system shall be designated as "black box" personnel, and salary payments through E-JPF shall be guaranteed with the highest priority.
+
+    2.  **Securing Fuel Corridors:** Fuel transportation routes to power plants shall be designated as "humanitarian corridors," and escort by UN-PDF and highest priority for customs clearance processes shall be guaranteed.
+
+    3.  **Communication Redundancy:** To maintain the command system, redundancy of communication means such as radio, satellite, and emergency power shall be ensured.
 
 ## 3. Narrative and Compliance
 
-### A) Basic Message (for internal and external audiences)
+### A) Basic Message (Internal and External)
 
-1. **"The unit of account is the yen, the corridor of life is public"** — We will not aim for new hegemony, but will build the trust of the international community through auditable transparency.
-    
-2. **"Support the city, not the regime"** — Support will be limited to infrastructure maintenance personnel, and the diversion to military and security agencies will be prevented by use-restricted vouchers.
-    
-3. **"Time-limited, quantity-limited, log-public"** — All interventions are provisional, and politicization will be avoided through Witness-Only public audits.
-    
+1.  **"The numeraire is JPY, the lifeline corridor is public"** — Building trust in the international community through auditable transparency, not aiming for new hegemony.
 
-### B) Prohibitory and Deterrent Clauses (Contract Compliance)
+2.  **"Supporting cities, not regimes"** — Aid is limited to infrastructure maintenance personnel, and diversion to military/security agencies is prevented by use-limited vouchers.
 
-- **Shadow-USD Clause:** The contract prohibits the immediate exchange of yen-denominated settlements for dollars or dollar-denominated hedges. If a violation is discovered, a full clawback (claim for refund) of the guaranteed funds will be made.
-    
-- **Non-Military Use Clause:** The supplied goods will be sworn to be used only for civilian purposes, and consent will be given to unannounced on-site audits.
-    
-- **Public Audit Clause:** All transaction logs will be made public in principle, after hashing personal information.
-    
+3.  **"Time-limited, quantity-limited, log-public"** — All interventions are provisional, and politicization is avoided by Witness-Only public audits.
+
+### B) Prohibited/Deterrent Clauses (Contract Compliance)
+
+-   **Shadow-USD Clause:** Prohibits immediate dollar exchange or dollar-denominated hedging of JPY-denominated settlements by contract. If a violation is discovered, full clawback (claim for return) of guaranteed funds shall be exercised.
+
+-   **Non-Military Use Clause:** Requires an oath that supplied goods shall be used only for civilian purposes, and consent to unannounced on-site audits.
+
+-   **Public Audit Clause:** All transaction logs shall be made public in principle, after hashing personal information.
 
 ## 4. Timeline (T-0 to T+90)
 
-- **T-0 to +72h:** Gate-D determination. Publication of the provisional fix for JPY-Parities. E-JPF will be launched in the five leading industries (electricity, water, medical care, communications, and food).
-    
-- **T+7d:** The L/C government guarantee + reinsurance pool will be fully operational. Escort of fuel corridors will begin.
-    
-- **T+14d:** Introduction of the EUR-R⇄JPY snap lock. Settlement fluctuations with the remaining functions of the Eurozone will be suppressed by setting a time window.
-    
-- **T+30 to 90d:** Clearing bridges with ASEAN, India (INR), and Brazil (BRL) will be connected in stages. The Gold-JPY discipline band (equivalent to a reserve ratio of 20-30%) will be officially announced.
+-   **T-0 to +72h:** Gate-D judgment. Publication of temporary JPY-Parities fix. E-JPF launched for the top 5 industries (power, water, medical, communication, food).
+
+-   **T+7d:** L/C government guarantee + reinsurance pool fully operational. Escort of fuel corridors begins.
+
+-   **T+14d:** Introduction of EUR-R ⇄ JPY snap lock. Settlement fluctuations with remaining functions in the Eurozone are suppressed by setting time windows.
+
+-   **T+30 to 90d:** Phased connection of clearing bridges with ASEAN, India (INR), and Brazil (BRL). Formal announcement of Gold-JPY disciplinary band (equivalent to 20-30% reserve ratio).
