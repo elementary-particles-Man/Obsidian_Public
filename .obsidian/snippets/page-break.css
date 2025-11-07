@@ -1,0 +1,6 @@
+/* page-break.css */
+@media print {
+  .page-break {
+    page-break-after: always;
+  }
+}
