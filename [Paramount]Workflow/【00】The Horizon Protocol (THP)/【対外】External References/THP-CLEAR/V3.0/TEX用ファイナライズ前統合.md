@@ -457,17 +457,17 @@ THP-CLEAR システムにおけるデータ保全の最終防衛層（DB-E）7�
 
 ### 1. DB-E ハードウェア構成（1台あたり）
 
-|**区分**|**構成内容**|**備考**|
-|---|---|---|
-|**本体**|HP Z8 G5 Workstation|ECC DDR5対応、冗長電源（ホットスワップ）|
-|**CPU**|Intel Xeon W7-3475X (20C/28T)|ECC（エラー訂正）対応、長期供給保証|
-|**メモリ**|ECC DDR5 256 GB|ZFS ARC キャッシュおよび圧縮前処理用|
-|**主ストレージ**|22 TB HDD × 8 (ZFS-z2)|実効容量 約132 TB（同等品（エンタープライズHDD、ZFS-z2適合））|
-|**キャッシュ**|NVMe 2 TB × 2 (RAID1)|L2ARC（リード）＋ ZIL/SLOG（ライト）専用|
-|**システム**|NVMe 2 TB × 1|OS (Debian 12) / CSI / KMS 領域|
-|**ネットワーク**|Intel X710-DA2 (10 GbE × 2)|専用監視ポートおよびデータ系ポートの物理分離|
-|**電源**|APC Smart-UPS 1500 RM|冗長給電、SNMP監視、自動停止連携|
-|**OS**|Debian 12 (ZFS on Linux)|Kernel 5.10 LTS 固定、HP署名パッケージ以外禁止|
+| **区分**     | **構成内容**                      | **備考**                                  |
+| ---------- | ----------------------------- | --------------------------------------- |
+| **本体**     | HP Z8 G5 Workstation          | ECC DDR5対応、冗長電源（ホットスワップ）                |
+| **CPU**    | Intel Xeon W7-3475X (20C/28T) | ECC（エラー訂正）対応、長期供給保証                     |
+| **メモリ**    | ECC DDR5 256 GB               | ZFS ARC キャッシュおよび圧縮前処理用                  |
+| **主ストレージ** | 22 TB HDD × 8 (ZFS-z2)        | 実効容量 約132 TB（同等品（エンタープライズHDD、ZFS-z2適合）） |
+| **キャッシュ**  | NVMe 2 TB × 2 (RAID1)         | L2ARC（リード）＋ ZIL/SLOG（ライト）専用             |
+| **システム**   | NVMe 2 TB × 1                 | OS (Debian 12) / CSI / KMS 領域           |
+| **ネットワーク** | Intel X710-DA2 (10 GbE × 2)   | 専用監視ポートおよびデータ系ポートの物理分離                  |
+| **電源**     | APC Smart-UPS 1500 RM         | 冗長給電、SNMP監視、自動停止連携                      |
+| **OS**     | Debian 12 (ZFS on Linux)      | Kernel 5.10 LTS 固定、HP署名パッケージ以外禁止        |
 <div class="page-break"></div>
 
 ### 2. DB-E 特別セキュリティ要求（抜粋）
