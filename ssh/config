@@ -1,0 +1,7 @@
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ${USB_ROOT}/ssh/id_ed25519
+    IdentitiesOnly yes
+    AddKeysToAgent yes
+    StrictModes no
