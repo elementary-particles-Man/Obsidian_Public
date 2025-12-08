@@ -1,13 +1,14 @@
 # 01. Framework and Definitions
 
-**Draft - For conceptual refinement.**
+This chapter defines key terms in the GSSH model.
 
-## 1.1 Core Hypothesis
-GSSH proposes that global stagnation emerges from interlocking structural constraints whose interactions produce systemic immobility.
+## Definitions
+- **Systemic Constraint Layer**: A category of macro-level forces that restrict economic responsiveness.
+- **Structural Stagnation**: A state in which long-term growth potential erodes due to persistent constraints.
+- **Feedback Loop**: A closed causal cycle reinforcing stagnation.
 
-## 1.2 Definitions
-- **Systemic Stagnation:** A condition in which multiple macro variables lose responsiveness simultaneously.
-- **Constraint Layer:** Monetary, demographic, technological, and geopolitical subsystems.
-
-## 1.3 Scope Limitations
-This is a working definition, subject to extension and formal mathematical expression.
+## Layer Overview
+1. Monetary Layer – fiat rigidity, policy exhaustion.
+2. Demographic Layer – aging population, fertility collapse.
+3. Technological Layer – asymmetric AI productivity.
+4. Geopolitical Layer – fragmentation and bloc competition.

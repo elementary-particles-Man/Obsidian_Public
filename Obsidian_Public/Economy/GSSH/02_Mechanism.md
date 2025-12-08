@@ -1,13 +1,12 @@
-# 02. Mechanism of Systemic Stagnation
+# 02. Mechanism of Global Systemic Stagnation
 
-**Draft**
+GSSH describes how multiple constraints produce a global stagnation cycle.
 
-## 2.1 Layer Interaction
-Systemic stagnation arises when:
-- Liquidity injections no longer stimulate demand.
-- Demographics constrain labor supply elasticity.
-- Technological productivity gains become capital-concentrated.
-- Geopolitical fragmentation limits trade mobility.
+A. Declining monetary stimulus → weak demand response.
+B. Demand stagnation → low productivity growth.
+C. Low productivity → weak investment.
+D. Weak investment + AI asymmetry → capital concentration.
+E. Concentration → political instability.
+F. Instability → weaker monetary transmission.
 
-## 2.2 Flow Diagram (to be added)
-`[Placeholder for system map diagram]`
+The reinforcing feedback loop is diagrammed in `02_Figures/Feedback_Loop.mmd`.

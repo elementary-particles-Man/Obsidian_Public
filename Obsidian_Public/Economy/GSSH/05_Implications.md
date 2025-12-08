@@ -1,10 +1,10 @@
-# 05. Implications for Policy and Theory
+# 05. Policy Implications
 
-**Draft**
+GSSH suggests the following principles:
 
-## 5.1 Policy Implications
-- Conventional Keynesian and Monetarist tools lose effectiveness.
-- New transparency frameworks (e.g., Fiat-U) become necessary.
+1. Monetary policy alone cannot restore growth.
+2. Demographic recovery requires multi-decade interventions.
+3. AI productivity must be redistributed through structural mechanisms.
+4. Geopolitical stability is required to unlock global supply efficiencies.
 
-## 5.2 Theoretical Implications
-- Macro models must incorporate constraint-layer interaction.
+Fiat-U appears as a transparency-based complement to existing monetary frameworks.

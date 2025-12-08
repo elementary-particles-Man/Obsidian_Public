@@ -1,12 +1,7 @@
 # 04. Comparative Cases
 
-**Draft**
-
-## 4.1 Japan (1990–2025)
-Prototype of demographic stagnation under fiat monetary expansion.
-
-## 4.2 EU (2008–2025)
-Fragmentation under post-sovereign monetary constraints.
-
-## 4.3 China (2010–2025)
-Debt-driven growth exhaustion leading to simultaneous internal and external stagnation.
+Historical analogues considered:
+- 1970s stagflation (monetary constraint dominance)
+- Japan 1990–2020 (demographic dominance)
+- Dot-com 2000–2002 (tech asymmetry without demographic/monetary lock)
+- Post–Cold War Fragmentation 2016–2025 (geopolitical dominance)

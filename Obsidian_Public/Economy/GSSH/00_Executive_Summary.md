@@ -1,15 +1,15 @@
 # Global Systemic Stagnation Hypothesis (GSSH)
 
-**Status:** Draft Working Paper (Not a completed framework)
+**Draft Working Paper — This document is a preliminary framework, not a completed theory.**
 
-This document provides a distilled overview of the GSSH concept.
+## Executive Summary
+Global Systemic Stagnation Hypothesis (GSSH) proposes that the world economy has entered a structurally stagnant phase driven by the interaction of four major constraints:
 
-## Purpose
-To present the core hypothesis explaining the global synchronization of stagnation across advanced and emerging economies.
+1. **Monetary constraint** — diminishing effectiveness of fiat monetary stimulus.
+2. **Demographic constraint** — aging populations and declining fertility reducing long-term growth potential.
+3. **Technological constraint** — AI-driven capital concentration producing asymmetric productivity benefits.
+4. **Geopolitical constraint** — fragmentation, sanctions, and supply-chain bifurcation.
 
-## Key Statements
-- GSSH is not a predictive model but a structural lens.
-- It identifies systemic stagnation emerging from monetary, demographic, technological, and geopolitical convergence.
+These layers interact to create a persistent negative feedback loop that suppresses productivity, investment, and political stability.
 
-## Next Steps
-See full sections in 01–07 for detailed formulation.
+A full conceptual map is available in `02_Figures/Layer_Interaction.mmd`.
