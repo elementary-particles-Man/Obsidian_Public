@@ -1,0 +1,52 @@
+\contentsline {section}{\numberline {1}Executive Summary}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Purpose}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Key Findings}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Implementation Vision}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Global Systemic Stagnation Hypothesis (GSSH)}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Definition}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mechanism}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Indicators and Signals}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Comparative Cases}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Reference Diagram}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Fiat Misinterpretations and MMT Fallacies}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Structural Misunderstandings}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}MMT: Descriptive Strength, Policy Exposure}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}ITIF Response}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Comparison Table}{7}{subsection.3.4}%
+\contentsline {section}{\numberline {4}International Transparency-Indexed Fiat Framework (ITIF)}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Purpose and Scope}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Core Design}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Governance and Safeguards}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Roadmap (Condensed)}{8}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Reference Diagrams}{8}{subsection.4.5}%
+\contentsline {section}{\numberline {5}GSSH \textrightarrow {} ITIF Crosswalk}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Structural Mapping}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Transition Logic}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Indicators}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Reference Diagram}{9}{subsection.5.4}%
+\contentsline {section}{\numberline {6}UBI-T: Transparency-Indexed Income Stabilizer}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Purpose}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Scope and Eligibility}{10}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Funding and Adjustment}{10}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Anti-Fraud (Non-Technical)}{10}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Reporting}{10}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Integration with CLEAR}{10}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Phased Deployment}{10}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Reference Diagram}{10}{subsection.6.8}%
+\contentsline {section}{\numberline {7}CLEAR: Non-Intrusive Verification Layer}{11}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Principles}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Authority Model}{11}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Transparency Sync Protocol}{11}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Interface with ITIF}{11}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Reference Diagram}{11}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Ultimate: Theoretical Post-Fiat Coherence}{11}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Concept}{11}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Preconditions}{12}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Formal Sketch}{12}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Transition Path}{12}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Reference Diagram}{12}{subsection.8.5}%
+\contentsline {section}{\numberline {9}Annex}{12}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Pilot State Rationale (Japan)}{12}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Roadmap Snapshot}{13}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Data Artifacts}{13}{subsection.9.3}%
+\contentsline {section}{\numberline {10}References}{13}{section.10}%
