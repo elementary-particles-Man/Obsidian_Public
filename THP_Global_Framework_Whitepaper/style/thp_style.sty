@@ -1,0 +1,57 @@
+\ProvidesPackage{thp_style}[2025/01/01 THP Global Framework Whitepaper]
+
+%% Core packages
+\RequirePackage{geometry}
+\RequirePackage{hyperref}
+\RequirePackage{graphicx}
+\RequirePackage{xcolor}
+\RequirePackage{fontspec}
+\RequirePackage{setspace}
+\RequirePackage{titlesec}
+\RequirePackage{tocloft}
+\RequirePackage{float}
+\RequirePackage{booktabs}
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+
+%% Page layout
+\geometry{a4paper, margin=25mm}
+\setstretch{1.2}
+
+%% Fonts (XeLaTeX) -- use fonts available in this environment
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}
+\newfontfamily\japanesefont{Noto Serif CJK JP}
+\newfontfamily\japanesefontsf{Noto Sans CJK JP}
+
+%% Colors
+\definecolor{thpblue}{RGB}{24,74,145}
+\definecolor{thpgray}{RGB}{80,80,80}
+
+%% Hyperref setup
+\hypersetup{
+  colorlinks=true,
+  linkcolor=thpblue,
+  citecolor=thpblue,
+  urlcolor=thpblue,
+  pdftitle={THP Global Framework Whitepaper},
+  pdfauthor={THP Working Group}
+}
+
+%% Section formatting
+\titleformat{\section}{\large\bfseries\color{thpblue}}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries\color{thpgray}}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+%% TOC formatting
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+%% Figure placeholder helper
+\newcommand{\placeholderfigure}[2]{% filename, caption
+  \begin{figure}[H]
+    \centering
+    \fbox{\parbox{0.9\linewidth}{\centering Placeholder for #1}}
+    \caption{#2}
+  \end{figure}
+}
